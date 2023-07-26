@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"type":"file","file":"Permanent/Projects/PKC Kernel/Voter.md","id":"a9ae02edd3c073e0","x":128,"y":140,"width":400,"height":400},
+		{"type":"file","file":"Permanent/Projects/PKC Kernel/Blockchain.md","id":"33fb34794b98c9e2","x":-300,"y":-420,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"df34965ddff2f6b1","fromNode":"33fb34794b98c9e2","fromSide":"right","toNode":"a9ae02edd3c073e0","toSide":"left"}
+	]
+}

@@ -1,0 +1,1 @@
+This is a video that showed with exhaustive process to eliminate scenarios for when and where certain symbols can or cannot be composed into other symbols.

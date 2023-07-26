@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"5e2109b38bc916bc","x":-180,"y":-360,"width":250,"height":60,"type":"text","text":"REPL"},
+		{"id":"e9f8b2fda85113d7","x":-520,"y":-220,"width":250,"height":60,"type":"text","text":"Snippet Completion"},
+		{"id":"e1a639eff94b8c5b","x":-70,"y":-209,"width":250,"height":60,"type":"text","text":"Snippet Execution"}
+	],
+	"edges":[]
+}

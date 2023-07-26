@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"type":"text","text":"asdfdsaf dasasdf ","id":"cd7c558bb6f5d5af","x":200,"y":240,"width":250,"height":50},
+		{"type":"text","text":"This is a card. #SOMETAGS","id":"a4d4ae00027ce7ee","x":-360,"y":230,"width":250,"height":60,"color":"3"},
+		{"type":"file","file":"Fleeting/Initial Note.md","id":"8ae64d0f612715b2","x":159,"y":-430,"width":400,"height":400},
+		{"type":"text","text":"fdas","id":"d6993a515a5eaf87","x":-820,"y":120,"width":250,"height":50},
+		{"type":"text","text":"fdshgd","id":"c198957dd4290034","x":-545,"y":-30,"width":250,"height":60},
+		{"type":"file","file":"Hub/ExcaliBrain/excalibrain.md","id":"fc917b5220d2ff40","x":-870,"y":-320,"width":300,"height":180},
+		{"type":"link","url":"https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","id":"6732e709a5e45a80","x":640,"y":-30,"width":230,"height":120},
+		{"type":"text","text":"AAAAAAAAAAAAAAAA","id":"4aa7055b93cd6bf1","x":-420,"y":-600,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"b3163fbea5305d63","fromNode":"a4d4ae00027ce7ee","fromSide":"top","toNode":"4aa7055b93cd6bf1","toSide":"bottom","label":"RELATION NAME #withlabel"},
+		{"id":"265973883e878c1d","fromNode":"4aa7055b93cd6bf1","fromSide":"right","toNode":"8ae64d0f612715b2","toSide":"left","label":"#a ANOTHER NAME"},
+		{"id":"445c24d5f91a600e","fromNode":"d6993a515a5eaf87","fromSide":"left","toNode":"fc917b5220d2ff40","toSide":"left"},
+		{"id":"31d2d5f551a6c7d5","fromNode":"fc917b5220d2ff40","fromSide":"top","toNode":"4aa7055b93cd6bf1","toSide":"left"},
+		{"id":"31afe702e5389cfa","fromNode":"fc917b5220d2ff40","fromSide":"right","toNode":"c198957dd4290034","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"type":"group","id":"374489790c069f6c","x":-1900,"y":-960,"width":1320,"height":640,"label":"PKMC"},
+		{"type":"file","file":"Literature/PKM/Tools/Virtualization/PKC.md","id":"aaa65420e0a5ab9c","x":-1880,"y":-829,"width":331,"height":400},
+		{"type":"file","file":"Literature/PKM/Personal Knowledge Management.md","id":"8bae1eb68ebba31b","x":-1120,"y":-960,"width":540,"height":580}
+	],
+	"edges":[
+		{"id":"26d9747980d5b514","fromNode":"aaa65420e0a5ab9c","fromSide":"right","toNode":"8bae1eb68ebba31b","toSide":"left"},
+		{"id":"7c780caf61789fe2","fromNode":"8bae1eb68ebba31b","fromSide":"top","toNode":"aaa65420e0a5ab9c","toSide":"top"}
+	]
+}
