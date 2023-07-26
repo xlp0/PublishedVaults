@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "1503ae5a16634afb",
+        "id": "c4d98f54a13a0c92",
         "type": "tabs",
         "children": [
           {
-            "id": "de2bcab103dd5069",
+            "id": "82b01908dc23fdee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting/Home.md",
-                "mode": "preview",
+                "file": "Fleeting/Diary/2023-07-13.md",
+                "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "a656bfa09bfe44eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting/Diary/2023-07-26.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/Home.md",
+                "file": "Fleeting/Diary/2023-07-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting/Home.md",
+                "file": "Fleeting/Diary/2023-07-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting/Home.md"
+                "file": "Fleeting/Diary/2023-07-26.md"
               }
             }
           },
@@ -150,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,9 +182,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de2bcab103dd5069",
+  "active": "a656bfa09bfe44eb",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Fleeting/Home.md"
+    "Fleeting/Diary/2023-07-27.md",
+    "Fleeting/Diary/2023-07-26.md",
+    "Fleeting/Diary/2023-07-25.md",
+    "2023-07-27.md",
+    "Permanent/Template/Templater/Diary Template.md",
+    "Fleeting/Home.md",
+    "Fleeting/Diary/2023-07-13.md",
+    "Fleeting/Initial Note.md",
+    "Fleeting/Fleeting.md",
+    "conflict-files-obsidian-git.md"
   ]
 }
