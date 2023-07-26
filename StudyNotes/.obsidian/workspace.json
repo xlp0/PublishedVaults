@@ -6,7 +6,7 @@
       {
         "id": "f7866e8e9db003b3",
         "type": "tabs",
-        "dimension": 88.91352549889135,
+        "dimension": 57.19476744186046,
         "children": [
           {
             "id": "6bdddccc10d99191",
@@ -16,7 +16,7 @@
               "state": {
                 "file": "Fleeting/Diary/2023-07-26.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -25,7 +25,7 @@
       {
         "id": "f90929c5211c3b9c",
         "type": "tabs",
-        "dimension": 11.086474501108647,
+        "dimension": 42.80523255813954,
         "children": [
           {
             "id": "971b3878f3b71dc0",
@@ -189,32 +189,33 @@
   },
   "active": "6bdddccc10d99191",
   "lastOpenFiles": [
+    "Fleeting/Diary/2023-07-24.md",
+    "Fleeting/Diary/2023-07-22.md",
+    "Fleeting/Diary/2023-07-17.md",
+    "Fleeting/Diary/2023-07-12.md",
+    "Fleeting/Diary/2023-07-14.md",
+    "Fleeting/Diary/2023-07-16.md",
     "Fleeting/Home.md",
+    "Fleeting/Initial Note.md",
+    "excalibrain.md",
+    "Fleeting/Fleeting.md",
+    "Fleeting/Diary/2023-07-26.md",
     "Fleeting/Activities/Guest list.md",
     "Fleeting/Diary/2023-07-21.md",
-    "Fleeting/Diary/2023-07-17.md",
-    "excalibrain.md",
     "Fleeting/Activities/Tracking Usage.md",
     "Fleeting/Activities/Family Calendar.md",
     "Fleeting/dashboardimage.jpg",
     "z_Attachments/PNG/recent/PURQKFE9.png",
-    "Fleeting/Diary/2023-07-26.md",
     "Fleeting/Diary/2023-07-20.md",
     "Fleeting/Diary/2023-07-19.md",
     "Fleeting/Diary/2023-07-25.md",
-    "Fleeting/Diary/2023-07-24.md",
     "Fleeting/Diary/2023-07-23.md",
-    "Fleeting/Diary/2023-07-22.md",
     "Fleeting/Diary/2023-07-18.md",
-    "Fleeting/Diary/2023-07-16.md",
     "Fleeting/Diary/2023-07-15.md",
-    "Fleeting/Diary/2023-07-14.md",
     "Fleeting/Diary/2023-07-13.md",
-    "Fleeting/Diary/2023-07-12.md",
     "Fleeting/Diary/2023-07-11.md",
     "Fleeting/Diary/2023-07-10.md",
     "Fleeting/Diary/2023-07-09.md",
-    "Fleeting/Diary/2023-07-08.md",
-    "Fleeting/Diary/2023-07-07.md"
+    "Fleeting/Diary/2023-07-08.md"
   ]
 }
