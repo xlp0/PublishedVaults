@@ -9,9 +9,9 @@ type: Person
 
 Dasgupta proved the Almansi theorem in anisotropic elasticity and developed the finite element modeling of infinite domains. He developed a numerical integration procedure for viscoelastic responses. He initiated shape function vectors, stochastic Green’s functions, and closed-form perturbation.
 
-Dasgupta received a BE in civil engineering in 1967, an MS in Applied Mechanics from the Bengal Engineering College, Shibpur, India, and a PhD in structural engineering and structural mechanics from the University of California, Berkeley, in 1974**.**   He was a post-doctoral fellow in Berkeley from 1974 to 1977. He joined Columbia University in June 1977. He was the founding chair for the International _Mathematica_ Symposium, and has been the vice chair of the Turing Centenary Colloquia. He chaired ASCE and ASME groups on elasticity, structural dynamics, and probabilistic analyses and biomechanics.
+Dasgupta received a BE in civil engineering in 1967, an MS in Applied Mechanics from the Bengal Engineering College, Shibpur, India, and a Ph.D. in structural engineering and structural mechanics from the University of California, Berkeley, in 1974**.**   He was a post-doctoral fellow at Berkeley from 1974 to 1977. He joined Columbia University in June 1977. He was the founding chair of the International _Mathematica_ Symposium and has been the vice chair of the Turing Centenary Colloquia. He chaired ASCE and ASME groups on elasticity, structural dynamics, and probabilistic analyses, and biomechanics.
 
-He has been on the research teams of the World Monument Fund, NY; a Japanese group for preservation of Angkor, Disaster Prevention committee, Osaka, Japan; and a teaching/learning iCenter of Tsinghua, Beijing, China, where he has been an honorary professor since 2013.
+He has been on the research teams of the World Monument Fund, NY; a Japanese group for the preservation of Angkor, Disaster Prevention Committee, Osaka, Japan; and a teaching/learning iCenter of Tsinghua, Beijing, China, where he has been an honorary professor since 2013.
 
 ## Utilities
 [Gautam's ZOOM Link](https://columbiauniversity.zoom.us/j/96964576837?pwd=UG5OTDFVdzFucXNmUjRVZkt5eDJRUT09#success)

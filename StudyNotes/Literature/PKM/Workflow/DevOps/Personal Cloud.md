@@ -22,3 +22,7 @@ The key differences between personal cloud and enterprise/public cloud are:
 5. Management: Enterprise/public clouds often require dedicated IT teams or administrators to manage and maintain the cloud infrastructure. Personal clouds are typically managed by the individual users themselves.
 
 Overall, personal cloud serves individual users' basic storage needs, while enterprise/public clouds provide more advanced features, scalability, and customization options for larger organizations.
+
+## Implementing Personal Cloud using NAS
+
+Personal Cloud is typically implemented using [[Network Attached Storage]] (NAS) devices. [[Network Attached Storage|NAS]] is a specialized storage device that connects to a network and provides file-based data storage services to other devices on the network.

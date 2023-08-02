@@ -9,6 +9,10 @@ In category theory, an arrow is often represented as a directed line or an arrow
 
 Arrows in category theory have certain properties and can be composed. The composition of two arrows represents the sequential application of the transformations they represent. If there is an arrow from object A to object B and another arrow from object B to object C, then their composition yields an arrow from A to C.
 
+## Differences as arrows
+In [[@allanglesHowSubtractionMakes2023|this video by All Angles]], the notion of [[Subtraction|subtraction]] is being denoted as an [[Arrow|arrow]]. This argument provides a powerful revelation, that all mathematical symbols must be adequately coherent with what it is trying to represent. The essence of [[Subtraction|subtraction]] is [[Symmetry|anti-symmetric]], therefore, it should be represented by an arrow that visually breaks the symmetry. Similarly, other operators, such as [[Division|quotient]] operator, should also be denoted using some kind of anti-symmetric shape. This idea was proposed extensively in [[Robert Coecke|Bob Coecke]]'s work.
+
+## Causal relations as arrows
 Now, moving on to causation in Judea Pearl's terms. [[Judea Pearl]] is a renowned computer scientist and philosopher who has made significant contributions to the field of causal reasoning. His work is based on the theory of causal inference, which aims to understand and analyze causal relationships between variables.
 
 According to Pearl, causation can be represented using a graphical model called a causal diagram or a causal Bayesian network. In this framework, causation is depicted using directed arrows between variables, similar to arrows in category theory. These arrows indicate the causal relationships between variables, where an arrow from variable X to variable Y represents that X has a direct causal influence on Y.

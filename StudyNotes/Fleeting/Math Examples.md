@@ -1,7 +1,7 @@
 
 How to use Latex
 
-$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$
+$x = \frac{-b \pm \sqrt{X^2 - 4ac}}{2a}$
 
 
 To use LaTeX, follow these steps:

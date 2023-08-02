@@ -5,7 +5,7 @@ Aliases: Data Science, Data Science, data science
 
 Data Science is an interdisciplinary field that involves the extraction of knowledge and insights from data. It combines various techniques from mathematics, statistics, and computer science to analyze and interpret complex data sets.
 
-[[Computer Science]] plays a crucial role in Data Science as it provides the necessary tools, algorithms, and programming languages to process and manipulate large volumes of data. Computer scientists develop algorithms and computational models that allow for efficient data storage, retrieval, and analysis.
+[[Computer Science]] plays a crucial role in Data Science as it provides the necessary tools, algorithms, and programming languages to process and manipulate large volumes of data. Computer scientists develop algorithms and computational models that allow for efficient data storage, retrieval, and analysis. Pragmatically, all data types can be considered as [[Token|tokens]], which is just a generic term for data containing objects such as [[File|files]] and [[Directory|directories]].
 
 Some of the key areas where Computer Science intersects with [[Data Science]] are:
 

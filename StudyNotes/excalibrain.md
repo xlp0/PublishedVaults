@@ -23,12 +23,12 @@ in Excalidraw settings under 'Links and Transclusion'. ^4mylk7KK
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.11",
+	"source": "https://excalidraw.com",
 	"elements": [
 		{
 			"type": "text",
-			"version": 2,
-			"versionNonce": 1862053265,
+			"version": 1,
+			"versionNonce": 423577018,
 			"isDeleted": false,
 			"id": "4mylk7KK",
 			"fillStyle": "hachure",
@@ -41,30 +41,28 @@ in Excalidraw settings under 'Links and Transclusion'. ^4mylk7KK
 			"y": 0,
 			"strokeColor": "white",
 			"backgroundColor": "transparent",
-			"width": 703.125,
+			"width": 703,
 			"height": 96,
 			"seed": 4429,
 			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
+			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1690347836689,
+			"updated": 1650784785611,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 3,
 			"text": "Open a document in another pane and click it to get started.\n\nFor the best experience enable 'Open in adjacent pane'\nin Excalidraw settings under 'Links and Transclusion'.",
 			"rawText": "Open a document in another pane and click it to get started.\n\nFor the best experience enable 'Open in adjacent pane'\nin Excalidraw settings under 'Links and Transclusion'.",
+			"baseline": 91,
 			"textAlign": "center",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Open a document in another pane and click it to get started.\n\nFor the best experience enable 'Open in adjacent pane'\nin Excalidraw settings under 'Links and Transclusion'.",
-			"lineHeight": 1.2,
-			"baseline": 91
+			"originalText": "Open a document in another pane and click it to get started.\n\nFor the best experience enable 'Open in adjacent pane'\nin Excalidraw settings under 'Links and Transclusion'."
 		}
 	],
 	"appState": {
-		"theme": "light",
+		"theme": "dark",
 		"viewBackgroundColor": "hsl(208, 80%, 23%)",
 		"currentItemStrokeColor": "#000000",
 		"currentItemBackgroundColor": "transparent",
@@ -76,24 +74,12 @@ in Excalidraw settings under 'Links and Transclusion'. ^4mylk7KK
 		"currentItemFontFamily": 1,
 		"currentItemFontSize": 16,
 		"currentItemTextAlign": "left",
+		"currentItemStrokeSharpness": "sharp",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 37.86823272705078,
-		"scrollY": 2910.040771484375,
-		"zoom": {
-			"value": 0.2
-		},
-		"currentItemRoundness": "round",
+		"currentItemLinearStrokeSharpness": "round",
 		"gridSize": null,
-		"colorPalette": {},
-		"currentStrokeOptions": null,
-		"previousGridSize": null,
-		"frameRendering": {
-			"enabled": true,
-			"clip": true,
-			"name": true,
-			"outline": true
-		}
+		"colorPalette": {}
 	},
 	"files": {}
 }

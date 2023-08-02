@@ -1,52 +1,59 @@
 {
   "main": {
-    "id": "4562df3602fd9bdb",
+    "id": "9a4db02689162232",
     "type": "split",
     "children": [
       {
-        "id": "c4d98f54a13a0c92",
+        "id": "93b4f0ca842eff95",
         "type": "tabs",
+        "dimension": 27.444051825677267,
         "children": [
           {
-            "id": "82b01908dc23fdee",
+            "id": "a021c549d83ce8ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting/Diary/2023-07-13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a656bfa09bfe44eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fleeting/Diary/2023-07-26.md",
+                "file": "Permanent/Permanent.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "b41e2422f68e0b2c",
+        "type": "tabs",
+        "dimension": 72.55594817432274,
+        "children": [
+          {
+            "id": "e1c3fab4afcd5ff0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting/Diary/2023-08-01.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "70db886da4b09b5b",
+    "id": "a076c207464c529f",
     "type": "split",
     "children": [
       {
-        "id": "20fab11d9a461fe9",
+        "id": "ced5882fc4c65a43",
         "type": "tabs",
         "children": [
           {
-            "id": "c64bf881b21b42d2",
+            "id": "cd6570d22e31f7f7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,22 +63,22 @@
             }
           },
           {
-            "id": "8778f03acfb536d3",
+            "id": "96acf386b74b7ce2",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Symmetry",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "1fced21de0000d3e",
+            "id": "2a5a8bfd1b6dd71d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,18 +89,80 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 239.50043487548828
   },
   "right": {
-    "id": "52e6f56f0ff37949",
+    "id": "7a47adf7e2e55062",
     "type": "split",
     "children": [
       {
-        "id": "8daa4c4f2a8fb66a",
+        "id": "bb8cfbd8d0e1a9ab",
         "type": "tabs",
         "children": [
           {
-            "id": "46a41354c8be8bb7",
+            "id": "a85ffc36a8d4a8b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Permanent/Permanent.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabeticalReverse",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "09a69d0464fbe891",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "230b1b5106e0d17b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Permanent/Permanent.md"
+              }
+            }
+          },
+          {
+            "id": "54841e6f7953a49c",
+            "type": "leaf",
+            "state": {
+              "type": "reference-map-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "5654a0b0b986d23f",
+            "type": "leaf",
+            "state": {
+              "type": "ZIReferenceListView",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a724ed3da0101a7",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "c217a32abe2dded1",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -101,98 +170,110 @@
             }
           },
           {
-            "id": "7228d0d794fd7094",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Fleeting/Diary/2023-07-26.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "ff4c5f2a91e81b3e",
+            "id": "b88683f3e823fd66",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting/Diary/2023-07-26.md",
+                "file": "Permanent/Permanent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2afdfc48eec00ffe",
+            "id": "50a9405454bcf297",
             "type": "leaf",
             "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "c8382d149509c444",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Fleeting/Diary/2023-07-26.md"
-              }
-            }
-          },
-          {
-            "id": "b51379fffe40c43d",
-            "type": "leaf",
-            "state": {
-              "type": "reference-map-view",
+              "type": "mermaid-toolbar-view",
               "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 597.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "daily-notes:Open today's daily note": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-map-view:Open map view": false,
       "daily-notes-editor:Open Daily Note Editor": false,
       "reference-map:Reference Map": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-map-view:Open map view": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a656bfa09bfe44eb",
+  "active": "cd6570d22e31f7f7",
   "lastOpenFiles": [
-    "Fleeting/Diary/2023-07-27.md",
-    "Fleeting/Diary/2023-07-26.md",
-    "Fleeting/Diary/2023-07-25.md",
-    "2023-07-27.md",
-    "Permanent/Template/Templater/Diary Template.md",
+    "Permanent/Slides",
+    "Fleeting/Diary/2023-07-31.md",
+    "Fleeting/Diary/2023-08-01.md",
     "Fleeting/Home.md",
-    "Fleeting/Diary/2023-07-13.md",
-    "Fleeting/Initial Note.md",
-    "Fleeting/Fleeting.md",
-    "conflict-files-obsidian-git.md"
+    "Literature/Reading notes/@d-i-ryGitGraphEasiest2021.md",
+    "Literature/Reading notes/@allanglesHowSubtractionMakes2023.md",
+    "Hub/Theory/Category Theory/Conservation Law.md",
+    "Hub/Theory/Category Theory/Symmetry.md",
+    "Hub/Theory/Category Theory/Noether's theorem.md",
+    "Literature/People/Emmy Noether.md",
+    "Literature/People/Evariste Galois.md",
+    "Literature/People/Hsueh-Yung Benjamin Koo.md",
+    "Literature/People/James Clerk Maxwell.md",
+    "Literature/People/John Day.md",
+    "Literature/People/Joko Widodo.md",
+    "Literature/People/Juan Benet.md",
+    "Literature/People/Judea Pearl.md",
+    "Literature/People/Kent Beck.md",
+    "Literature/People/Konrad Lorenz.md",
+    "Literature/People/Linus Torvalds.md",
+    "Literature/People/Luhut Binsar Pandjaitan.md",
+    "Literature/People/Max Born.md",
+    "Literature/People/Michael Levin.md",
+    "Literature/People/Murray Gellmann.md",
+    "Literature/People/Nam P. Suh.md",
+    "Literature/People/Neil Gershenfeld.md",
+    "Hub/Canvas/Some Canvas Drawing.canvas",
+    "Fleeting/dashboardimage.jpg",
+    "Untitled.canvas",
+    "Hub/Theory/Category Theory/Operator Theory",
+    "Fleeting/Testing/Sample Canvas File.canvas",
+    "z_Attachments/PDF/yao82.pdf",
+    "Literature/Reading notes/Untitled.canvas",
+    "Literature/Reading notes/2FSOG_Correctness_of_Distributive_Accountability.canvas",
+    "Literature/PKM/Tools/GIS",
+    "Literature/Media/PDF/SoG_0_1_4.pdf",
+    "Literature/Media/PDF/FragmentsOfTheHistoryOfSheafTheory.pdf",
+    "Literature/Generated/images",
+    "Literature/Generated",
+    "Literature/Media/PDF/nawinterviewP.pdf",
+    "Permanent/Published/Koo_phd-esd-2005.pdf",
+    "Literature/Media/PDF",
+    "Hub/Theory/SoG/SOG_Correctness_of_Distributive_Accountability.canvas",
+    "z_Attachments/PNG/recent/PURQKFE9.png",
+    "z_Attachments/PNG/Screenshot 2023-07-13 at 5.55.27 PM.png",
+    "z_Attachments/PNG/recent/Pasted Image 20230712111235_898.png",
+    "Fleeting/Diary/Untitled.canvas",
+    "z_Attachments/PNG/Screenshot 2023-07-13 at 8.22.25 PM.png",
+    "Fleeting/Untitled.canvas",
+    "Literature/PKM/Workflow/XLP/Untitled.canvas",
+    "Literature/PKM/Workflow/XLP/Course/Computational Thinking Diagrams.canvas",
+    "CC6TDI84.png",
+    "TAB9SLLA.png"
   ]
 }

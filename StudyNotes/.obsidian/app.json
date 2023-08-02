@@ -1,1 +1,11 @@
-{}
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Attachments",
+  "newFileLocation": "current",
+  "readableLineLength": true,
+  "showFrontmatter": false,
+  "strictLineBreaks": true,
+  "promptDelete": false,
+  "focusNewTab": false,
+  "showUnsupportedFiles": true
+}

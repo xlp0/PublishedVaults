@@ -5,7 +5,7 @@ github_repo: https://github.com/xlp0/PKC
 tags: XLP, SoG
 ---
 
-#XLP #NSM #SoG #PKM
+#XLP #NSM #SoG  #NAS
 
 <a href="http://pkc.pub">PKC</a> stands for [[PKC|Personal Knowledge Container]], which is a way to conduct [[Personal Knowledge Management|Personal Knowledge Management]].
 
@@ -18,7 +18,7 @@ tags: XLP, SoG
 
 PKC, or Personal Knowledge Container, is a concept that aims to provide individuals with personalized data sovereignty through the use of [[Personal Cloud]] technologies. It is a collection of microservices that allow individuals to have ownership over their own data assets. PKC can be operated by individuals or communities and can be deployed in various network environments using Docker-based container technologies.
 
-Once installed, PKC can function even without internet access. It offers user-friendly knowledge presentation, extensible functionalities, and self-servicing data asset ownership in a single package. The goal of PKC is to make it easier for individuals to own their self-sovereign data assets by reducing the barriers to entry.
+Once installed, PKC can function even without internet access. It offers user-friendly knowledge presentation, extensible functionalities, and self-servicing data asset ownership in a single package. The goal of PKC is to make it easier for individuals to own their self-sovereign data assets by reducing the barriers to entry. A popular implementation is [[Network Attached Storage]] ([[Network Attached Storage|NAS]]), which basically has most of the functionality of [[PKC]].
 
 PKC was developed in context with [[XLP]] and the [[Science of Governance|SoG]]. A way to organize content knowledge can be considered to be an [[Intentional Workflow]], which can be implemented using [[Zettlekasten Workflow]]. It is also an embodiment of a [[Conscious Agency]]. Initially, it also must have many plug-ins for existing [[Personal Knowledge Management|PKM]] tools to extract data for inputs and metrics of individual users and agencies.  It needs to use [[Blockchain]], [[Smart Contract|Smart Contracts]], and [[IPFS]] to realize its reach.
 

@@ -1,0 +1,7 @@
+Dextrocardia is a rare condition in which the heart is positioned on the right side of the chest instead of the left side, as is typical. In people with dextrocardia, the heart and its chambers are mirror images of their usual positions. This reversal of heart position occurs during embryonic development and is usually present from birth.
+
+Dextrocardia may occur as an isolated condition or it can be associated with other congenital heart defects or genetic disorders. In some cases, dextrocardia may not cause any symptoms or health problems, but in others, it can lead to various cardiovascular complications. These complications may include abnormal heart rhythms (arrhythmias), structural abnormalities of the heart, impaired blood flow, and respiratory issues.
+
+Diagnosis of dextrocardia is typically made through imaging tests such as X-rays, echocardiograms, or CT scans. Treatment options depend on the individual's specific condition and any associated abnormalities. Some individuals with dextrocardia may require surgical intervention to correct associated heart defects or manage cardiovascular complications.
+
+It's important for individuals with dextrocardia to receive regular medical check-ups to monitor their heart health and ensure early detection and management of any potential issues.

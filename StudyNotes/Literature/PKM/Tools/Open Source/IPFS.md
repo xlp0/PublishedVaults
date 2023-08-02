@@ -17,3 +17,17 @@ IPFS has gained popularity due to its potential for decentralized web applicatio
 IPFS was also tightly influenced by the popularity of [[Blockchain]] infrastructure, and can be used in conjunction with it to enable [[Web3]].
 
 Overall, IPFS aims to provide an alternative approach to traditional centralized file systems by creating a distributed and resilient network for storing and accessing data in a peer-to-peer manner.
+
+How does IPFS deal with long latency
+
+IPFS (InterPlanetary File System) deals with long latency in a few ways:
+
+1. Content addressing: IPFS uses content addressing to uniquely identify data based on its content. Each piece of data is assigned a unique hash that acts as its address. This allows IPFS to cache and distribute data across the network, reducing the impact of long latency by retrieving data from the nearest available source.
+
+2. Distributed network: IPFS is a peer-to-peer network where nodes share and distribute data amongst themselves. When a file is requested, IPFS automatically searches for the nearest node storing that file and retrieves it from there. This distributed nature helps mitigate long latency by reducing the distance data needs to travel.
+
+3. Caching: IPFS nodes are designed to cache frequently accessed content locally, making it accessible even during periods of high latency or when the original source is offline. This caching mechanism further reduces the impact of long latency by allowing users to retrieve content from nearby nodes instead of relying on distant sources.
+
+4. BitSwap protocol: IPFS uses a protocol called BitSwap, which facilitates efficient exchange of blocks between nodes in the network. BitSwap allows nodes to request only specific blocks they need for a file instead of transferring entire files, reducing bandwidth requirements and improving performance in scenarios with high latency.
+
+By combining these techniques, IPFS aims to minimize the impact of long latency by caching popular content locally, distributing files across multiple nodes, and optimizing data transfer between peers in a decentralized manner.

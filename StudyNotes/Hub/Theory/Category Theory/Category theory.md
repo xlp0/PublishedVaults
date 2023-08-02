@@ -1,7 +1,7 @@
 ---
 Aliases: Category Theory, category theory
 ---
-#foundation #composition  #context 
+#foundation #composition  #context #diagrammatic_reasoning 
 
 Category theory is a branch of mathematics that deals with the study of mathematical structures and the relationships between them. It provides a formal language to describe and analyze various mathematical objects and their mappings.
 

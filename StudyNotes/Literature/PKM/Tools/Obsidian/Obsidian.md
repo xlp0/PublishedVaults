@@ -1,6 +1,6 @@
 #note_taking  #REPL
 
-[Obsidian](http://obsidian.md) is a note-taking software that provides a [[personal knowledge management]] system for organizing and connecting your notes and thoughts. It is designed to work with plain text files, making it flexible and compatible across various platforms and devices.
+[Obsidian](http://obsidian.md) is a note-taking software that provides a [[Personal Knowledge Management]] system for organizing and connecting your notes and thoughts. It is designed to work with plain text files, making it flexible and compatible across various platforms and devices.
 
 One of the key features of Obsidian is its bidirectional linking capability. It allows you to create connections between different notes by using double brackets around the note's title. These links help in establishing relationships between ideas, making it easier to navigate and explore your notes.
 

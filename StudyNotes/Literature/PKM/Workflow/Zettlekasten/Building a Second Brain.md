@@ -1,7 +1,7 @@
 
 "Building a Second Brain" is a book written by [[Tiago Forte]], an expert in productivity and personal knowledge management. The book explores the concept of creating a digital system to store, organize, and retrieve information effectively, with the goal of enhancing one's productivity and creativity.
 
-The term "second brain" refers to a digital extension of our minds – a repository where we can capture and organize our thoughts, ideas, insights, and resources. Forte introduces the concept of [[Personal Knowledge Management]] ([[personal knowledge management|PKM]]) which involves using tools and techniques to manage information in a way that maximizes its value.
+The term "second brain" refers to a digital extension of our minds – a repository where we can capture and organize our thoughts, ideas, insights, and resources. Forte introduces the concept of [[Personal Knowledge Management]] ([[Personal Knowledge Management|PKM]]) which involves using tools and techniques to manage information in a way that maximizes its value.
 
 In the book, Forte provides step-by-step guidance on building this second brain system. He explains various methods for capturing information such as note-taking, bookmarking, and mind mapping. He also highlights strategies for organizing and categorizing information to make it easily searchable and retrievable when needed.
 

@@ -17,3 +17,8 @@ P2P networks ensure that no single entity or central authority has complete cont
 4. Enhanced privacy: Since transactions occur directly between peers, sensitive information does not need to pass through third-party intermediaries.
 
 Overall, P2P networks play a crucial role in enabling trustless interactions within blockchain systems by promoting decentralization and removing the need for intermediaries.
+
+## Peer-to-Peer Connection
+
+One Page. 9 (Section 1.3.3) of [[@preukschatSelfsovereignIdentityDecentralized2021|Self-sovereign identity_2021]],  The following statement was said:
+> In a peer-to-peer relationship, neither of you has an “[[Account|account]]” with the other. Rather, you both share a connection. Neither of you fully “owns” this connection. It is like a string that you are both holding—if either one of you lets go, the string will drop. But as long as you both want it, the connection will persist.

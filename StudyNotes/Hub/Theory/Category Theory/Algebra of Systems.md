@@ -1,5 +1,6 @@
 ---
 Aliases: Algebra of Systems, AoS, algebra of systems
+tags: Diagram_Algebra
 ---
 
 The paper "[[@kooAlgebraSystemsMetalanguage2009|Algebra of System]]" by [[Hsueh-Yung Benjamin Koo|Koo et al.]] is a comprehensive guide that explores the algebraic techniques used in system modeling and analysis. It provides a rigorous mathematical foundation for understanding and manipulating systems, which are prevalent in various fields such as engineering, economics, and social sciences.
@@ -16,3 +17,5 @@ Overall, "Algebra of System" ([[AoS]]) offers a comprehensive exploration of alg
 
 # References
 [[@kooAlgebraSystemsMetalanguage2009]]
+
+[[@daughertyRepresentationTheoryCombinatorics]]

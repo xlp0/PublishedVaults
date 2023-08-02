@@ -1,0 +1,21 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "Literature/Reading notes",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "Format #1",
+      "format": "pandoc",
+      "brackets": true
+    }
+  ],
+  "exportFormats": [],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": false,
+  "whichNotesToOpenAfterImport": "first-imported-note",
+  "pdfExportImageOCR": true,
+  "exeOverridePath": "/Users/bkoo/Documents/Obsidian/pdfannots2json",
+  "shouldShowCiteSuggest": true
+}

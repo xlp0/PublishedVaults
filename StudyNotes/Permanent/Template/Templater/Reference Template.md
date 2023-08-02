@@ -1,6 +1,6 @@
 ---
 Aliases:
-tags:
+tags: TEMPLATE
 ---
 
 File Creation date: <% tp.file.creation_date() %>

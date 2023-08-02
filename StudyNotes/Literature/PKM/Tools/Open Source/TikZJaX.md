@@ -3,6 +3,7 @@ software: Graphing and Typesetting Software
 website: https://github.com/artisticat1/obsidian-tikzjax
 github_repo: https://github.com/artisticat1/obsidian-tikzjax
 ---
+#diagramming_software
 
 [[TikZJaX]] is a LaTeX package that combines the functionality of [[TikZ]] and [[MathJax]] to create high-quality mathematical figures and diagrams directly within [[LaTeX]] documents. It allows users to seamlessly integrate mathematical notations, symbols, and equations into their TikZ drawings.
 
@@ -57,3 +58,5 @@ C' \arrow[rr,"k'" near end] \arrow[dr,swap,"c"] && D' \arrow[dr,swap,"d"] \\
 \end{tikzcd}
 \end{document}
 ```
+
+For generic diagrams, that requires less mathematical typesetting features, [[mermaid.js]] can be easier to use.

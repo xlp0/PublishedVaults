@@ -1,5 +1,51 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "Bali Leaflet Map",
+      "locked": true,
+      "lastAccessed": 1690860477692,
+      "markers": [
+        {
+          "id": "ID_3b5a2bfb392a",
+          "type": "default",
+          "loc": [
+            -8.694921976474586,
+            115.20760220328245
+          ],
+          "layer": "real",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cb1a09b8f9d9",
+          "type": "default",
+          "loc": [
+            25.061899455373062,
+            121.54240645713062
+          ],
+          "layer": "real",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Literature/Place/Bali.md",
+        "Fleeting/Testing/Leaflet Example.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
@@ -28,9 +74,48 @@
   "displayOverlayTooltips": true,
   "configDirectory": null,
   "mapViewEnabled": true,
-  "mapViewParameters": {},
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": 7,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "real",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "real"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 10,
+    "minZoom": 0,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.3,
+    "zoomFeatures": false,
+    "id": "Bali Leaflet Map",
+    "lat": -8.4534986,
+    "long": 113.824832,
+    "unit": "10 meters",
+    "filterTag": []
+  },
   "enableDraw": true,
-  "defaultUnitType": "imperial",
+  "defaultUnitType": "metric",
   "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
   "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
   "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>.",

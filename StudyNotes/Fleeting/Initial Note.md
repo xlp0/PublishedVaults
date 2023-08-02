@@ -34,7 +34,7 @@ Including source code
 
 
 Please show me how to write a Hello World in Python. (Then type [[Command P]] then type "Text Generator: Generate Text" in the command panel , or just  _Command J_)
- 
+
 To write a Hello World program in Python, you can follow these steps:
 
 1. Open your preferred text editor or integrated development environment (IDE).
@@ -67,7 +67,7 @@ The following is an audio recording:
 
 
 LaTeX and TikZ
-![[TikZJaX Demo]]
+[[TikZJaX Demo]]
 
 
 ### Excalibrain

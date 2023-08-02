@@ -5,7 +5,7 @@ Aliases: Data, data
 
 The term "data" refers to a collection of facts, statistics, or information that is gathered through observation, measurement, or research. It can be in various forms such as numbers, words, images, or any other representation of information.
 
-In terms of etymology, the word "data" comes from the Latin word "datum," which means "something given." The singular form of data is "datum," but in modern usage, data is often treated as a plural noun.
+In terms of etymology, the word "data" comes from the Latin word "datum," which means "something given." The singular form of data is "datum," but in modern usage, data is often treated as a plural noun. In other words, data is the thing that [[Representation|represents]] other things.
 
 Logic, on the other hand, is a discipline that deals with reasoning and argumentation. It focuses on principles of valid reasoning and inference. The term "logic" originates from the Greek word "logos," which means "reason" or "word."
 
@@ -39,3 +39,6 @@ By considering the factors that disrupt symmetry and employing suitable data pre
 
 
 Overall, the recent idea of logic and data science highlights the importance of applying principles of logical thinking in handling and analyzing large volumes of complex data to gain meaningful insights and drive informed decision-making.
+
+## References
+

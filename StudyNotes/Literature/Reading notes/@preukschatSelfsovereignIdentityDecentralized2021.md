@@ -9,3 +9,8 @@ URL: https://www.manning.com/books/self-sovereign-identity
 ---
 
 [Self-sovereign identity manning website](https://www.manning.com/books/self-sovereign-identity)
+
+- [ ] Read this book
+
+
+Self-Sovereign Identity for everyone is 

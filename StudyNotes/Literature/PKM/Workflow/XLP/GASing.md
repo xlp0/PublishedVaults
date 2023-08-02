@@ -2,7 +2,7 @@
 Aliases: GASing, GASING
 type: methodology, pedagogy
 ---
-#gamification
+#gamification #GASing
 
 The GASing method, also known as the Genius Approach to Solving Problems, was invented by Prof. [[Yohanes Surya]]. Prof. Surya is an Indonesian mathematician and educator known for his innovative teaching methods.
 
@@ -25,5 +25,9 @@ The GASing method involves several steps:
 6. Implementing and evaluating: The final step involves implementing the chosen solution and evaluating its effectiveness in solving the problem.
 
 The GASing method aims to foster a growth mindset among students by encouraging them to explore various approaches instead of being fixated on finding a single correct answer. It promotes creative thinking, collaboration, and adaptability in problem-solving situations. It also emphasizes the notion of [[Symmetry]] in all aspects of the teaching, including both physical and social aspects of information symmetry. It also promotes the notion of using  [[Intentional Workflow]] to help students and teachers as a whole community to converge and [[Emergence|emerge]] as a more coherent learning organization. It encourages students and teachers to discover their own ways to approach [[Correctness|correct]] results and reasoning methods. It may also be considered as a large-scale implementation of [[Gamification|gamification]] of mathematical and science learning.
+
+## Recent Developments
+Recently, [[GASing]] is systematically incorporate many other areas of learning programs and educational initiatives. It is being expanded by incorporating other pragmatic skills and tools, such as [[EuMuse]] for arts and music appreciation, [[Duwi Arsana|electronics/ mechanical design]], and [[Computational Thinking]] as part of its integral curriculum 
+
 
 Prof. Yohanes Surya has conducted numerous workshops and training sessions worldwide to introduce teachers and educators to the GASing method. His goal is to revolutionize mathematics education by promoting problem-solving skills and inspiring students to think outside the box.

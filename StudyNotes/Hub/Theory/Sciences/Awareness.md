@@ -1,7 +1,7 @@
 ---
 Aliases: Awareness, awareness, aware, Aware
 ---
-#awareness #consciousness #self-awareness #subjective #introspection
+#awareness #consciousness #self-awareness #subjective #introspection #funnel
 
 [[Awareness]] refers to the state of being [[Consciousness|conscious]] or [[Cognitive Science|cognizant ]] of something. It involves the subjective experience of perceiving, sensing, or knowing something, whether it is internal mental states, external stimuli, or the surrounding environment.
 
@@ -19,3 +19,5 @@ While awareness and consciousness are closely related, there can be subtle disti
 It is important to note that awareness and consciousness are complex phenomena that are still subjects of active research and philosophical inquiry. The nature and mechanisms of consciousness and awareness continue to be explored and debated in fields such as neuroscience, cognitive science, and philosophy of mind.
 
 Understanding awareness and consciousness is a multidisciplinary endeavor, combining insights from subjective experience, behavioral observations, brain imaging, and theoretical frameworks. Researchers aim to unravel the neural correlates, cognitive processes, and philosophical implications of these phenomena to gain a deeper understanding of human consciousness and the nature of subjective experience.
+
+In the process of learning or more specifically, note-taking, awareness can be registered by simply writing down a note, or even just making an explicit mental note of certain idea or concept. This kind of notes are generically categorized as [[Fleeting]] notes.

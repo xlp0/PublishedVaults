@@ -2,7 +2,7 @@
 
 Donald Hoffman is a cognitive scientist and professor at the University of California, Irvine. He is known for his research on perception, [[Consciousness]], and the evolution of the mind.
 
-Hoffman received his Bachelor's degree in Electrical Engineering from the Massachusetts Institute of Technology (MIT) in 1975. He then pursued his Ph.D. in Cognitive Science at MIT and completed it in 1983.
+Hoffman received his Bachelor's degree in Electrical Engineering from the Massachusetts Institute of Technology ([[MIT]]) in 1975. He then pursued his Ph.D. in Cognitive Science at MIT and completed it in 1983.
 
 His main area of research revolves around understanding the nature of perception and how it shapes our experience of reality. Hoffman proposes that our perceptions are not a direct representation of the external world but rather a constructed model created by our brain to aid in survival. He also develop a notion called [[Conscious Agency]]. While being a professor of cognitive science at the University of California, Irvine. He has proposed a theory called "[[Conscious Realism]]" that challenges our traditional understanding of consciousness and agency.
 

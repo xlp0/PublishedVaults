@@ -2,7 +2,7 @@
 Aliases: TikZ
 type: Math Typesetting and Graphing Software
 ---
-#TikZ
+#TikZ #diagramming_software 
 
 
 TikZ is a powerful and widely-used package for creating graphics and diagrams in LaTeX. It stands for "TikZ ist kein Zeichenprogramm," which translates to "TikZ is not a drawing program" in English. TikZ allows you to create complex and high-quality graphics directly within your LaTeX documents, providing precise control over every aspect of your diagrams.
@@ -24,7 +24,7 @@ Here are some key features and concepts of TikZ:
 7. **TikZ Libraries**: TikZ offers a rich collection of libraries that provide additional functionality and pre-defined shapes. These libraries cover topics such as graphs, automata, trees, circuits, and more. You can easily include these libraries in your TikZ code to extend the capabilities of your diagrams.
     
 
-TikZ is a comprehensive package with extensive documentation. The official TikZ documentation provides detailed explanations, tutorials, examples, and a comprehensive reference manual. Additionally, there are numerous online resources, forums, and communities where you can find help, examples, and inspiration for using TikZ in your LaTeX documents.
+TikZ is a comprehensive package with extensive documentation. The official TikZ documentation provides detailed explanations, tutorials, examples, and a comprehensive reference manual. Additionally, there are numerous online resources, forums, and communities where you can find help, examples, and inspiration for using [[TikZ]] in your [[LaTeX]] documents. It is particularly popular to have [[Category theory|category theorists]] encode their diagrams in the [[TikZ]] syntax.
 
 ## Web Browser Support in TikZJaX
 There is a web-based solution to display TikZ diagrams, that is [[TikZJaX]], which has a [[Obsidian plugin]].

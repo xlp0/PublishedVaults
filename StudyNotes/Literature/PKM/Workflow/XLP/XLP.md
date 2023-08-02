@@ -5,9 +5,16 @@ Aliases: Extreme Learning Process
 tags: SoG, XLP
 ---
 
-#XLP #SoG #Process #correctness #gamification
+#XLP #SoG #Process #correctness #gamification #GASing
 
-Extreme Learning Process ([XLP](https://pkc.pub/wiki/XLP "XLP")) is a pedagogy that is focused on student-centered learning and is based on the idea that students can learn and achieve more when they are actively engaged in the learning process. It emphasizes the fact that students should be responsible for their own learning and that the teacher's role is to facilitate and guide the learning process. The notion of [[DevOps]] significantly influences the implementation and evolution of [[XLP]]. It would be ideal to use [[PKC]] as an instrument to streamline the practice of [[XLP]]. It emphasizes the adoption of formalized [[Correctness|correctness]] verification process, by requiring students to capture realistic and life [[Data|data]], while writing [[Smart Contract|smart contract]] and [[Constitution|constitution]] in the learning process. It maybe considered to be a kind of [[Gamification|gamification]] of learning. It is compatible with the educational goals of [[STEM]], and is being co-developed with [[GASing]] method.
+Extreme Learning Process ([XLP](https://pkc.pub/wiki/XLP "XLP")) was originally a student-centered learning activity design method, and was based on the idea that students can learn and achieve more when they are actively engaged in the learning process. It emphasizes the fact that students should be responsible for their own learning and that the teacher's role is to facilitate and guide the learning process. Overtime, it has evolved into a generalized learning theory, that can be applied to many scales of organizations and learning activities of different types.
+
+## Influences from Prior Arts
+One significant influencer of [[XLP]] is the notion of [[Extreme Programming]]([[Extreme Programming|XP]]). This software development method designed to demonstrate small teams could self-identify solutions and weaknesses in a solution searching process has inspired the name of this learning methodology.
+
+The notion of [[DevOps]] also guided the implementation and evolution of [[XLP]]. It would be ideal to use [[PKC]] as an instrument to streamline the practice of [[XLP]]. It emphasizes the adoption of formalized [[Correctness|correctness]] verification process, by requiring students to capture realistic and life [[Data|data]], while writing [[Smart Contract|smart contract]] and [[Constitution|constitution]] in the learning process. It maybe considered to be a kind of [[Gamification|gamification]] of learning. It is compatible with the educational goals of [[STEM]], and is being co-developed with [[GASing]] method.
+
+The novelty of [[XLP]] at the point of its inception was that it assumes that learning must be done in a global context. This means learning and learning programs should be part of the societal context, and should not be considered to be an isolated field. This drives the adoption of modern software development methodologies, such as [[Extreme Programming]] and [[DevOps]] as the core philosophy and data instrumentation of learning activities. Learning opportunities should be continuously captured and identified, therefore, needs to use the most general and scalable technical solutions whenever feasible. 
 
 The key principles of XLP include:
 

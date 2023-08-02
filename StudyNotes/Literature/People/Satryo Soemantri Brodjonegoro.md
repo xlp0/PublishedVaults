@@ -9,7 +9,9 @@ He served as the director general for higher education at Indonesia’s Ministry
 
 He obtained his Ph.D in mechanical engineering from the University of California at Berkeley, USA in 1984 and he joined Bandung Institute of Technology (ITB) since then. He is a professor in mechanical engineering in ITB and visiting professor at Toyohashi University of Technology, Japan.
 
-He also played the leadership role in developing [[Science of Governance]] during [[G20 2022]] in [[Bali]]. He was also the person that created the [[G20 Professorship]] program for kicking off the study of [[Science of Governance]].
+He also played the leadership role in developing [[Science of Governance]] during [[G20 2022]] in [[Bali]]. He was also the person that created the [[Tri Hita Karana]] [[Center for Future Knowledge]] and the 2022 [[G20 Professorship]] program for kicking off the study of [[Science of Governance]].
 
+
+Prof. Satryo is an expert in Finite Element research, please tell me about FInite Element Method
 # References
 [[@satryos.brodjonegoroScienceGovernanceSelfadministered]]

@@ -1,0 +1,19 @@
+---
+Alaises: Causal Cone, Spacetime Cone, Spacetime Funnel
+---
+#funnel #cone
+
+The cone shaped diagram that illustrates causal relations of spacetime is a crucial idea for [[Governance of Sciences|sciences]] in general. It demonstrates that causal relations naturally converge and diverge based on the [[light speed|speed of causation]]. The [[Narrowing|narrowing]] and then [[Widening|widening]] "funnel" shape is not only related to the [[Abstract Interpretation|abstract interpretation]] of [[Logic|logic]], but it also helps one reason about the [[Soundness|soundness]] of decision-making. In other words, all decisions are naturally [[funneling|funneled]] by causal cone, therefore, they can be visually represented as [[Funnel|funnels]]. Causal relations narrow or widen the opportunities of related agents and agencies. This funnel shape has direct implication on how to assert possible interactions, and therefore define various classes of possible outcomes, as mentioned by [[Qi Wang]]'s interpretation of [[σ-algebra]] and [[Filtration|filtration(域流)]].
+
+## An Integrative UI/UX for engaging with Causal Structure 
+In [[PKM]], the ability to focus on causal structures in the least congested way, yet, with maximal amount of opportunities can be a technical challenge. To answer that technical challenge, developing a systematic vocabulary and interactive tool stack to capture all these opportunities for users can be a very strategic instrument for cognitive activities in general. The goal is to make sure that users are adequately oriented in the process of narrowing and widening their opportunity space, improving their solution searching efficiency.
+
+# Granularity and Filtration of Causal Structures
+In logical terms, causal structures should be discrete in nature, but when look at many causal structures collective, it may appear to be continuous. Therefore, we must think about the notion of [[Granularity]] and [[Filtration]] as [[Qi Wang]] mentioned in his video. Like a musician, the causal intention of an artists may be discrete, but the overall performance of such discrete structure will naturally be emerging from many kinds of sub structures. Therefore, there should be some discussion of granularity and Filtration. It is conceivable that by quantizing ideas or concepts into discrete terms, we may visualize the interactions of these entities in varying [[granularity]] by filtrating them with mathematical manipulation techniques such as [[filtration]]. Using Obsidian's Graph View and other similar visualization tools, it is possible to layout the relationships of a large number of notes that reveals the granularity with some form of filtration features. Providing these visualization features, and emphasize the relationship with granularity and filtration, should help formalize strategies for improving knowledge management.
+
+### Visualizing and Filtrating Causal Granularity
+It turns out [[Michael Levin]] and [[Donald Hoffman]]'s work that explains agents and agencies can be explained in terms of causal granularity. Each conscientious agent or agency could be considered to be a unit of granular conceptual object. They also serve as the boundary to demonstrate filtration in the space of concepts. The easily synchronized views in Obsidian, provides a mechanism to relate the dynamics of various filtration mechanism and visualized granularity, so that it provides a time-synchronized dashboard to inspect possible relationships between causal mechanisms in terms of space and time.
+
+### Sonic Filtration
+[[EuMuse]]'s musical appreciation curriculum can definitely be organized based on these mathematical operations. Moreover, one should be able to synchronize the animation sequences in the above mentioned visualization technique using tools such as [[LeMUR]], developed by [[Assembly AI]].
+

@@ -1,0 +1,3 @@
+What is Situs Inversus?
+
+Situs inversus, also known as situs inversus totalis, is a rare medical condition in which the organs in the chest and abdomen are positioned in a mirror image of their normal location. In individuals with situs inversus, the heart is located on the right side of the chest instead of the left, and other organs such as the liver and spleen are also reversed. This condition occurs due to a genetic anomaly during embryonic development. While situs inversus does not typically cause any health problems or symptoms, it can complicate diagnostic procedures and surgeries as healthcare professionals need to be aware of the reversed organ placement. Situs inversus can occur isolated or be associated with other genetic syndromes.

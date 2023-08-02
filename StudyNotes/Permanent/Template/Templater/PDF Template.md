@@ -1,3 +1,7 @@
+---
+tags: TEMPLATE
+---
+
 <iframe
 		border=0
 		frameborder=0

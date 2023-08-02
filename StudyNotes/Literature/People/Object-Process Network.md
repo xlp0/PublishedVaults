@@ -1,5 +1,6 @@
 ---
 Aliases: OPN, Object Process Network
+tags: Diagram_Algebra
 ---
 Tell me about Object Process Network by Hsueh-Yung Benjamin Koo and Ed Crawley
 
@@ -13,6 +14,6 @@ OPN also incorporates the concept of state representation in Petri Net, which is
 
 One key feature of OPN is its ability to model concurrency and parallelism in complex systems. By representing systems as networks of interacting objects and processes, OPN allows for the analysis and simulation of how different components interact with each other simultaneously.
 
-The OPN framework has been applied to various domains, including software engineering, manufacturing systems, telecommunications, and transportation systems. It has proven useful for understanding system behavior, identifying bottlenecks or performance issues, and guiding system design decisions.
+The OPN framework has been applied to various domains, including software engineering, manufacturing systems, telecommunications, and transportation systems. It has proven useful for understanding system behavior, identifying bottlenecks or performance issues, and guiding system design decisions. It was later formalized in to [[Agelbra of Systems]] ([[Algebra of Systems|AoS]]).
 
 Overall, the Object Process Network provides a powerful framework for modeling and analyzing complex systems by combining ideas from object-oriented programming, process algebra, and network theory. Its emphasis on concurrency and parallelism makes it particularly suitable for modeling real-world systems with multiple interacting components.

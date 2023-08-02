@@ -4,7 +4,7 @@ profession: author, productivity expert, entrepreneur
 project: Building a Second Brain
 ---
 
-Tiago Forte is a productivity expert, entrepreneur, and the author of "Building a Second Brain: An Illustrated Guide to Using Digital Notebooks for Creative Learning, Personal Knowledge Management, and Scholarly Research." He is best known for his expertise in [[personal knowledge management]] and has developed a system called "[[Building a Second Brain]]" that helps individuals organize and utilize their digital information effectively.
+Tiago Forte is a productivity expert, entrepreneur, and the author of "Building a Second Brain: An Illustrated Guide to Using Digital Notebooks for Creative Learning, Personal Knowledge Management, and Scholarly Research." He is best known for his expertise in [[Personal Knowledge Management]] and has developed a system called "[[Building a Second Brain]]" that helps individuals organize and utilize their digital information effectively.
 
 Forte is the founder of [[Forte Labs]], a company that provides training programs and resources on productivity, workflow design, and information organization. He has worked with various individuals and organizations to improve their productivity using his innovative methods.
 

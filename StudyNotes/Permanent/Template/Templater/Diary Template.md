@@ -1,6 +1,7 @@
 ---
 tags: Diary, Periodicals, TEMPLATE
 tracked: 1
+type: TEMPLATE
 ---
 
 ## Todos

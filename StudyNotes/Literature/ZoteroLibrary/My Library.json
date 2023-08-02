@@ -1187,69 +1187,6 @@
 		]
 	},
 	{
-		"id": "benjaminkooToyhouseTVExtreme2017",
-		"type": "motion_picture",
-		"dimensions": "6:52",
-		"source": "YouTube",
-		"title": "Toyhouse TV   Extreme Learning Process  Exploring an Island v3 2",
-		"URL": "https://www.youtube.com/watch?v=hjpHsXRp790",
-		"director": [
-			{
-				"literal": "Benjamin Koo"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2023",
-					7,
-					11
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2017",
-					12,
-					6
-				]
-			]
-		}
-	},
-	{
-		"id": "benjaminkoo2012TsinghuaMEM2012",
-		"type": "motion_picture",
-		"abstract": "MEM stands for Master in Engineering program. It is a brand new Master program for engineering leaders at Tsinghua University. This video is produced by the incoming MEM 2012 freshmen during their four day orientation program in August 2012. There are 74 students, working almost continuously for 72 hours to produce a business proposal, and many working prototypes of a robotic supply chain miniature system. This video is mostly produced before 12:00PM before their final presentations. The video was later modified by Woody Wang, a designer of this eXtreme Learning Process (XLP). The overall process  was designed by Zhang, Jian Nan.",
-		"dimensions": "3:54",
-		"source": "YouTube",
-		"title": "2012 Tsinghua MEM Bootcamp",
-		"URL": "https://www.youtube.com/watch?v=SHswPsntuRc",
-		"director": [
-			{
-				"literal": "Benjamin Koo"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2023",
-					7,
-					11
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2012",
-					9,
-					18
-				]
-			]
-		}
-	},
-	{
 		"id": "anonymousDigitalTwinJourneys2022",
 		"type": "webpage",
 		"abstract": "Motion sensors, CO₂ sensors and the like are considered to be benign forms of monitoring, since they don’t capture images or personal data about us as we move through the buildings we visit. Or at least, that’s what we want to believe.",
@@ -2388,33 +2325,6 @@
 					"2001",
 					10,
 					6
-				]
-			]
-		}
-	},
-	{
-		"id": "appelbaumCommunicationWorldPervasive2022",
-		"type": "thesis",
-		"event-place": "Eindhoven",
-		"genre": "Phd Thesis 1 (Research TU/e / Graduation TU/e)",
-		"note": "ISBN: 9789038654713",
-		"publisher": "Eindhoven University of Technology",
-		"publisher-place": "Eindhoven",
-		"source": "Eindhoven University of Technology research portal",
-		"title": "Communication in a world of pervasive surveillance: Sources and methods: Counter-strategies against pervasive surveillance architecture",
-		"title-short": "Communication in a world of pervasive surveillance",
-		"author": [
-			{
-				"family": "Appelbaum",
-				"given": "Jacob R."
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2022",
-					3,
-					25
 				]
 			]
 		}
@@ -4679,39 +4589,6 @@
 		}
 	},
 	{
-		"id": "quantumsenseChWhyWe2023",
-		"type": "motion_picture",
-		"abstract": "Hello!\n\nThis is the third chapter in my series \"Maths of Quantum Mechanics.\" In this episode, we'll find that infinity brings up a few issues within our quantum framework, and we'll see how a Hilbert space fixes them. \n\nIf you have any questions or comments, shoot me an email at:\nquantumsensechannel@gmail.com\nThanks!\n\nAnimations: \nAll animations created by me within Python, using Manim. To learn more about Manim and to support the community, visit here:\nLink: https://www.manim.community/\n\nMusic:\n--------------------------------------------------------------\n♪ Sine by Patricia Taxxon\nLink : https://patriciataxxon.bandcamp.com/a...\n--------------------------------------------------------------",
-		"dimensions": "8:11",
-		"source": "YouTube",
-		"title": "Ch 3: Why do we need a Hilbert Space? | Maths of Quantum Mechanics",
-		"title-short": "Ch 3",
-		"URL": "https://www.youtube.com/watch?v=_kJUUxjJ_FY",
-		"director": [
-			{
-				"literal": "Quantum Sense"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2023",
-					7,
-					16
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2023",
-					1,
-					4
-				]
-			]
-		}
-	},
-	{
 		"id": "quantumsenseChWhatInner2023",
 		"type": "motion_picture",
 		"abstract": "Hello!\n\nThis is the fourth chapter in my series \"Maths of Quantum Mechanics.\" In this episode, we'll derive some intuition for the inner product, and understand why it is a useful tool in quantum mechanics. \n\nIf you have any questions or comments, shoot me an email at:\nquantumsensechannel@gmail.com\nThanks!\n\nAnimations: \nAll animations created by me within Python, using Manim. To learn more about Manim and to support the community, visit here:\nLink: https://www.manim.community/\n\nMusic:\n--------------------------------------------------------------\n♪ xor by Patricia Taxxon\nLink : https://patriciataxxon.bandcamp.com/a...\n--------------------------------------------------------------",
@@ -4806,39 +4683,6 @@
 					"2023",
 					1,
 					10
-				]
-			]
-		}
-	},
-	{
-		"id": "quantumsenseChWhyProbability2023",
-		"type": "motion_picture",
-		"abstract": "Hello!\n\nThis is the eighth chapter in my series \"Maths of Quantum Mechanics.\" In this episode, we'll dive into how we calculate probabilities in quantum mechanics. We'll derive the Born rule for calculating probability as amplitude squared, then put together our fundamental framework for how we mathematically model a quantum particle.\n\nIf you have any questions or comments, shoot me an email at:\nquantumsensechannel@gmail.com\nThanks!\n\nAnimations: \nAll animations created by me within Python, using Manim. To learn more about Manim and to support the community, visit here:\nLink: https://www.manim.community/\n\nMusic:\n--------------------------------------------------------------\n♪ Galatea by HOME\nLink : https://svnsetwaves.bandcamp.com/trac...\n--------------------------------------------------------------",
-		"dimensions": "23:04",
-		"source": "YouTube",
-		"title": "Ch 8: Why is probability equal to amplitude squared? | Maths of Quantum Mechanics",
-		"title-short": "Ch 8",
-		"URL": "https://www.youtube.com/watch?v=PZUZgOUOOIU",
-		"director": [
-			{
-				"literal": "Quantum Sense"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2023",
-					7,
-					16
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2023",
-					1,
-					17
 				]
 			]
 		}
@@ -7456,6 +7300,1068 @@
 					"2023",
 					7,
 					26
+				]
+			]
+		}
+	},
+	{
+		"id": "joshplunkettObsidianLinkingPDFs2023",
+		"type": "motion_picture",
+		"abstract": "In this video we look at how you can use PDFs from within Obsidian including how to create links directly to specific pages within a pdf directly from your notes. No need to alt-tab to another window when you can link the pdfs directly from your notes!\n\nGet Obsidian - https://obsidian.md/\n\nBest places to find fellow Obsidian TTRPG Users:\nOfficial Discord - https://discord.gg/obsidianmd\nJoin Facebook Community - https://www.facebook.com/groups/obsid...\n\nI host all my tutorials and supporting files on my Patreon. Membership also gives you access to my private Discord server, a training Vault and personal support and engagement. \nSupport Me To Make More Content! - https://www.patreon.com/JPlunkett",
+		"dimensions": "14:40",
+		"source": "YouTube",
+		"title": "Obsidian - Linking to PDFs",
+		"URL": "https://www.youtube.com/watch?v=jANKIv5CV9k",
+		"director": [
+			{
+				"literal": "Josh Plunkett"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					26
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					2,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "thephilosophyofcontemporaryandfuturescienceWhatMachineLearning2023",
+		"type": "motion_picture",
+		"abstract": "Jun Otsuka at the PCFS Seminar Series\nApril 27, 2023\n\n“What are concepts?” is one of the fundamental questions in philosophy, where Aristotle, Kant, Wittgenstein, etc. have proposed different models of concepts. Meanwhile, machine learning literature has developed powerful methods to learn representation from data, as well as mathematical models to analyze such representations. This presentation aims to bridge these two traditions by identifying mathematical models & machine-learning counterparts of the (1) Aristotelian, (2) Wittgensteinian, (3) Functional, and (4) Symmetry-based theories of concept.",
+		"dimensions": "58:48",
+		"source": "YouTube",
+		"title": "What Machine Learning Tells Us About the Mathematical Structures of Concepts",
+		"URL": "https://www.youtube.com/watch?v=Lqt7TgYk8rU",
+		"director": [
+			{
+				"literal": "The Philosophy of Contemporary and Future Science"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					4,
+					28
+				]
+			]
+		}
+	},
+	{
+		"id": "jantzenProjectionSymmetryNatural2015",
+		"type": "article-journal",
+		"container-title": "Synthese",
+		"DOI": "10.1007/s11229-014-0637-5",
+		"issue": "11",
+		"note": "publisher: Springer Nature",
+		"page": "3617–3646",
+		"source": "PhilPapers",
+		"title": "Projection, Symmetry, and Natural Kinds",
+		"volume": "192",
+		"author": [
+			{
+				"family": "Jantzen",
+				"given": "Benjamin C."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "incHowSetQSYNC",
+		"type": "webpage",
+		"abstract": "FREE TRIAL LICENSE DETAILSFor a FREE 1 year trial license of ANY QNAP licensed software, please email youtube_uk@qnap.com, with your QID (The email account associated with your QNAP NAS) and which software you’d like to trial. The license should appear in your account within 48 hours. Qsync enables efficient file synchronization between a QNAP NAS and linked devices such as computers, laptops, and mobile devices. With Qsync, you can easily access data across all your devices and share it among your team members.Simply install the Qsync Central app to use your NAS as a Dropbox-like private file synchronization server. The NAS will centrally store files and distribute them across all your authorized devices. A lightweight Qsync utility (available for Windows, macOS, Android, and iOS) should be installed on these devices so they can communicate with the NAS for file sync tasks and ensure that up-to-date data is always available to you.In Qsync Central, you can configure management settings such as conflict policies and filter settings. Each device can have its own settings, or you can apply centralized settings to all devices. An optional password can be used to protect centralized settings. If you accidentally lose a connected device, a remote erase function is available to ensure that no one gets access to personal/organizational data.Download for Windows - https://download.qnap.com/Storage/Utility/QNAPQsyncClientWindows-4.5.1.1026.exeDownload for Mac OS - https://download.qnap.com/Storage/Utility/QNAPQsyncClientMac-3.6.0.1026.dmgDownload for Ubuntu - https://download.qnap.com/Storage/Utility/QNAPQsyncClientUbuntux64-1.0.5.0305.debFollow us on twitter - https://twitter.com/QNAP_nasLike us on Facebook - https://www.facebook.com/qnapuk/Follow us on Instagram - https://www.instagram.com/qnap_uk/ Visit our website – https://www.qnap.com/en-ukTechnical Support (UK) - https://service.qnap.com/en-uk Product Compatibility - https://www.qnap.com/en-uk/compatibility/ Where to buy your QNAP NASAmazon - http://amzn.to/2NatDB7SPAN.com - http://bit.ly/3jwMmTq Broadbandbuyer - https://bit.ly/3cYo6bw Box.co.uk - http://bit.ly/2YZ5jVj Ebuyer - http://bit.ly/3oWMxZm",
+		"container-title": "QNAP Systems, Inc. - Network Attached Storage (NAS)",
+		"language": "en",
+		"title": "How to set up QSYNC on your QNAP NAS for Windows, Mac and Ubuntu! | QNAP (Middle East)",
+		"URL": "https://www.qnap.com/en-me/qutube/video/VwUB2tm1o_M",
+		"author": [
+			{
+				"family": "Inc",
+				"given": "QNAP Systems"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "mindsetNeuroscientistsYouWill2022",
+		"type": "motion_picture",
+		"abstract": "Neuroscientists and Stanford health psychologist Kelly McGonigal, PhD, teaches what influences us to procrastinate or why we fail to resist temptation, and learn about small interventions that can have large, positive outcomes.\n\nSpeaker : Kelly McGonigal\n\nSpecial Thanks to Talks at Google for this amazing talk\n   / talksatgoogle  \n\nSignal To Noise (CC-BY) by Scott Buckley\" is under a Creative Commons ( cc-by ) license\nMusic promoted by BreakingCopyright:    • 🕰️ Mystery Music ...  \n\nFair Use Disclaimer\nCopyright disclaimer under section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, commenting, news reporting, teaching, scholarship and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\n\n1) This video has no negative impact on the original works.\n2) This video is also for teaching purposes.\n3) It is transformative in nature.\n4) I only used bits and pieces of the videos to get point across where necessary.\n\n•All footages are licensed from Storyblocks and the video was fully edited by us.•",
+		"dimensions": "8:12",
+		"source": "YouTube",
+		"title": "Neuroscientists: You Will Never Lack Willpower Again!",
+		"title-short": "Neuroscientists",
+		"URL": "https://www.youtube.com/watch?v=sXi2gFR9zZ4",
+		"director": [
+			{
+				"literal": "Mindset"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "ThreeModelsDigital",
+		"type": "webpage",
+		"title": "The Three Models of Digital Identity Relationships | by Timothy Ruff | Evernym | Medium",
+		"URL": "https://medium.com/evernym/the-three-models-of-digital-identity-relationships-ca0727cb5186",
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					29
+				]
+			]
+		}
+	},
+	{
+		"id": "AdvancedSlidesDocumentation",
+		"type": "webpage",
+		"title": "Advanced Slides Documentation",
+		"URL": "https://mszturc.github.io/obsidian-advanced-slides/",
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					29
+				]
+			]
+		}
+	},
+	{
+		"id": "zsoltsvisualpersonalknowledgemanagementObsidianCanvasSTEROIDS2023",
+		"type": "motion_picture",
+		"abstract": "🙏Developing new features takes more time than you can ever imagine. If you enjoy the new Excalidraw features, consider becoming a GOLD supporter, or buy me a coffee here: https://ko-fi.com/zsolt\n\n✏️ If you want to learn my Visual Thinking Workflows firsthand, Sign up for the Visual Thinking Workshop: https://www.visual-thinking-workshop.... \n🚀 Cohort 5 starts on August 19. 📔 We will be summarizing Finite and Infinite Games into a book-on-a-page \n\n🪲If you'd like to request a feature or report a bug, please raise it on GitHub: https://github.com/zsviczian/obsidian...\n📩 If you want to connect, you can reach me: (@zsviczian) on the Obsidian Members Group (OMG) on Discord, or on 🐦 Twitter: https://twitter.com/zsviczian\n\n----\n00:00 Intro\n00:30 Excalidraw Frames\n01:17 Inserting a Markdown Frame with the Insert ANY File button\n02:48 Inserting a PDF document using the Command Palette\n04:04 Inserting a KANBAN board\n04:54 Inserting an .mp4 movie from the vault\n05:42 Setting the theme of the imported documents\n07:42 Drag and Drop from the Obsidian file explorer\n08:34 Modifier key table\n10:00 Embedding YouTube\n11:19 Embedding a Tweet\n12:02 Embedding a Webpage via drag and drop\n12:43 Embedding a Chat GPT conversation using the Web-Embed tool\n14:16 Embedding excalidraw.com\n15:10 Embedding Obsidian Excalidraw in an interactive form not yet supported\n16:12 Excalidraw drawing features are all available\n17:27 Embedded frames are always on top\n17:57 Preview includes placeholders\n18:54 Closing thoughts - this is an MVP\n\n----\n🍿Watch next: \n📽️ How to create a sketchnote summary of a book:    • How to create a s...  \n📽️ Unlock Your Creativity with Visualization: The Power of Spatial Thinking -    • Unlock Your Creat...  \n📽️ From Information Overload to Clarity:    • From Information ...  \n📽️ Launching the Visual Thinking Workshop:    • Launching the Vis...  \n📽️ Showcasing Excalidraw in Obsidian:    • Showcasing Excali...  \n📽️ Digest What You Read: Walkthrough of my process for understanding Rationality by Eliezer Yudkowsky:    • Digest What You R...  \n📽️ Custom Pens:    • Obsidian-Excalidr...  \n📽️ Block Reference Parts of Images:    • Block reference p...  \n\nLinks: \n---------\nVisual Thinking Workshop: https://www.visual-thinking-workshop....\nMy blog: https://zsolt.blog/ \nObsidian: https://obsidian.md\nExcalidraw-Obsidian 1.9.5 release notes: https://github.com/zsviczian/obsidian...\n\n#excalidraw #obsidianmd",
+		"dimensions": "20:20",
+		"source": "YouTube",
+		"title": "\"Obsidian\" Canvas on STEROIDS: Excalidraw 1.9.5 release",
+		"title-short": "\"Obsidian\" Canvas on STEROIDS",
+		"URL": "https://www.youtube.com/watch?v=ICpoyMv6KSs",
+		"director": [
+			{
+				"literal": "Zsolt's Visual Personal Knowledge Management"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					29
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": "bryanjenksYouTubeShortsPKM2021",
+		"type": "motion_picture",
+		"abstract": "▬▬▬▬▬▬▬▬▬▬ ► CHECK THESE OUT ◀︎▬▬▬▬▬▬▬▬▬▬\n📧️ NEWSLETTER: https://bryanjenkstech.ck.page/d4ec07...\n💬 DISCORD:  https://discord.gg/MxCVshN\n🗣️ SOCIALS:  https://streamerlinks.com/tallguyjenks\n▬▬▬▬▬▬▬▬▬▬ ► SUPPORT THE CHANNEL ◀︎▬▬▬▬▬▬▬▬▬▬\n👨🏻‍💻️ GITHUB SPONSOR:  https://github.com/sponsors/tallguyjenks\n🙏🏻️ AMAZON WISHLIST: https://www.amazon.com/hz/wishlist/ls...\n😇 PATREON:  https://www.patreon.com/bryanjenks?fa...\n🙌🏻️ YOUTUBE MEMBERSHIP:     / bryanjenkstech  \n☕ BUY ME A COFFEE:  https://www.buymeacoffee.com/tallguyj...\n💵 PAYPAL:  https://www.paypal.me/tallguyjenks \n📊️ FREE STOCKS:   http://join.robinhood.com/bryanj67\n▬▬▬▬▬▬▬▬▬▬ ► My Newsletter ◀︎▬▬▬▬▬▬▬▬▬▬\n📧️ NEWSLETTER: https://bryanjenkstech.ck.page/d4ec07...\n▬▬▬▬▬▬▬▬▬▬ ► My Gear ◀︎▬▬▬▬▬▬▬▬▬▬\n⚙️GEAR:  https://kit.co/tallguyjenks/my-gear\n▬▬▬▬▬▬▬▬▬▬ ► Questions? ◀︎▬▬▬▬▬▬▬▬▬▬\n❓️FAQ:  https://github.com/BryanJenksCommunit...\n▬▬▬▬▬▬▬▬▬▬ ► Social ◀︎▬▬▬▬▬▬▬▬▬▬\n💬 DISCORD:  https://discord.gg/MxCVshN\n🐦 TWITTER:  https://twitter.com/tallguyjenks\n📺 TWITCH:   https://www.twitch.tv/tallguyjenks\n📜️ MEDIUM:  https://medium.com/@tallguyjenks\n💼️ LINKEDIN: https://www.linkedin.com/in/bryanjenks/\n🖥️ GITHUB:  https://github.com/tallguyjenks\n🌎 WEBSITE:  https://www.bryanjenks.dev/\n▬▬▬▬▬▬▬▬▬▬ ► The Rest ◀︎▬▬▬▬▬▬▬▬▬▬\nThanks for watching and if you liked this video please leave a 👍🏻\nSubscribe to my channel and click the 🔔 icon for notifications when I post a new video\n\nIf you read this far put a 🐄 in the comments!\n▬▬▬▬▬▬▬▬▬▬ ► TAGS ◀︎▬▬▬▬▬▬▬▬▬▬\n#obsidian #zettelkasten #bryanjenks\n\n▬▬▬▬▬▬▬▬▬▬ ► TIMESTAMPS ◀︎▬▬▬▬▬▬▬▬▬▬",
+		"dimensions": "0:52",
+		"source": "YouTube",
+		"title": "YouTube #Shorts | PKM Vocabulary: Zettelkasten",
+		"title-short": "YouTube #Shorts | PKM Vocabulary",
+		"URL": "https://www.youtube.com/watch?v=eiSRphBvf4c",
+		"director": [
+			{
+				"literal": "Bryan Jenks"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					29
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					10,
+					18
+				]
+			]
+		}
+	},
+	{
+		"id": "simonsinstituteRemarksQuantumClassical2023",
+		"type": "motion_picture",
+		"abstract": "Ryan O'Donnell (Carnegie Mellon University)\nhttps://simons.berkeley.edu/talks/rya...\nRounding Schemes for Quantum Optimization Workshop",
+		"dimensions": "1:01:16",
+		"source": "YouTube",
+		"title": "Some Remarks About Quantum and Classical Local Hamiltonian Optimization and SDP Rounding",
+		"URL": "https://www.youtube.com/watch?v=fXFYZDM4hF4",
+		"director": [
+			{
+				"literal": "Simons Institute"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					29
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					29
+				]
+			]
+		}
+	},
+	{
+		"id": "ShangShuDaYuMoQuanWenJieDuJiFanYi",
+		"type": "webpage",
+		"title": "《尚书》大禹谟全文解读及翻译",
+		"URL": "https://shangshu.5000yan.com/yushu/dayumo/",
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					29
+				]
+			]
+		}
+	},
+	{
+		"id": "ShangShuDaYuMoWeiJiWenKu",
+		"type": "webpage",
+		"language": "zh-Hant",
+		"title": "尚書/大禹謨 - 維基文庫，自由的圖書館",
+		"URL": "https://zh.wikisource.org/zh-hant/%E5%B0%9A%E6%9B%B8/%E5%A4%A7%E7%A6%B9%E8%AC%A8",
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					29
+				]
+			]
+		}
+	},
+	{
+		"id": "WikiwandShangShuShu",
+		"type": "webpage",
+		"abstract": "《尚書》，原稱為《書》，為先秦時代政事文獻的彙編。 《尚書》早於儒家出現，本與儒家無關，但後世儒家將其追認為儒家經典，並列入十三經之一，為儒學建構其政治思想的源頭。在四庫全書中隸屬於經部。 《尚書》的成書、整理、流傳過程頗為複雜，歷史上出現過多個書寫字體、篇卷構成、具體內容不同的版本；部份曾經由帝王朝廷組織學者整理、校勘，頒佈「定本」。今本的主體，部份至遲出現於東晉；其「部份篇目」內容的來源可靠性從南宋開始遭受懷疑。清初，這些篇目在主流學術界被定作「偽書」，甚至排除出《尚書》之外。二十世紀以來，隨著出土文獻研究的發展，大大拓展了對古代尚書文獻的認識。",
+		"container-title": "Wikiwand",
+		"title": "Wikiwand - 尚書 (書)",
+		"URL": "https://wikiwand.com/zh-hant/尚书_(书)",
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					29
+				]
+			]
+		}
+	},
+	{
+		"id": "cs50GitInternalsJohn2018",
+		"type": "motion_picture",
+		"dimensions": "57:38",
+		"source": "YouTube",
+		"title": "Git Internals by John Britton of GitHub - CS50 Tech Talk",
+		"URL": "https://www.youtube.com/watch?v=lG90LZotrpo",
+		"director": [
+			{
+				"literal": "CS50"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					28
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					4,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "RobertKraglerReceives",
+		"type": "webpage",
+		"title": "Robert Kragler receives an honorary doctorate",
+		"URL": "https://idw-online.de/de/news135835",
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					28
+				]
+			]
+		}
+	},
+	{
+		"id": "FreeSoftwareMedia",
+		"type": "webpage",
+		"title": "The Free Software Media System | Jellyfin",
+		"URL": "https://jellyfin.org/",
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "assemblyaiLeMURHereFramework2023",
+		"type": "motion_picture",
+		"abstract": "LeMUR is here! A framework for applying LLMs to audio data\n\nIntroducing LeMUR, the easiest way to build LLM apps on spoken data. Search, summarize, ask questions, and generate new text, with knowledge of all your application’s spoken data. LeMUR performs intelligent retrieval to offer high-quality LLM responses with a single API call.\n\nTry it for free on our playground: https://www.assemblyai.com/playground...\nTo learn more, check out our blog post: https://www.assemblyai.com/blog/lemur\nGetting Started Colab: https://colab.research.google.com/dri...\n\n▬▬▬▬▬▬▬▬▬▬▬▬ CONNECT ▬▬▬▬▬▬▬▬▬▬▬▬\n\n🖥️ Website: https://www.assemblyai.com\n🐦 Twitter: https://twitter.com/AssemblyAI\n🦾 Discord: https://discord.gg/Cd8MyVJAXd\n▶️  Subscribe: https://www.youtube.com/c/AssemblyAI?...\n🔥 We're hiring! Check our open roles: https://www.assemblyai.com/careers\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\nIcons used in the video:\n- https://www.flaticon.com/free-icons/m..., title=\"meeting icons\" created by Freepik - Flaticon\n- https://www.flaticon.com/free-icons/p..., title=\"phone icons\" created by Freepik - Flaticon\n- https://www.flaticon.com/free-icons/v..., title=\"video icons\" created by Freepik - Flaticon\n- https://www.flaticon.com/free-icons/t..., title=\"talk show icons\" created by nawicon - Flaticon",
+		"dimensions": "3:05",
+		"source": "YouTube",
+		"title": "LeMUR is here! A framework for applying LLMs to audio data",
+		"URL": "https://www.youtube.com/watch?v=_po3SkuafQw",
+		"director": [
+			{
+				"literal": "AssemblyAI"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					28
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "appelbaumCommunicationWorldPervasive2022",
+		"type": "thesis",
+		"event-place": "Eindhoven",
+		"genre": "Phd Thesis 1 (Research TU/e / Graduation TU/e)",
+		"note": "ISBN: 9789038654713",
+		"publisher": "Eindhoven University of Technology",
+		"publisher-place": "Eindhoven",
+		"source": "Eindhoven University of Technology research portal",
+		"title": "Communication in a world of pervasive surveillance: Sources and methods: Counter-strategies against pervasive surveillance architecture",
+		"title-short": "Communication in a world of pervasive surveillance",
+		"author": [
+			{
+				"family": "Appelbaum",
+				"given": "Jacob R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					3,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": "sciencesRobertDRKRAGLER",
+		"type": "webpage",
+		"abstract": "Implementation of the Tanh-Coth-Method (TaCoM) - first suggested by W. Malfliet (1992) and A.-M. Wazwaz (2009) - and into Mathematica in order to find symbolic solutions of solitary type for families of nonlinear PDEs (such as Burgers or KdV equations etc. )",
+		"container-title": "ResearchGate",
+		"language": "en",
+		"title": "Robert DR. KRAGLER | Professor | Prof. , Dr. habil, Dr. h.c. | Physical Technique (Faculty Technology & Management) | Research profile",
+		"URL": "https://www.researchgate.net/profile/Robert-Dr-Kragler",
+		"author": [
+			{
+				"family": "Sciences",
+				"given": "Robert Dr KraglerWeingarten University of Applied"
+			},
+			{
+				"family": "TechniqueProf",
+				"given": "· Physical"
+			},
+			{
+				"family": "habil",
+				"given": "Dr"
+			},
+			{
+				"family": "h.c",
+				"given": "Dr"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					28
+				]
+			]
+		}
+	},
+	{
+		"id": "appelbaumCommunicationWorldPervasive",
+		"type": "article-journal",
+		"language": "en",
+		"source": "Zotero",
+		"title": "Communication in a world of pervasive surveillance",
+		"author": [
+			{
+				"family": "Appelbaum",
+				"given": "Jacob R"
+			}
+		]
+	},
+	{
+		"id": "AssemblyAIYouTube",
+		"type": "webpage",
+		"abstract": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+		"language": "en",
+		"title": "(8) AssemblyAI - YouTube",
+		"URL": "https://www.youtube.com/",
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					28
+				]
+			]
+		}
+	},
+	{
+		"id": "AssemblyAIAIModels",
+		"type": "webpage",
+		"title": "AssemblyAI | AI models to transcribe and understand speech",
+		"URL": "https://www.assemblyai.com/",
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					28
+				]
+			]
+		}
+	},
+	{
+		"id": "nascomparesQNAPNASJellyfin2023",
+		"type": "motion_picture",
+		"abstract": "The QNAP TS-264 NAS Drive Review Article - https://nascompares.com/2023/01/25/qn...\n\nYou can find the QNAP TS-264 NAS on Amazon here - https://amzn.to/3wxmYEe\n\nQNAP TS-464 NAS Written Review - https://nascompares.com/2022/04/18/qn...\n\nQNAP TS-464 NAS Video Review -    • QNAP TS-464 NAS H...  \n\nQNAP TS-464 NAS 4K Plex Testing -    • QNAP TS-464 4K ON...  \n\nFor those looking to transition from cloud-based platforms to a more compact private server, the QNAP TS-264 NAS is a highly desirable option for many. The latest release in QNAP’s flagship series of Prosumer/SMB hardware, the TS-264 represents the most advanced iteration of this product line to date. This is to be expected, as advancements in hardware technology continually drive improvements in power, performance, and efficiency. The TS-264 stands out in particular for its evolutionary design and mature approach to hardware engineering, making it a noteworthy NAS to consider. Historically, QNAP has been a pioneer in the NAS hardware market, offering cutting-edge technology at a competitive value. The TS-264 series is notable for its exceptional scalability, with architecture that is unmatched in the industry. Despite the comprehensive OS-level platform, services, and applications offered through QTS, QNAP faced challenges in Jan 2022 when they were targeted by ransomware attacks via discovered Linux vulnerabilities, causing some concerns regarding platform security. However, with the latest release of QTS 5 and a large range of security improvements, safeguards, changes in system defaults and a more locked-down approach to platform management, QNAP aims to regain trust and move forward.\n\nVideo Chapters\n00:00 - The Start\n00:15 - What is Jellyfin?\n00:55 - Why is Installing Jellyfin as a Container Tough for Some Users?\n02:34 - The Best Jellyfin NAS Installer QNAP App\n06:41 - Important Disclaimer\n07:08 - How to Install the Jellyfin Installer QPKG\n08:41 - Initializing Jellfyfin on your QNAP NAS\n09:35 - Adding Libraries to Jellyfin for your Movies, TV, Music etc\n10:23 - Setting metadata Crawling Up in Jellyfin\n11:23 - An Important note about Remote Access to  Jellyfin on your QNAP NAS\n13:04 - DLNA Support in Jellyfin\n13:30 - Hardware Acceleration/Transcoding on Jellyfin on the QNAP NAS\n\nLooking for deals and offers on all things NAS, DAS, SSD, HDD and more? On NASCompares we have a featured DEALS Page that is regularly updated by me, Eddie and many of our visitors. Take a look at what devices are on on special offer right now, worldwide, by visiting here - https://nascompares.com/daily-deals/\n\nThinking of buying a product mentioned in today's video from Amazon? If this video has helped you make that decision, you can head to Amazon using this link and we will get a small % profit of whatever you buy, which goes directly back to NASCompares and allows me and Eddie to keep doing what we do here on YouTube and the Blog - https://amzn.to/3TjM0kj\n\nFind NAS Solutions from SCAN.CO.UK here (and support us at NASCompares at no extra cost!) - https://tidd.ly/3eSqzaT\n\nVisit the Community Support forum 'ASK NASCompares' here if you need more help - https://ask.nascompares.com/\n\nNASCompares Free Advice Area - https://nascompares.com/contact-us/\n\nVulnerabilities And Exploits On Synology & QNAP NAS – Stay Updated! - https://nascompares.com/2021/05/26/vu...\n\nNAS Buyers Guide - Get It RIGHT First Time - https://nascompares.com/guide/nas-buy...\n\nSynology NAS DSM 7.1 NAS Software Review -    • Synology DSM 7.1 ...  \n\nSynology DSM 7 Review - ALL PARTS - https://nascompares.com/synology-dsm-...\n\nQNAP QuTS 5.1 ZFS NAS Software Review - Best of Both Worlds -    • QNAP QuTS 5.0.1 Z...  \n\n8 WAYS TO SAVE ELECTRICITY AND MONEY ON YOUR NAS -    • 8 WAYS TO SAVE EL...  \n\nMesh Routers VS Powerline Adapters And Wi-Fi Extenders, A Buyers Guide - https://nascompares.com/2021/03/08/me...\n\nWD Colours Hard Drive Buyers Guide 2022 -    • WD Colours Hard D...  \n\nAn Idiots Guide to WD SSDs - A Buyers Guide WD Colours SSDs -    • An Idiots Guide t...  \n\nIntel Celeron vs AMD Embedded Ryzen NAS -    • Intel Celeron vs ...  \n\nNAS Media Server vs Streaming Netflix, Disney+, Prime, Hulu, HBO - Which Should You Choose? -     • Synology DS1522+ ...  \n\nAre NAS Drives Still Safe in 2022/2023? -    • Are NAS Drives St...",
+		"dimensions": "16:57",
+		"source": "YouTube",
+		"title": "QNAP NAS Jellyfin Installation - THE EASY WAY TO DO IT",
+		"URL": "https://www.youtube.com/watch?v=Lgh3AsYkQ0s",
+		"director": [
+			{
+				"literal": "NASCompares"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					28
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					2,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "AnakAgungDuwi",
+		"type": "webpage",
+		"abstract": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+		"language": "en",
+		"title": "(8) Anak Agung Duwi Arsana - YouTube",
+		"URL": "https://www.youtube.com/",
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "shlainAlphabetGoddessConflict1999",
+		"type": "book",
+		"event-place": "New York",
+		"ISBN": "978-0-14-019601-6",
+		"language": "eng",
+		"number-of-pages": "464",
+		"publisher": "Penguin/Compass",
+		"publisher-place": "New York",
+		"source": "K10plus ISBN",
+		"title": "The alphabet versus the goddess: the conflict between word and image",
+		"title-short": "The alphabet versus the goddess",
+		"author": [
+			{
+				"family": "Shlain",
+				"given": "Leonard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "tiffanyshlain&letitripplestudioAlphabetVsGoddess2012",
+		"type": "motion_picture",
+		"abstract": "In this groundbreaking book, Leonard Shlain, author of the bestselling \"Art & Physics,\" proposes that the process of learning alphabetic literacy rewired the human brain, with profound consequences for culture. Making remarkable connections across a wide range of subjects including brain function, anthropology, history, and religion, Shlain argues that literacy reinforced the brain's linear, abstract, predominantly masculine left hemisphere at the expense of the holistic, iconic feminine right one. This shift upset the balance between men and women initiating the disappearance of goddesses, the abhorrence of images, and, in literacy's early stages, the decline of women's political status. Patriarchy and misogyny followed. \n \nwww.leonardshlain.com \n \nA lot of these ideas were explored in a film that his daughter Tiffany Shlain made in 2011. You can find out more about that film at www.connectedthefilm.com \n \nAbout Dr. Leonard Shlain: \n \nThe Bay Area and the world lost a renowned visionary thinker and educator when Leonard Shlain, best-selling author and San Francisco surgeon, died Monday, May 11, 2009 at his home in Mill Valley after a battle with brain cancer. He was 71 years old. \n \nAdmired among artists, scientists, philosophers, anthropologists and educators, Leonard Shlain authored three best-selling books: Art & Physics, Alphabet vs. The Goddess and Sex, Time, and Power. He delivered multimedia presentations based upon his books in venues around the world including Harvard, The New York Museum of Modern Art, CERN, Los Alamos, The Florence Academy of Art and the European Council of Ministers. His fans include Al Gore, Norman Lear and singer Bjork who credited Shlain 's Alphabet vs. The Goddess with inspiring her recent album \"Wanderlust\". His fourth book Leonardo's Brain about Leonardo Da Vinci will be published next spring by Viking. Dr. Shlain was a surgeon for 38 years at California Pacific Medical Center where he headed the Laparascopic Surgery Department and an Associate Clinical Professor of Medicine at UCSF. \n \nLeonard Shlain was a loving and generous man with a larger-than-life intellect and a prodigious curiosity. He was a widely respected surgeon and attentive father and husband. He had an encyclopedic knowledge which he wove with highly creative insights in his books and presentations. A voracious reader, he took pride in finding the perfect metaphor and delighted in making connections between everything from art, physics, to human evolution and sexuality. Dinner conversations spanned from the Heisenberg Uncertainty Principle to politics, literature to a hilarious joke. When his children were young, he brought a human brain in a bucket of formaldehyde during the school show and tell. When he came home after a hard day's work as a young surgeon, he would excitedly diagram his operation of the day on a napkin. Later, his diagrams became more adventuresome and expanded to thought experiments that included what it would be like to sit astride a beam of light and how that corresponded with Picasso's rose period, blue period. This eventually led him to write his first book, Art and Physics. \n \nLeonard Michael Shlain was born on August 28th, 1937 in Detroit Michigan. He graduated Central High School at the age of fifteen, attended University of Michigan and then graduated Wayne State University Medical School at twenty three (AOA), where he was recently honored as the alumnus of the year. After serving as a Captain in the U.S. Army stationed in France, he interned at Mt. Zion in San Francisco, began his surgical residency at Bellevue Hospital in New York and then completed it at California Pacific Medical Center in San Francisco where he set up his general surgical practice in 1969. In 1973, he volunteered and served as a trauma surgeon in Isreal during the Yom Kippur War. An early pioneer of gallbladder and hernia laparascopic surgery in 1990, he was flown around the world to train doctors in the new techniques, patented several surgical instruments and specialized in gallbladder and hernia operations.",
+		"dimensions": "1:15:14",
+		"source": "YouTube",
+		"title": "The Alphabet vs. The Goddess Lecture by Dr. Leonard Shlain",
+		"URL": "https://www.youtube.com/watch?v=2QQuD62RxrU",
+		"director": [
+			{
+				"literal": "Tiffany Shlain & Let It Ripple Studio"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					11,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "SelfMonitoringAnalysisReporting2023",
+		"type": "entry-encyclopedia",
+		"abstract": "Self-Monitoring, Analysis and Reporting Technology (S.M.A.R.T., often written as SMART) is a monitoring system included in computer hard disk drives (HDDs) and solid-state drives (SSDs). Its primary function is to detect and report various indicators of drive reliability with the intent of  anticipating imminent hardware failures.\nWhen S.M.A.R.T. data indicates a possible imminent drive failure, software running on the host system may notify the user so action can be taken to prevent data loss, and the failing drive can be replaced and data integrity maintained.",
+		"container-title": "Wikipedia",
+		"language": "en",
+		"license": "Creative Commons Attribution-ShareAlike License",
+		"note": "Page Version ID: 1166660934",
+		"source": "Wikipedia",
+		"title": "Self-Monitoring, Analysis and Reporting Technology",
+		"URL": "https://en.wikipedia.org/w/index.php?title=Self-Monitoring,_Analysis_and_Reporting_Technology&oldid=1166660934",
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "geodeltalabsAbsoluteBeginnerGuide2020",
+		"type": "motion_picture",
+		"abstract": "This tutorial is an absolute beginner's guide to QGIS 3. If you are just diving into QGIS and interested in picking up QGIS through some examples of practical applications of QGIS, then you don't have to look any further. Check out this tutorial with 1+ hours worth of content absolutely for free.\n\nDownload the data - https://drive.google.com/drive/folder...\n\nTimeline:\n00:00 - Introduction to the Course Structure \n01:48 - Installing QGIS 3 (Version 'Pi')\n04:33 - Introduction to QGIS Panels & Toolbars\n09:16 - Working with Vector Data\n18:40 - Adding Labels to Vector Data\n22:19 - Downloading external plugins (Ex: OpenStreetMap)\n26:36 - Creating new Shapefiles by Digitizing \n41:49 - Working with Raster Data\n56:44 - Exporting Shapefiles into Google Earth (.KMZ)\n58:41 - Composing a Standard Map using QGIS\n\nIf you would like to support our work through Patreon - https://www.patreon.com/geodeltalabs",
+		"dimensions": "1:10:07",
+		"source": "YouTube",
+		"title": "An Absolute Beginner's Guide to QGIS 3",
+		"URL": "https://www.youtube.com/watch?v=NHolzMgaqwE",
+		"director": [
+			{
+				"literal": "GeoDelta Labs"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					7,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "ucrlibraryIntroductionQGIS2022",
+		"type": "motion_picture",
+		"abstract": "QGIS is a free and open source geographic information system. It allows users to create, edit, visualize, analyze and publish geospatial information on Windows, Mac, Linux, and BSD. This workshop will introduce some of the basic mapping functions available in QGIS.",
+		"dimensions": "1:00:54",
+		"source": "YouTube",
+		"title": "Introduction to QGIS",
+		"URL": "https://www.youtube.com/watch?v=kxJI5FAGjzQ",
+		"director": [
+			{
+				"literal": "ucrlibrary"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					9,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "it34QGISBeginnerPart2022",
+		"type": "motion_picture",
+		"abstract": "Take a look at this beginner tutorial and create your first map in QGIS.\n\n0:00 Intro\n0:43 Adding your first data\n2:35 Connecting to WMS\n4:13 Downloading Layout Loader\n4:30 Making your first map\n\n\n\nDownload QGIS: https://www.qgis.org/en/site/forusers...\n- We're using QGIS 3.26.0 \n\nWMS URL: https://miljoegis.mim.dk/wms?servicen...\n\nKlaes Karlsson:    / @klaskarlsson  \n\n----------------------------------------------------------------\nFind IT34 here \n• LinkedIN - https://www.linkedin.com/company/it34...\n• Website - https://it34.com/en/\n• GIS consultant - https://it34.com/da/ydelser/gis-konsu...\n----------------------------------------------------------------",
+		"dimensions": "6:16",
+		"source": "YouTube",
+		"title": "QGIS Beginner Part 1: Making Your First Map",
+		"title-short": "QGIS Beginner Part 1",
+		"URL": "https://www.youtube.com/watch?v=idQvOMWNMGI",
+		"director": [
+			{
+				"literal": "IT34"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": "WelcomeQGISProject",
+		"type": "webpage",
+		"title": "Welcome to the QGIS project!",
+		"URL": "https://www.qgis.org/en/site/",
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "it34QGISBeginnerPart2022a",
+		"type": "motion_picture",
+		"abstract": "Take a look at this beginner tutorial and learn about vector data.\n\n0:00 Intro\n0:32 Downloading your first data\n1:15 What is GIS\n1:46 Types of spatial data\n2:27 Working in QGIS\n3:38 Data validity\n5:05 Exporting data from QGIS\n6:07 Attribute table and filter\n\n\nDownload sample data: https://download.qgis.org/downloads/d...\n\n----------------------------------------------------------------\nFind IT34 here \n• LinkedIN - https://www.linkedin.com/company/it34...\n• Website - https://it34.com/en/\n• GIS consultant - https://it34.com/da/ydelser/gis-konsu...\n----------------------------------------------------------------",
+		"dimensions": "7:19",
+		"source": "YouTube",
+		"title": "QGIS Beginner Part 2: Working with Vector Data",
+		"title-short": "QGIS Beginner Part 2",
+		"URL": "https://www.youtube.com/watch?v=eDckTBKqBD0",
+		"director": [
+			{
+				"literal": "IT34"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					9,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "it34QGISBeginnerPart2022b",
+		"type": "motion_picture",
+		"abstract": "Have a look at this beginner tutorial and learn about raster data.\n\n0:00 Intro\n0:51 What is raster data\n1:35 Downloading data\n2:16 Importing data to QGIS\n2:31 Creating virtual raster\n3:14 Raster symbology\n4:40 Global Surface Water transitions data\n5:09 Create a map of raster data\n\n\nDownload Global Surface Water transitions data here: https://global-surface-water.appspot....\n\n----------------------------------------------------------------\nFind IT34 here \n• LinkedIN - https://www.linkedin.com/in/jakob-lau...\n• Website - https://it34.com/en/\n• GIS consultant - https://it34.com/da/ydelser/gis-og-da...\n----------------------------------------------------------------",
+		"dimensions": "7:11",
+		"source": "YouTube",
+		"title": "QGIS Beginner Part 3: Intro to Raster Data",
+		"title-short": "QGIS Beginner Part 3",
+		"URL": "https://www.youtube.com/watch?v=pUYvL0p3rtQ",
+		"director": [
+			{
+				"literal": "IT34"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					11,
+					24
+				]
+			]
+		}
+	},
+	{
+		"id": "pekelHighresolutionMappingGlobal2016",
+		"type": "article-journal",
+		"container-title": "Nature",
+		"DOI": "10.1038/nature20584",
+		"ISSN": "0028-0836, 1476-4687",
+		"issue": "7633",
+		"journalAbbreviation": "Nature",
+		"language": "en",
+		"page": "418-422",
+		"source": "DOI.org (Crossref)",
+		"title": "High-resolution mapping of global surface water and its long-term changes",
+		"URL": "https://www.nature.com/articles/nature20584",
+		"volume": "540",
+		"author": [
+			{
+				"family": "Pekel",
+				"given": "Jean-François"
+			},
+			{
+				"family": "Cottam",
+				"given": "Andrew"
+			},
+			{
+				"family": "Gorelick",
+				"given": "Noel"
+			},
+			{
+				"family": "Belward",
+				"given": "Alan S."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					12,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "it34QGISQuickTips2022",
+		"type": "motion_picture",
+		"abstract": "Quick guide to importing data to DB manager and executing queries in a PostGIS/Postgresql database directly from QGIS.\n\n\n----------------------------------------------------------------\nFind IT34 here \n• LinkedIN - https://www.linkedin.com/company/it34...\n• Website - https://it34.com/en/\n• GIS consultant - https://it34.com/da/ydelser/gis-konsu...\n----------------------------------------------------------------",
+		"dimensions": "3:26",
+		"source": "YouTube",
+		"title": "QGIS Quick Tips: Working With DB Manager",
+		"title-short": "QGIS Quick Tips",
+		"URL": "https://www.youtube.com/watch?v=qdq9EfJyF08",
+		"director": [
+			{
+				"literal": "IT34"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					20
+				]
+			]
+		}
+	},
+	{
+		"id": "templeuniversitygraduatestudentconferenceZajjDaughertyRepresentation2016",
+		"type": "motion_picture",
+		"abstract": "Zajj Daugherty (City College of New York)\n\nRepresentation theory and combinatorics of diagram algebras\n\nClassical Schur-Weyl connects the representation theory of the general linear group to that of the symmetric group via their commuting actions on a common tensor space. We will take a brief tour of other modern examples of Schur-Weyl duality, and the consequent combinatorial results for algebras of braids, tangles and other such families of diagrams.",
+		"dimensions": "37:28",
+		"source": "YouTube",
+		"title": "Zajj Daugherty - Representation theory and combinatorics of diagram algebras",
+		"URL": "https://www.youtube.com/watch?v=noh2AiUvJ2w",
+		"director": [
+			{
+				"literal": "Temple University Graduate Student Conference"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					8,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "daughertyRepresentationTheoryCombinatorics",
+		"type": "article-journal",
+		"container-title": "Representation theory",
+		"language": "en",
+		"source": "Zotero",
+		"title": "Representation theory and combinatorics of diagram algebras.",
+		"author": [
+			{
+				"family": "Daugherty",
+				"given": "Zajj"
+			}
+		]
+	},
+	{
+		"id": "tecladoCompleteGuidePython2021",
+		"type": "motion_picture",
+		"abstract": "What are virtual environments? Why do we use them? How do virtual environments work internally?\n\nThe answers to these questions and more in this video! \n\n-- Links --\n\n🐍 Our Complete Python Course: https://www.udemy.com/course/the-comp...\n\n✅ Subscribe to the channel: https://www.youtube.com/tecladocode?s...\n\n✅ Our Discord server: https://discord.gg/78Nvd3p\n\n✅ Instagram: https://instagram.com/tecladocode",
+		"dimensions": "0:15",
+		"source": "YouTube",
+		"title": "The Complete Guide to Python Virtual Environments!",
+		"URL": "https://www.youtube.com/watch?v=KxvKCSwlUv8",
+		"director": [
+			{
+				"literal": "teclado"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					4,
+					13
+				]
+			]
+		}
+	},
+	{
+		"id": "allanglesHowSubtractionMakes2023",
+		"type": "motion_picture",
+		"abstract": "#some3 #algebra #vectors #logic\n\nIt's time for the yearly Summer of Math Exposition again.  In this year's entry, we explore anti-symmetric operations such as subtraction and logical implication.  We discover that anti-symmetry has many advantages.  It makes things like determinants, wedge products, and velocity vectors more invariant under many types of transformations.\n\nIf you're new to the channel, don't forget to subscribe and give us a thumbs up.  Please support All Angles on Patreon, and get early access to new videos:  https://www.patreon.com/user?u=86649007\n\n#some3",
+		"dimensions": "18:22",
+		"source": "YouTube",
+		"title": "How subtraction makes the universe more robust | #SoME3",
+		"URL": "https://www.youtube.com/watch?v=PIo6C2U1GEY",
+		"director": [
+			{
+				"literal": "All Angles"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					8,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					7,
+					20
+				]
+			]
+		}
+	},
+	{
+		"id": "coeckePicturingQuantumProcesses2017",
+		"type": "book",
+		"call-number": "QC174.12 .C57 2017",
+		"event-place": "Cambridge, United Kingdom ; New York, NY, USA",
+		"ISBN": "978-1-107-10422-8",
+		"number-of-pages": "827",
+		"publisher": "Cambridge University Press",
+		"publisher-place": "Cambridge, United Kingdom ; New York, NY, USA",
+		"source": "Library of Congress ISBN",
+		"title": "Picturing quantum processes: a first course in quantum theory and diagrammatic reasoning",
+		"title-short": "Picturing quantum processes",
+		"author": [
+			{
+				"family": "Coecke",
+				"given": "Bob"
+			},
+			{
+				"family": "Kissinger",
+				"given": "Aleks"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
 				]
 			]
 		}

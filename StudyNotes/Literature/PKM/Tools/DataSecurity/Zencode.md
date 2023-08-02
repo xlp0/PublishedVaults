@@ -17,4 +17,6 @@ In this example, we declare a secret key, use it to encrypt the message "Hello, 
 
 Zencode plays a crucial role in Zenroom as it allows you to define the rules for the behavior of objects within the Zenroom virtual machine. These objects can represent participants in a cryptographic protocol or even define the behavior of a digital contract. When executed, Zenroom evaluates the Zencode script and enforces the specified rules, ensuring the security and privacy of the interactions.
 
+Zencode's simple triplet-based syntactic structure is isomorphic to [[Hoare triple]], and it can be used to capture the axiomatic design assumption, as formulated in [[Axiomatic Design]].
+
 It's important to note that developments might have occurred since my last update, so I recommend checking the official Zenroom documentation or repository for the latest information on Zenroom and Zencode.

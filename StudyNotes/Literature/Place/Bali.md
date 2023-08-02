@@ -1,6 +1,7 @@
 ---
 Aliases: Bali, Bali Province, Balinese
 tags: favorite
+type: place, island
 ---
 
 #bali #THK
