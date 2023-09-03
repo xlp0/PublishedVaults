@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "bd8747971879722a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature/People/Vladmir Voevodsky.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Dirich",
+                "query": "SOME UNIQUE LINK in STUDY NOTE",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -61,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting/Home.md"
+                "file": "Literature/People/Vladmir Voevodsky.md"
               }
             }
           },
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting/Home.md",
+                "file": "Literature/People/Vladmir Voevodsky.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +181,17 @@
               "type": "smart-connections-view",
               "state": {}
             }
+          },
+          {
+            "id": "462add10eb147cec",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       },
       {
         "id": "4dbad1a34e0b2a5c",
@@ -184,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/Home.md",
+                "file": "Literature/People/Vladmir Voevodsky.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -220,34 +240,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1d079b6978ea2f68",
+  "active": "bd8747971879722a",
   "lastOpenFiles": [
+    "Literature/People/Tiago Forte.md",
+    "Literature/People/Thomas G. Dietterich.md",
+    "Literature/Media/Bitcoin L2 Proposal.md",
+    "Literature/Media/Elastos.md",
+    "Literature/People/Vladmir Voevodsky.md",
+    "Literature/People/Yuji Ijiri.md",
+    "Literature/PKM/Tools/Obsidian/Obsidian.md",
+    "SOME UNIQUE LINK in STUDY NOTE.md",
+    "Literature/PKM/personal knowledge management.md",
+    "Literature/PKM/Tools/Virtualization/PKC.md",
+    "Fleeting/Home.md",
     "conflict-files-obsidian-git.md",
     "Hub/Theory/Sciences/Quantum Mechanics/Dirichlet Character.md",
     "Literature/Reading notes/@worldequationDirichletCharactersParticles2023.md",
     "Literature/People/Peter Gustav Lejeune Dirichlet.md",
-    "Fleeting/Home.md",
-    "Literature/PKM/Tools/Virtualization/PKC.md",
     "Literature/Reading notes/@emergentgardenWatchingNeuralNetworks2023.md",
     "Hub/Theory/SoG/Observability.md",
     "Hub/Theory/Sciences/Quantum Mechanics/Hermitian.md",
     "Literature/Reading notes/@quantumsenseChWhatAre2023c.md",
     "Literature/Reading notes/@quantumsenseChHowAre2023.md",
     "Literature/Reading notes/@PDFQuantumInformation.md",
-    "Literature/People/Yuji Ijiri.md",
     "Hub/Theory/Sciences/Computer Science/Programming Model/Accounting.md",
     "Literature/Reading notes/@demskiQuantumInformationAccounting2006.md",
     "Literature/Reading notes/@pbsinfiniteseriesYourBrainMath2017.md",
     "Literature/Reading notes/@pbsinfiniteseriesMathematicsQuantumComputers2017.md",
     "Literature/Reading notes/@gabrielecarcassiWhatQuantumSystem2021.md",
-    "Literature/Reading notes/@worldequationCountingPointsE82022.md",
-    "Hub/Theory/Sciences/Lattice.md",
-    "Hub/Theory/Category Theory/POSet.md",
-    "Hub/Theory/Category Theory/Irreducibility.md",
-    "Hub/Canvas/how to extact the audio track of mp4 into wav file with 16Khz sampling.md",
-    "Literature/People/Gabriele Carcassi.md",
-    "Literature/Reading notes/@carcassiAssumptionsPhysics2021.md",
-    "Hub/Theory/Sciences/Quantum Mechanics/Quantum mechanics.md",
     "z_Attachments/PDF/AssumptionOfPhysics.pdf",
     "Literature/People/Assumption of Physics.canvas",
     "z_Attachments/Recording 20230826133501.webm",
