@@ -1,0 +1,3 @@
+
+
+In the context of Verifiable Credentials, a Subject refers to the entity or individual to whom the credential is [[Issuer|issued]]. It is the entity that holds and presents the credential when needed. The Subject can be a person, organization, or any other entity for which a verifiable credential is being issued. The Verifiable Credential contains information about the Subject, such as their attributes, qualifications, or certifications, which can be verified by relying parties using cryptographic techniques. See [W3C's Definition on Subject](https://www.w3.org/TR/vc-data-model/#credential-subject).

@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"type":"group","id":"ff61346bc45b233b","x":-480,"y":-540,"width":649,"height":330,"label":"Chapter I"},
+		{"type":"group","id":"551758dca5b75efe","x":-480,"y":-151,"width":688,"height":249,"label":"Chapter II"},
+		{"type":"text","text":"The Space of Matrices","id":"3086be5557b6a7bd","x":-62,"y":-131,"width":250,"height":60},
+		{"type":"text","text":"Linear Equations","id":"698fd0301813e03f","x":-62,"y":-53,"width":250,"height":60},
+		{"type":"text","text":"[[Vector Spaces#Definitions|Definitions]]","id":"3a3be036405a6f8d","x":-101,"y":-520,"width":250,"height":53},
+		{"type":"text","text":"Bases","id":"483b543fae4448a6","x":-101,"y":-456,"width":250,"height":60},
+		{"type":"text","text":"[[Vector Spaces]]","id":"8f1d8aa1e225096f","x":-460,"y":-426,"width":250,"height":60},
+		{"type":"text","text":"Dimensions of a Vector Space","id":"dcfe894e7271545f","x":-101,"y":-371,"width":250,"height":60},
+		{"type":"text","text":"Sums and Direct Sums","id":"170999b794e5f2f3","x":-101,"y":-290,"width":250,"height":60},
+		{"type":"link","url":"https://www.youtube.com/watch?v=XvCNE9UTNvo","id":"cc99f0ecdd4a0d59","x":-390,"y":-860,"width":490,"height":280},
+		{"type":"text","text":"Matrices","id":"24a1d6a69c7e4383","x":-460,"y":-40,"width":250,"height":58},
+		{"type":"text","text":"Linear Mappings","id":"743daa4d48756bdd","x":-305,"y":140,"width":250,"height":60},
+		{"type":"text","text":"Linear Maps and Matrices","id":"89119acd46e2c480","x":-305,"y":220,"width":250,"height":60},
+		{"type":"text","text":"Multiplication of Matrices","id":"ab5c2e56128703b8","x":-62,"y":18,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"7841f33d728f04cc","fromNode":"8f1d8aa1e225096f","fromSide":"right","toNode":"3a3be036405a6f8d","toSide":"left"},
+		{"id":"603b85be69dabe25","fromNode":"8f1d8aa1e225096f","fromSide":"right","toNode":"483b543fae4448a6","toSide":"left"},
+		{"id":"48fc9f7e626de178","fromNode":"8f1d8aa1e225096f","fromSide":"right","toNode":"dcfe894e7271545f","toSide":"left"},
+		{"id":"6dffbab46a79ecee","fromNode":"8f1d8aa1e225096f","fromSide":"right","toNode":"170999b794e5f2f3","toSide":"left"},
+		{"id":"bd4f04d04d9fb88d","fromNode":"24a1d6a69c7e4383","fromSide":"right","toNode":"3086be5557b6a7bd","toSide":"left"},
+		{"id":"8dcc7677969688c2","fromNode":"24a1d6a69c7e4383","fromSide":"right","toNode":"698fd0301813e03f","toSide":"left"},
+		{"id":"2e9f6b69246bdbc4","fromNode":"24a1d6a69c7e4383","fromSide":"right","toNode":"ab5c2e56128703b8","toSide":"left"}
+	]
+}

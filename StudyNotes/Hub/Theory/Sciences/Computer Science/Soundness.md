@@ -3,7 +3,7 @@ Aliases: Soundness, soundness, 可靠，可靠性
 ---
 #soundness #correctness #reason
 
-In abstract interpretation, [[Soundness|soundness]] refers to the property of an analysis that ensures the results produced by the analysis are guaranteed to be correct or conservative with respect to the actual program semantics. Soundness is a fundamental property that ensures the reliability and trustworthiness of the analysis results. [[Sound and Complete|Soundness and Completeness]] are often mentioned together (see [[Completeness|completeness]]).
+In abstract interpretation, [[Soundness|soundness]] refers to the property of an analysis that ensures the results produced by the analysis are guaranteed to be [[Correctness|correct]] or conservative with respect to the actual program semantics. Soundness is a fundamental property that ensures the reliability and trustworthiness of the analysis results. [[Sound and Complete|Soundness and Completeness]] are often mentioned together (see [[Completeness|completeness]]).
 
 More specifically, soundness means that the analysis does not produce any false positives. In other words, if the analysis determines that a certain property holds for a program, then it is guaranteed to actually hold in the concrete execution of the program.
 

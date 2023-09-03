@@ -8,4 +8,12 @@ DOI:
 URL: 
 ---
 
-![[Koo_phd-esd-2005.pdf]]
+```slide-note
+file: Koo_phd-esd-2005.pdf 
+page: 5-7 
+scale: 1 
+dpi: 2 
+text: true 
+rotat: 0 
+rect: W(0), H(0), W(1), H(1) 
+```

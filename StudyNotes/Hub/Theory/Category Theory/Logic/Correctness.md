@@ -24,6 +24,9 @@ For example, in a concurrent system, safety properties can guarantee mutual excl
 
 [[Liveness]]: Liveness properties, on the other hand, describe desirable behaviors that should eventually occur in a system. They ensure progress and state that something good will happen eventually. Liveness properties focus on reaching certain states or events without specifying any particular order or timing.
 
+## Correctness in AI and Machine Learning (LLM)
+In a talk by [[Thomas G. Dietterich]], the notion that AI/ML in the form of [[ChatGPT]] and [[LLM]]s can easily mislead people at scale, and it is a form and constant and present danger. Therefore, developing tools and infrastructures that focuses on [[Correctness|correctness]] at the content level is very important.
+
 ## Approximating Correctness
 [[Patrick Cousot]] developed [[Abstract Interpretation]], a static program analysis technique that aims to approximate the behaviors and properties of a program, in other words, approximating [[Correctness|correctness]] computationally. One of the key aspects of abstract interpretation is handling the trade-off between precision and efficiency. Correctness approximation is an inherent part of this trade-off.
 
@@ -37,7 +40,7 @@ For example, liveness properties can specify that every request for a shared res
 Another example is that data can be intentionally hacked to induce incorrect answers. By intentionally mixing results that are sometimes good, and sometimes bad, causing even more damage than just having all bad answers, the ultimate challenge to [[Correctness|correctness]] verification. See the following video on [[@matthewbermanPoisonGPTHackingAI2023|PoisonGPT - Hacking AI Just Became Reality]]. A major concern of the [[Generative Artificial Intelligence|Generative AI]] driven world.
 
 ### An Automation Scheme for Multi-scale Correctness Verification
-With the massive content data provided by [[Large Language Model]] and [[Generative Artificial Intelligence|Generative AI]], it is plausible to significantly streamline the automated workflow of complex/freeformed data content and algorithm verification. The verification workflow can be constructed as a [[DevOps]] process that utilizes a generalized, multi-scale data processing kernel that leverages [[REPL]] at its core, and tools such as interactive mind mapping software, such as [[Obsidian]] at the front end. The composition of these software components can be integrated using [[Langchain]], and data exchange formats can be based on textual streams that follows the [[Open API]] standard.
+With the massive content data provided by [[Large Language Model]] and [[Generative Artificial Intelligence|Generative AI]], it is plausible to significantly streamline the automated workflow of complex/freeformed data content and algorithm verification. The verification workflow can be constructed as a [[DevOps]] process that utilizes a generalized, multi-scale data processing kernel that leverages [[REPL]] at its core, and tools such as interactive mind mapping software, such as [[Obsidian]] at the front end. The composition of these software components can be integrated using [[Langchain]], and data exchange formats can be based on textual streams that follows the [[Open API]] standard. Recent work in [[Generative Artificial Intelligence|Generative AI]] that uses [[Tool-LLM]] to dynamically generate [[SOTA]] solutions using [[DFSDT]] is a promising concept in operationalizing approximation with [[State of the Art]]([[SOTA]]) results.
 
 ## Conclusion
 
@@ -46,3 +49,7 @@ In summary, safety and liveness properties are used to formally reason about the
 ## References
 
 [[@matthewbermanPoisonGPTHackingAI2023]]
+
+[[@dijkstraCrueltyReallyTeaching2022]]
+
+[[Correctness of Distributive Accountability.canvas|Correctness of Distributive Accountability]]

@@ -14,11 +14,11 @@ Here are some key concepts and components of cryptography:
 
 2. Decryption: Decryption is the reverse process of encryption. It involves using the correct decryption key to transform the ciphertext back into its original plaintext form.
 
-3. Cryptographic Algorithms: Cryptographic algorithms are mathematical procedures used in encryption and decryption processes. They define the steps to transform data and keys into encrypted form and back. Examples of cryptographic algorithms include Advanced Encryption Standard (AES), RSA, and elliptic curve cryptography (ECC).
+3. Cryptographic Algorithms: Cryptographic algorithms are mathematical procedures used in encryption and decryption processes. They define the steps to transform data and keys into encrypted form and back. Examples of cryptographic algorithms include Advanced Encryption Standard (AES), RSA, and elliptic curve cryptography ([[ECC]]).
 
 4. Symmetric Key Cryptography: In symmetric key cryptography, the same key is used for both encryption and decryption. Both the sender and the receiver need to possess the shared secret key. Common symmetric key algorithms include AES and DES.
 
-5. Asymmetric Key Cryptography: Asymmetric key cryptography, also known as public-key cryptography, involves the use of different keys for encryption and decryption. One key is made public (public key), while the other remains private (private key). RSA and Elliptic Curve Cryptography (ECC) are widely used asymmetric key algorithms.
+5. Asymmetric Key Cryptography: Asymmetric key cryptography, also known as public-key cryptography, involves the use of different keys for encryption and decryption. One key is made public ([[Public Key|public key]]), while the other remains private ([[Private Key|private key]]). RSA and Elliptic Curve Cryptography (ECC) are widely used asymmetric key algorithms.
 
 6. Hash Functions: Hash functions are algorithms that convert data of any size into a fixed-size output known as a hash or message digest. Hash functions are used for data integrity checks and digital signatures.
 

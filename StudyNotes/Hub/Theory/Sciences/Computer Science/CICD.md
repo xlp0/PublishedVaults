@@ -27,3 +27,6 @@ Continuous Deployment and Continuous Delivery both aim to automate the deploymen
 In both cases, the CD pipeline includes automated testing, deployment scripts, and other checks to ensure that the application is in a deployable state.
 
 By implementing CI/CD practices, development teams can accelerate the development cycle, increase the reliability of their software, and respond more efficiently to customer feedback and changing business requirements. CI/CD is an essential aspect of modern software development, particularly in agile and DevOps cultures, where continuous improvement and rapid iteration are vital for success.
+
+# References
+![[@beabetterdevIDEALPracticalCI2022]]

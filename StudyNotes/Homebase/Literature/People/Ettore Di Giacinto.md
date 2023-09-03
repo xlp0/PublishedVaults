@@ -1,0 +1,1 @@
+[[Ettore Di Giacinto]] is the creator of [[LocalAI]], he has a github page:[mudler](https://github.com/mudler/) .

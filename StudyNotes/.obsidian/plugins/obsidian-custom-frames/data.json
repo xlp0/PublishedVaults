@@ -1,0 +1,38 @@
+{
+  "frames": [
+    {
+      "url": "http://chat.openai.com",
+      "displayName": "ChatGPT",
+      "icon": "messages-square",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://bard.google.com",
+      "displayName": "Bard",
+      "icon": "martini",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "http://wikipedia.org",
+      "displayName": "Wikipedia",
+      "icon": "bird",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    }
+  ],
+  "padding": 5
+}

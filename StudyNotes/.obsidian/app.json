@@ -1,6 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Attachments",
+  "attachmentFolderPath": "z_Attachments",
   "newFileLocation": "current",
   "readableLineLength": true,
   "showFrontmatter": false,

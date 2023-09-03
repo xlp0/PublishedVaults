@@ -13,4 +13,10 @@ In addition to his work on relativity, Einstein made significant contributions t
 
 Einstein's scientific achievements were accompanied by his keen interest in philosophical and social issues. He was known for his pacifism, advocating for nuclear disarmament and international cooperation. Einstein was also involved in civil rights movements, speaking out against racism and oppression.
 
+## Einstein's math
+
+
+
+# Conclusion
+
 Einstein's contributions to science and his public persona made him a cultural icon during his lifetime, and his name became synonymous with genius. His work continues to inspire scientists and shape our understanding of the universe. Einstein's scientific legacy, coupled with his humanitarian values and activism, has had a lasting impact on various fields of study and on society as a whole.

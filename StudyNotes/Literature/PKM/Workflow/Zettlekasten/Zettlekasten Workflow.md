@@ -18,3 +18,6 @@ Here are some key aspects of the Zettlekasten workflow:
 
 The Zettlekasten workflow provides a framework for capturing ideas, fostering creativity, and generating new knowledge by encouraging active engagement with one's own thinking process. It has gained popularity among researchers, writers, and knowledge workers looking for an effective way to manage and leverage their accumulated knowledge.
 
+# References
+
+[[@vashinatorHowManageProjects2022]]

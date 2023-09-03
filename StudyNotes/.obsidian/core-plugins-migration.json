@@ -24,6 +24,7 @@
   "audio-recorder": true,
   "workspaces": true,
   "file-recovery": true,
-  "publish": false,
-  "sync": false
+  "publish": true,
+  "sync": false,
+  "properties": true
 }

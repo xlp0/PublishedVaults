@@ -1,7 +1,7 @@
 ---
 Alias:
 type: Person
-tags: TEMPLATE
+tags:
 ---
 
 File Creation date: <% tp.file.creation_date() %>

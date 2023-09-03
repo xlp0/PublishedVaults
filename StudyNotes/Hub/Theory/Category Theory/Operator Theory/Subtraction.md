@@ -1,5 +1,5 @@
 ---
-Aliases: Subtraction, subtraction, Minus, minus, difference, differ
+Aliases: Subtraction, subtraction, Minus, minus, Subtract, subtract, difference, differ
 ---
 
 In operator theory, subtraction refers to the operation of subtracting one operator from another.
@@ -22,3 +22,6 @@ Subtraction of operators plays a crucial role in various areas of mathematics an
 As the [[@allanglesHowSubtractionMakes2023|video on subtraction by All Angles]] shows, to better represent antisymmetric operators, such as [[Subtraction]] and [[Division]], it would be more congruent to choose an antisymmetric shape, such as an arrow to denote these operators. For symmetric operators, such as [[Add]] and [[Multiply]], they are clearly symmetric in nature, and the shape of these operators are adequate. However, to reduce mental efforts in representing antisymmetric operations, such as [[Subtraction]] and [[Division]], it would be more elegant to choose a shape such as a single-headed arrow to represent each of them.
 
 Overall, subtraction in operator theory provides a way to combine and manipulate operators to study their properties and relationships within various mathematical frameworks.
+
+# References
+[[@allanglesHowSubtractionMakes2023]]

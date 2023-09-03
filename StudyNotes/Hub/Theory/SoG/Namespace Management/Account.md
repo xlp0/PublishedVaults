@@ -7,7 +7,7 @@ The notion of [[account]] is closely associated with [[Identity]], ultimately [[
 ## References
 
 
-[[@ZhouZhangHuXinJingJiYuXinJinRongZhiLu2017]]
+[[@ZhouZhangHuXinJingJiYuXinJinRongZhiLu2017|账户：新经济与新金融之路 （Account: A Road to New Economy and New Finance)]] by [[Zi-Heng Zhou|周子衡(Zi-Heng Zhou)]]
 
 [[@preukschatSelfsovereignIdentityDecentralized2021]]
 

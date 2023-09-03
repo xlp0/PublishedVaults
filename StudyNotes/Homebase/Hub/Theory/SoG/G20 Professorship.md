@@ -1,0 +1,1 @@
+G20 Professorship is an effort to study the Science of Governance, starting in year 2022, during the [[G20 2022]] event in [[Indonesia]].

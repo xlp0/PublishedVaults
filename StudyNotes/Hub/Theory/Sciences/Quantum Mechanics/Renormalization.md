@@ -1,7 +1,7 @@
 ---
 Aliases: Renormalization, renormalization, renormalization method
 ---
-#renormalization #multi-scale #scale #scaling #infinite
+#renormalization #multi-scale #scale #scaling #infinite #Symmetry 
 
 Renormalization is a powerful mathematical technique used in theoretical physics to address certain challenges that arise in the quantum field theory. It was developed primarily in the 1940s and 1950s to overcome infinities that appeared in calculations related to [[Quantum electrodynamics|quantum electrodynamics]] ([[Quantum electrodynamics|QED]]), the theory of the electromagnetic force.
 
@@ -13,7 +13,7 @@ The renormalization process consists of several steps:
 
 1. UV Divergences: In quantum field theory calculations, ultraviolet (UV) divergences emerge due to the infinite contributions from high-energy virtual particles. These divergences arise from the assumption that the theory is valid at all energy scales, including arbitrarily high energies.
 
-2. Cutoff and Counterterms: To address the UV divergences, a cutoff is introduced, limiting the maximum energy scale that the theory considers. Counterterms, which are additional terms in the theory's Lagrangian, are then introduced to cancel out the divergent contributions.
+2. Cutoff and Counterterms: To address the UV divergences, a cutoff is introduced, limiting the maximum energy scale that the theory considers. Counterterms, which are additional terms in the theory's [[Lagrangian]], are then introduced to cancel out the divergent contributions.
 
 3. Renormalization Scale: The cutoff is taken to infinity, allowing the theory to be valid at all energy scales. However, the remaining dependence on the arbitrary cutoff scale leads to the renormalization scale, which appears in physical observables. This dependence indicates that the theory is incomplete without further input.
 
@@ -24,4 +24,5 @@ Renormalization is not only employed in quantum electrodynamics but also in othe
 In summary, renormalization is a mathematical technique used in quantum field theory to deal with infinities arising from quantum fluctuations. It allows for the extraction of meaningful and finite results by adjusting parameters and accounting for the dependence on energy scales. Renormalization has played a crucial role in the development of modern theoretical physics and continues to be an essential tool in our understanding of fundamental forces and particles.
 
 ## References
-[[@brokensymmetriesRenormalizationWhyBigger2022]]
+
+![[@brokensymmetriesRenormalizationWhyBigger2023]]

@@ -1,0 +1,1 @@
+Han Feng is a  community leader in the crypto-currency community. He was also the translator of the book: [[Definitive Guide to Blockchain]] to Chinese.

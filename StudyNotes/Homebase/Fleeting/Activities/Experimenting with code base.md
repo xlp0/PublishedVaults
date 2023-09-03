@@ -1,0 +1,1 @@
+The code base should be co-located with Markdown text as saved in Obsidian Markdown syntax.

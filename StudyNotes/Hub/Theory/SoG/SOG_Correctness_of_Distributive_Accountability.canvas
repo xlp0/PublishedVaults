@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"type":"file","file":"z_Attachments/PNG/Screenshot 2023-07-13 at 8.22.25 PM.png","id":"3b203154d0e4cd12","x":-500,"y":-1060,"width":957,"height":540},
-		{"type":"link","url":"https://docs.google.com/presentation/d/10an39H5Fcz1snJZgN2FhoS5hEaXEbJFtNAnp8uzWw4g/edit#slide=id.g24d135e4d8d_2_83","id":"0f6ee838dd911cad","x":-191,"y":-460,"width":340,"height":400}
-	],
-	"edges":[
-		{"id":"e6b7e3493fe04a6b","fromNode":"0f6ee838dd911cad","fromSide":"top","toNode":"3b203154d0e4cd12","toSide":"bottom"}
-	]
-}

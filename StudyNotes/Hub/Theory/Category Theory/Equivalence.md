@@ -23,7 +23,7 @@ Equality is a fundamental concept in mathematics and logic. In formal terms, equ
 
 These properties of equality are fundamental for reasoning about equations and mathematical structures. They allow us to manipulate equations, make logical deductions, and establish equivalences between different expressions or statements. By applying these properties, we can simplify equations, solve problems, and prove mathematical theorems.
 
-# References
+## Equivalence from a Socio-Political View
 
 There are numerous books and web pages available that discuss the topic of equality. Here are a few examples:
 
@@ -49,7 +49,30 @@ When it comes to web pages, there are several online platforms dedicated to prom
 
 These are just a few examples, and there are many other books and web pages that address the topic of equality from different perspectives.
 
-All these ideas are to be summarized in the notion of [[Equivalence]].
+## Arguments for Equivalence
+Equivalence as a broad and generalized transfer of responsibility or [[Transformation|transformation]] of functionality have many socio-technical implications. Creating a computational framework to identify possible ways ([[Commutator|commutative paths]]) to replace one thing with an equivalent one will lead to many profound implications. In any case, creating a large library of equivalent classes of things may help reduce unnecessary complexity, and therefore enhance performance of decision-making or [[Judgement|judgements]] at a rate that is unprecedented. To reason about the [[Correctness|correctness]] of certain Equivalence relations can be grounded on the data representation of [[Hoare triple|Hoare logic]]. Another data-intensive research direction on [[Correctness|correctness]] concerns can be found in the [[@valgraiWhatWrongLLMs2023|What's wrong wtih LLMs]] talk by [[Thomas G. Dietterich|Thomas Dietterich]]. Overall, the argument for Equivalence should be grounded on a [[Topological Data Analysis]] kind of argument, which shows a systematic way to study [[Deformable|deformable]] shapes. 
 
-## References
+## An interesting diagram
+In the end of the video on [[@epsilondeltaHowWeSolve2023|How do we solve difficult problems in Math?]], it presented the following diagram:
+![[SolvingDifficultProblemsWithCommutivity.png]]
+
+This diagram shows a [[Commutative Diagram]] that explains a [[Category theory]] way of identifying [[Equivalence|equivalence]]. It is important to note that [[Category theory]] emphasize the idea of [[Natural equivalence]], not just [[Equivalence]].
+## Equivalence and Incommensurability
+There is a conceptual connection between deformable shapes and paradigm shift, as [[Thomas Kuhn]]'s notion of [[Incommensurability]], when a [[paradigm shift]] or [[Magic|magic]] occurs, liked the [[light bulbs]] before Edison's mass production of them, existing [[Vocabulary|vocabulary]] cannot be composed to express or represent daily observable experience, new terms must be invented to be the label or the equivalence term for this new [[paradigm]]. 
+
+## Equivalence and Indistinguishability
+Equivalence refers to a state or condition of being equal or interchangeable. It suggests that two things have the same value, importance, or meaning. For example, in mathematics, two equations are considered equivalent if they have the same solution set.
+
+[[indistinguishable|Indistinguishable]], on the other hand, refers to a state or condition of being impossible to tell apart or differentiate. It implies that two things are so similar in appearance, nature, or quality that they cannot be distinguished from each other. For instance, identical twins are often indistinguishable from each other due to their physical resemblance.
+
+While both words convey a sense of similarity or sameness, equivalence emphasizes equality or interchangeability in value or meaning, whereas indistinguishable focuses on the inability to differentiate between two things due to their extreme similarity. Therefore, the word: "[[Equivalence|equivalence]]" has stronger logical constraints than "[[indistinguishable]]". [[Dana Scott]] also proposed a [[equilogical spaces]], and his work on [Outline of a Mathematical Theory of Computation](app://obsidian.md/@scottOutlineMathematicalTheory1977) is also a must read.
+
+In summary, equivalence suggests equal value or meaning between two things, while indistinguishable implies an inability to tell them apart due to their extreme similarity.
+
+# Conclusion
+It should be clear that [[Equivalence]] is not only an abstract idea in mathematics but also a foundational reasoning mechanism to relate to social and physical relations. Equivalence provides a mechanism to transfer or [[transformation|transform]] existing relations or properties to a different carrier, acting like [[Magic]] which offers opportunities for surprises and intentional changes.
+
+# References
 [General Theory of Natural Equivalence](@eilenbergGeneralTheoryNatural1945.md)
+
+[Outline of a Mathematical Theory of Computation](@scottOutlineMathematicalTheory1977)

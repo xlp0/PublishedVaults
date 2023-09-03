@@ -1,4 +1,3 @@
-                                    
 ---
 type: Methodology, Pedagogical Method, SoG
 Aliases: Extreme Learning Process
@@ -14,7 +13,7 @@ One significant influencer of [[XLP]] is the notion of [[Extreme Programming]]([
 
 The notion of [[DevOps]] also guided the implementation and evolution of [[XLP]]. It would be ideal to use [[PKC]] as an instrument to streamline the practice of [[XLP]]. It emphasizes the adoption of formalized [[Correctness|correctness]] verification process, by requiring students to capture realistic and life [[Data|data]], while writing [[Smart Contract|smart contract]] and [[Constitution|constitution]] in the learning process. It maybe considered to be a kind of [[Gamification|gamification]] of learning. It is compatible with the educational goals of [[STEM]], and is being co-developed with [[GASing]] method.
 
-The novelty of [[XLP]] at the point of its inception was that it assumes that learning must be done in a global context. This means learning and learning programs should be part of the societal context, and should not be considered to be an isolated field. This drives the adoption of modern software development methodologies, such as [[Extreme Programming]] and [[DevOps]] as the core philosophy and data instrumentation of learning activities. Learning opportunities should be continuously captured and identified, therefore, needs to use the most general and scalable technical solutions whenever feasible. 
+The [[Radical Novelty|novelty]] of [[XLP]] at the point of its inception was that it assumes that learning must be done in a global context. This means learning and learning programs should be part of the societal context, and should not be considered to be an isolated field. This drives the adoption of modern software development methodologies, such as [[Extreme Programming]] and [[DevOps]] as the core philosophy and data instrumentation of learning activities. Learning opportunities should be continuously captured and identified, therefore, needs to use the most general and scalable technical solutions whenever feasible. To better explore the intellectual sources of [[XLP]], please refer to [[Edsger Wybe Dijkstra|Dijkstra]]'s  work on [[Radical Novelty]].
 
 The key principles of XLP include:
 
@@ -53,7 +52,7 @@ There are four stages of the learning process, which matches to the four stages 
 2. [[Fail Early Fail Safe]]
 3. [[Convergence]]
 4. [[Demonstration]]
-These four stages relates to the notion of [[Zettlekasten]] emphasize that all data elements should be filed into [[Fleeting|fleeting]] directory, that means any data that deemed to be useful can be shuffled into the [[Fleeting]] bin, and then, checked with knowledge content in the [[Literature]] directory, then, put into the [[Hub]] directory for convergence, and then, put into [[Permanent]] directory for public demonstration. Iterative organizing content in this four-stage structure helps reduce the complexity in the process of learning, and therefore, enable individuals and teams to synchronize their actions more quickly. The style of student-oriented learning process is compatible with Prof. [[Yohanes Surya|Yohanes Surya's]] [[GASing]].
+These four stages relates to the notion of [[Zettlekasten]] emphasize that all data elements should be filed into [[Fleeting|fleeting]] directory, that means any data that deemed to be useful can be shuffled into the [[Fleeting]] bin, and then, checked with knowledge content in the [[Literature]] directory, then, put into the [[Hub]] directory for convergence, and then, put into [[Permanent]] directory for public demonstration. Iterative organizing content in this four-stage structure helps reduce the complexity in the process of learning, and therefore, enables individuals and teams to synchronize their actions more quickly. The style of the student-centric learning process is compatible with Prof. [[Yohanes Surya|Yohanes Surya's]] [[GASing]].
 
 
 

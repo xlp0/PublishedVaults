@@ -1,34 +1,23 @@
-Title: The Social Meaning of Data: Exploring the Intersection of Information and Society
 
-# Introduction
-The concept of the "[[Physical Meaning of Data]]" has been widely discussed in relation to Platonic or Theory of Forms ideas, as well as the physical Church-Turing thesis. It has sparked debates between notable figures such as Ludwig Wittgenstein and Alan Turing. While the original context of the phrase focused on the architecture of computers and networks, this article aims to shift the perspective towards exploring the social meaning of data and its implications in various domains.
+---
+Aliases: Social Meaning of Data, social meaning of data
+---
 
-# The Boundaries of Data and Its Impact on Society
-The transfer speed and representation of data play a crucial role in determining how data can affect the physical world. The intentional act of organizing information processing tools, whether through human organization or machine architecture, is considered a means to assign social meaning to data. Understanding the societal implications of data organization is essential, as it influences decision-making, privacy concerns, economic structures, and even governance systems.
+Operationally, socially meaningful data means that data generation, collection, and interpretation are given socially-liable [[Identity|identities]]. More importantly, these identity data should have a way to be verified, or so called "[[Verifiable Credential|verifiable credentials]]"([[Verifiable Credential|VC]]).
 
-# Data Representation and Societal Significance
-In certain domains, specific data representations acquire social meaning. For instance, in quantum physics, the use of complex numbers is essential. The presence of imaginary numbers within this context signifies their role in representing the social meaning of data within the quantum realm. Carver Mead's insights shed light on the relationship between logic and physical form, emphasizing the importance of considering the original words of experts in understanding data's social implications.
+In a broader sense, the social meaning of data refers to the significance and impact that data has on individuals, communities, and society as a whole. In today's digital era, data plays a crucial role in various aspects of our lives, including communication, decision-making, and social interactions.
 
-# Artistic Perspectives
-Leonard Shlain's books, such as "Art & Physics" and "The Alphabet versus the Goddess," explore the intersection of art and physics, highlighting how data can hold social significance within the artistic realm. These works delve into the ways data influences artistic expression, perception, and cultural narratives.
+Data has become a valuable asset for businesses, governments, and organizations as it provides insights into consumer behavior, trends, and preferences. This information helps in developing targeted marketing strategies, improving products and services, and making informed policy decisions. The social meaning of data in this context relates to its ability to shape and influence economic activities, employment opportunities, and market dynamics.
 
-# Exploring Quantum Origins of Gravity
-In Leonard Susskind's Oppenheimer Lecture, "The Quantum Origins of Gravity," he provides an intriguing narrative on assigning physical meaning to data, bridging the realms of Quantum Mechanics (microscopic phenomena) and gravity (macroscopic phenomena). Susskind's lecture offers valuable insights into the social implications of understanding and interpreting data across different scientific domains.
+Data also has a significant impact on personal relationships and social interactions. Social media platforms rely heavily on user-generated data to create personalized experiences for individuals. Likes, comments, shares, and other forms of engagement generate data that is used to understand user preferences and tailor content accordingly. This creates a sense of validation or social recognition for individuals while contributing to the formation of online communities.
 
-# Relevance to Accounting and Objectivity
-The social meaning of data also extends to the field of accounting. The concept of measurement and objectivity in accounting acknowledges how data plays a vital role in decision-making, financial reporting, and economic analysis. Understanding the social implications of data in accounting helps maintain transparency and trust in financial systems.
+However, the social meaning of data also raises concerns related to privacy, surveillance, and ethical implications. The collection and analysis of personal data raise questions about consent, ownership rights, transparency, and potential misuse. Data breaches or unauthorized access can lead to identity theft or manipulation of personal information.
 
-# Historical Documents
-Moore's Law, a seminal document, connects the socio-technical world and explicitly states that the physical size of data holds economic and social implications. Paul Dirac's book, "The Principles of Quantum Mechanics," also touches on the physical meaning of data within the quantum realm. Both of these historical documents provide valuable insights into the social significance of data in their respective contexts.
+Furthermore, the social meaning of data extends beyond individual experiences as it plays a role in shaping public opinion and influencing societal issues. Data-driven journalism utilizes large datasets to uncover patterns or trends that inform public discourse on topics such as politics, health care systems, climate change, or inequality. Data can challenge existing narratives or shed light on hidden realities.
 
-# Hardware Changes and Social Implications
-Exploring the physical properties of data also has implications for society. Videos like "How Vectorized Built a Distributed Data Streaming Architecture for Modern Hardware with Seastar" demonstrate how understanding and utilizing the physical properties of data can lead to advancements in technology, communication, and data science. These hardware changes influence societal processes and interactions.
+In summary, the social meaning of data encompasses its economic value as well as its influence on personal relationships and societal issues. While it offers benefits such as personalized experiences or improved decision-making processes when used responsibly; it also raises concerns about privacy rights and ethical considerations in an increasingly data-driven world.
 
-# Conclusion
-While the concept of the physical meaning of data has primarily been discussed in relation to its impact on technology and physical systems, this article has aimed to provide a fresh perspective by exploring the social meaning of data. By considering the social implications of data organization, representation, and utilization, we gain a deeper understanding of how data influences various aspects of society, from art and accounting to scientific domains and beyond.
+![[Examples of Socially and Physically Meaningful Data]]
 
-<noinclude>
-{{PagePostfix
-|category_csd=Kafka,Redpanda,Messaging,Communication,Spacetime,Physical Meaning of Data,Social Meaning of Data,Data Science
-}}
-</noinclude>
+# References
+[[@preukschatSelfsovereignIdentityDecentralized2021]]

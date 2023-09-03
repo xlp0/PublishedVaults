@@ -5,7 +5,7 @@ Aliases: morphism
 
 In both [[Category Theory]] and Abstract Algebra, a morphism is a general concept that captures the idea of a structure-preserving map between mathematical objects.
 
-In Category Theory, a morphism is defined within the context of a category, which consists of objects and arrows (or morphisms) between them. A morphism in this setting is a mapping between two objects in the category that preserves the structure or properties defined within that category. For example, in the category of sets, morphisms are functions that preserve the elements and operations of sets. In the category of groups, morphisms are homomorphisms that preserve the group structure.
+In Category Theory, a morphism is defined within the context of a category, which consists of objects and [[Arrow|arrows]] (or morphisms) between them. A morphism in this setting is a mapping between two objects in the category that preserves the structure or properties defined within that category. For example, in the category of sets, morphisms are functions that preserve the elements and operations of sets. In the category of groups, morphisms are homomorphisms that preserve the group structure.
 
 Abstract algebra also uses the concept of morphism to describe maps between algebraic structures. For instance, in group theory, a group homomorphism is a function between two groups that preserves the group operation. Similarly, in ring theory, a ring homomorphism is a function between two rings that preserves both addition and multiplication operations.
 

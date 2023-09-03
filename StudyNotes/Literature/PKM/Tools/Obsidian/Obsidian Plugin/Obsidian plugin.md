@@ -6,6 +6,7 @@ The following plug-ins are the necessary tools:
 [[TikZJaX]]
 [[Excalidraw]]
 [[Literature/PKM/Tools/Obsidian/Obsidian Plugin/Excalibrain|Excalibrain]]
+[[Copilot for Obsidian]]
 
 Developer Docs
 [Obsidian Plugin Developer Docs](https://marcus.se.net/obsidian-plugin-docs/getting-started/create-your-first-plugin)

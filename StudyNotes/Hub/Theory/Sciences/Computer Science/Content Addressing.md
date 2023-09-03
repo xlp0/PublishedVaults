@@ -1,8 +1,10 @@
-[[Content Addressing]] is a fundamental concept in the InterPlanetary File System ([[IPFS]]), a distributed peer-to-peer file system and content-addressable storage system. In IPFS, content addressing is used to uniquely identify and locate data by its content rather than its location or address on the network.
+#NSM #content_addressable 
+
+[[Content Addressing]] is a fundamental concept in [[Git]] and the InterPlanetary File System ([[IPFS]]). These systems are distributed peer-to-peer file systems and they are both content-addressable storage systems. For example, in [[IPFS]], content addressing is used to uniquely identify and locate data by its content rather than its location or address on the network. The notion of [[Content Addressing]] is also a foundational strategy in managing data by practicing [[Namespace Management]].
 
 In traditional client-server systems, data is typically accessed by specifying its location using a [[Universal Resource Locator|URL]] or file path. However, in IPFS, data is identified using a cryptographic hash of its content. This hash serves as a unique fingerprint for the data, ensuring that identical content always has the same hash.
 
-Key aspects of content addressing in IPFS include:
+Key aspects of content addressing in [[Git]] and [[IPFS]] include:
 
 1. Cryptographic Hashing: When a user adds a piece of data (a file or any content) to IPFS, the content is hashed using a cryptographic hash function, usually SHA-256. This generates a unique fixed-size hash that represents the content.
 
@@ -16,4 +18,8 @@ Key aspects of content addressing in IPFS include:
 
 6. Content Deduplication: Since identical content results in the same hash, IPFS deduplicates redundant data across the network. If multiple users add the same content, it will be stored only once, saving storage space and reducing network traffic.
 
-Content addressing is a foundational feature of IPFS and is central to its design as a distributed, peer-to-peer file system. It allows users to interact with the system based on the content itself, leading to efficient and reliable content distribution across the IPFS network.
+Content addressing is a foundational feature of [[Git]] and [[IPFS]]. It is central to their design as distributed, peer-to-peer file systems. It allows users to interact with the system based on the content itself, leading to efficient and reliable content distribution across the [[IPFS]] network. [[Content Addressing]] will also be the main design principle for [[PKC]] implementations.
+
+# References
+
+![[@techwithnikolaHowGitWorks2023]]

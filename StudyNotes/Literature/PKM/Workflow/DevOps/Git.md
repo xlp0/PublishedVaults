@@ -1,7 +1,7 @@
 ---
 Aliases: Git, git
 ---
-#Git #version_control #order #time
+#Git #version_control #order #time #content_addressable
 
 [[Git]] is a distributed version control system that allows developers to track changes in their codebase and collaborate with others. It is commonly used in software development projects to manage source code and ensure efficient collaboration among team members.
 
@@ -16,6 +16,9 @@ Moreover, Git integrates seamlessly with various CI/CD tools like Jenkins, Travi
 Git was invented by [[Linus Torvalds]], the same person who created the Linux operating system. He developed Git in 2005 as a distributed version control system to manage the Linux kernel development process.
 
 In summary, Git serves as an integral tool for both [[Data Asset Management]] and DevOps practices. It enables efficient version control of both code and data assets in DAM scenarios while supporting collaborative development workflows and facilitating CI/CD processes in DevOps environments.
+
+## Tips on Obsidian
+When working with Obsidian Git, it is important to avoid automatic commits. It can be done by setting the default cycle time for updates to 0.
 
 ## References
 

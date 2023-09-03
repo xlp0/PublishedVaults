@@ -31,15 +31,13 @@ Demonstrate learning outcomes and refine results.
 
 [[PKC]] ^aCzufTRm
 
-https://www.google.com/maps/place/Jimbaran+HUB/@-8.7931195,115.1452607,17z/data=!4m15!1m8!3m7!1s0x2dd244e6f079e111:0x139ed292a268c475!2sJimbaran+HUB!8m2!3d-8.7931195!4d115.1501316!10e1!16s%2Fg%2F11g8v3zvcw!3m5!1s0x2dd244e6f079e111:0x139ed292a268c475!8m2!3d-8.7931195!4d115.1501316!16s%2Fg%2F11g8v3zvcw?hl=en&entry=ttu ^EcMuR2gU
-
 %%
 # Drawing
 ```json
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.8",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.17",
 	"elements": [
 		{
 			"type": "rectangle",
@@ -509,9 +507,9 @@ https://www.google.com/maps/place/Jimbaran+HUB/@-8.7931195,115.1452607,17z/data=
 		},
 		{
 			"type": "text",
-			"version": 1,
-			"versionNonce": 369029113,
-			"isDeleted": false,
+			"version": 2,
+			"versionNonce": 1519373688,
+			"isDeleted": true,
 			"id": "EcMuR2gU",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -530,7 +528,7 @@ https://www.google.com/maps/place/Jimbaran+HUB/@-8.7931195,115.1452607,17z/data=
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1689325571674,
+			"updated": 1693026617980,
 			"link": "https://www.google.com/maps/place/Jimbaran+HUB/@-8.7931195,115.1452607,17z/data=!4m15!1m8!3m7!1s0x2dd244e6f079e111:0x139ed292a268c475!2sJimbaran+HUB!8m2!3d-8.7931195!4d115.1501316!10e1!16s%2Fg%2F11g8v3zvcw!3m5!1s0x2dd244e6f079e111:0x139ed292a268c475!8m2!3d-8.7931195!4d115.1501316!16s%2Fg%2F11g8v3zvcw?hl=en&entry=ttu",
 			"locked": false,
 			"fontSize": 20,
@@ -560,15 +558,21 @@ https://www.google.com/maps/place/Jimbaran+HUB/@-8.7931195,115.1452607,17z/data=
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 462.8432969592866,
-		"scrollY": 427.2562261308942,
+		"scrollX": 589.3672040303547,
+		"scrollY": 1394.5092023213704,
 		"zoom": {
-			"value": 1.05
+			"value": 0.5
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
 		"currentStrokeOptions": null,
-		"previousGridSize": null
+		"previousGridSize": null,
+		"frameRendering": {
+			"enabled": true,
+			"clip": true,
+			"name": true,
+			"outline": true
+		}
 	},
 	"files": {}
 }

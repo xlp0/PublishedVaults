@@ -6,12 +6,21 @@
   "pdfExportImageQuality": 90,
   "citeFormats": [
     {
-      "name": "Format #1",
-      "format": "pandoc",
-      "brackets": true
+      "name": "cite",
+      "format": "template",
+      "template": "{{citekey}}"
     }
   ],
-  "exportFormats": [],
+  "exportFormats": [
+    {
+      "name": "Import paper",
+      "outputPathTemplate": "{{citekey}}.md",
+      "imageOutputPathTemplate": "{{citekey}}/",
+      "imageBaseNameTemplate": "{{citekey}}",
+      "templatePath": "Permanent/Template/Templater/Reference Template.md",
+      "cslStyle": "institute-of-mathematics-and-its-applications"
+    }
+  ],
   "citeSuggestTemplate": "[[{{citekey}}]]",
   "openNoteAfterImport": false,
   "whichNotesToOpenAfterImport": "first-imported-note",

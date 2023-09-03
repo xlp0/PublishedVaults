@@ -5,7 +5,7 @@ Aliases: Prompt Engineering, prompt engineering
 
 Prompt engineering in the context of [[ChatGPT]] refers to the process of formulating well-crafted prompts or instructions to guide the behavior of the language model and elicit desired responses. ChatGPT, powered by the GPT-3.5 architecture, is a state-of-the-art language model developed by OpenAI that can generate human-like text based on the given input prompt.
 
-The way a prompt is structured can have a significant impact on the quality, relevance, and specificity of the model's responses. By carefully crafting prompts, users can steer the conversation with the model and obtain more accurate and useful results.
+The way a [[Prompt|prompt]] is structured can have a significant impact on the quality, relevance, and specificity of the model's responses. By carefully crafting prompts, users can steer the conversation with the model and obtain more accurate and useful results.
 
 Here are some key points to consider for prompt engineering with ChatGPT:
 

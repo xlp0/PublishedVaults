@@ -14,3 +14,7 @@ Irreducible representations play a fundamental role in representation theory. Th
 Moreover, irreducible representations have many interesting properties. For example, they can be used to classify representations up to isomorphism and determine important features of the underlying group or algebraic structure. In some cases, irreducible representations may also correspond to certain physical observables or symmetries in applications related to quantum mechanics or particle physics.
 
 Overall, studying irreducibility in representation theory helps us understand how groups act on vector spaces and provides powerful tools for analyzing and manipulating these actions in various mathematical contexts.
+
+# References
+
+[[irreducibility]]

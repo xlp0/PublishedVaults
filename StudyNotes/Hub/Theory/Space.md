@@ -10,7 +10,11 @@ In its physical meaning, space refers to the three-dimensional extent and locati
 
 In a social context, space takes on a different meaning. It refers to the area or environment in which social interactions and relationships take place. This includes both physical spaces like homes, offices, or public places as well as virtual spaces such as online communities or social media platforms. Social spaces can have various dimensions and characteristics that influence human behavior and interactions.
 
-The concept of spacetime arises from Albert Einstein's theory of relativity. According to this theory, [[Space|space]] and [[Time|time]] are not separate entities but are interconnected to form a four-dimensional continuum called [[spacetime]]. The theory suggests that the fabric of spacetime is not fixed but can be influenced by mass and energy present in it.
+The concept of spacetime arises from [[Albert Einstein]]'s theory of relativity. According to this theory, [[Space|space]] and [[Time|time]] are not separate entities but are interconnected to form a four-dimensional continuum called [[spacetime]]. The theory suggests that the fabric of spacetime is not fixed but can be influenced by mass and energy present in it. The theory also invoked perennial discussion in the notion of an idealized 
+[[rigid body]]", a shape that is invariant in [[spacetime]].
+
+## Discussion with Han Feng
+Mr. [[Han Feng]] mentioned to me that Albert Einstein thought that there exists a rigid body to represent a constant length (space). This rigidity can be measured by maximum Entropy. This is directly related to immutable hash values in [[Blockchain|blockchains]].
 
 In the philosophical grounding of relativity, spacetime is seen as a dynamic entity where events occur relative to each other within this four-dimensional framework. The theory postulates that gravity is not a force acting between objects but rather a curvature of spacetime caused by mass or energy distributions. This curvature influences the motion of objects within it.
 

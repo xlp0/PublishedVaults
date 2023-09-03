@@ -1,7 +1,7 @@
 #NSM 
 
 
-Godel numbers, also known as Godel encoding or Godel numbering, are a method of representing mathematical formulas, logical statements, or other abstract concepts using natural numbers. They were developed by the Austrian mathematician Kurt Godel in the 1930s as part of his incompleteness theorems.
+Godel numbers, also known as Godel encoding or Godel numbering, are a method of representing mathematical formulas, logical statements, or other abstract concepts using natural numbers. They were developed by the Austrian mathematician [[Kurt Godel]] in the 1930s as part of his incompleteness theorems.
 
 Godel numbers assign unique numerical values to each symbol and expression in a formal system. This allows for the translation of complex statements or proofs into a sequence of simple numbers. The encoding process involves assigning prime numbers to each symbol and combining them through multiplication or exponentiation to represent more complex expressions.
 

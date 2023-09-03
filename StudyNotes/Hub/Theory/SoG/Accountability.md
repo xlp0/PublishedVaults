@@ -3,7 +3,7 @@ Aliases: Accountability, accountability, accountable, Accountable, 可问责性,
 ---
 #account #NSM #accountability 
 
-Accountability in the context of data sovereignty refers to the responsibility and obligation of entities that handle or control data to ensure its proper management, protection, and compliance with relevant laws and regulations. Data sovereignty is the concept that data is subject to the laws and governance of the country where it is generated or resides.
+Accountability in the context of data sovereignty refers to the responsibility and obligation of entities that handle or control data to ensure its proper management, protection, and compliance with relevant laws and regulations. From an operational sense, data can only become accountable when it was associated with [[Social Meaning of Data|social]] and [[Physical Meaning of Data|physical meaning]]. Socially meaningful data means that data generation, collection, and interpretation are given socially-liable identities, and physically meaningful implies that data has directly physical sources or physical consequences, such as the physical storage devices or data sensing devices that store or generate the data of interest. Accountability naturally derives sovereignty.
 
 When it comes to [[data sovereignty]], [[Accountability|accountability]] involves several key aspects:
 

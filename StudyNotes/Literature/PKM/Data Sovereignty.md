@@ -12,3 +12,7 @@ Data sovereignty also intersects with issues such as surveillance, government ac
 In summary, data sovereignty refers to the idea that countries have jurisdiction over the data generated within their borders. It involves legal considerations related to privacy, security, cross-border transfers, and compliance with local regulations. The concept has gained prominence due to increasing digitization and global connectivity, raising important questions about control and protection of personal information in a globalized world.
 
 See projects and institutions such as [[C2PA]].
+
+# References
+
+[[@preukschatSelfsovereignIdentityDecentralized2021|Self-sovereign identity_2021]]

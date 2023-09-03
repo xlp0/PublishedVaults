@@ -4,39 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "93b4f0ca842eff95",
+        "id": "f2a4e4b801503bbb",
         "type": "tabs",
-        "dimension": 27.444051825677267,
         "children": [
           {
-            "id": "a021c549d83ce8ae",
+            "id": "f0641290e28f7d54",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Permanent/Permanent.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "b41e2422f68e0b2c",
-        "type": "tabs",
-        "dimension": 72.55594817432274,
-        "children": [
-          {
-            "id": "e1c3fab4afcd5ff0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fleeting/Diary/2023-08-01.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -68,12 +44,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Symmetry",
-                "matchingCase": false,
+                "query": "Dirich",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse"
               }
             }
           },
@@ -85,11 +61,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 239.50043487548828
+    "width": 502.51103591918945
   },
   "right": {
     "id": "7a47adf7e2e55062",
@@ -98,31 +75,15 @@
       {
         "id": "bb8cfbd8d0e1a9ab",
         "type": "tabs",
+        "dimension": 63.81625441696113,
         "children": [
-          {
-            "id": "a85ffc36a8d4a8b4",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Permanent/Permanent.md",
-                "collapseAll": true,
-                "extraContext": true,
-                "sortOrder": "alphabeticalReverse",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
           {
             "id": "09a69d0464fbe891",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "useHierarchy": true
               }
             }
@@ -133,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permanent/Permanent.md"
+                "file": "Fleeting/Home.md"
               }
             }
           },
@@ -142,14 +103,6 @@
             "type": "leaf",
             "state": {
               "type": "reference-map-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "5654a0b0b986d23f",
-            "type": "leaf",
-            "state": {
-              "type": "ZIReferenceListView",
               "state": {}
             }
           },
@@ -170,32 +123,83 @@
             }
           },
           {
-            "id": "b88683f3e823fd66",
+            "id": "be5bb98baedb17be",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Permanent/Permanent.md",
+                "file": "Fleeting/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "50a9405454bcf297",
+            "id": "7acb8152cb470cb4",
             "type": "leaf",
             "state": {
-              "type": "mermaid-toolbar-view",
+              "type": "custom-frames-bard",
+              "state": {}
+            }
+          },
+          {
+            "id": "0107e7e57d168f5a",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-wikipedia",
+              "state": {}
+            }
+          },
+          {
+            "id": "11cd06bd85c2c0a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting/Home.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d079b6978ea2f68",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
               "state": {}
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
+      },
+      {
+        "id": "4dbad1a34e0b2a5c",
+        "type": "tabs",
+        "dimension": 36.18374558303887,
+        "children": [
+          {
+            "id": "d5559a7ab2a6ea82",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fleeting/Home.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabeticalReverse",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 597.5,
-    "collapsed": true
+    "width": 862.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,74 +210,73 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "obsidian-map-view:Open map view": false,
-      "daily-notes-editor:Open Daily Note Editor": false,
-      "reference-map:Reference Map": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "workspaces:Manage workspace layouts": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cd6570d22e31f7f7",
+  "active": "1d079b6978ea2f68",
   "lastOpenFiles": [
-    "Permanent/Slides",
-    "Fleeting/Diary/2023-07-31.md",
-    "Fleeting/Diary/2023-08-01.md",
+    "conflict-files-obsidian-git.md",
+    "Hub/Theory/Sciences/Quantum Mechanics/Dirichlet Character.md",
+    "Literature/Reading notes/@worldequationDirichletCharactersParticles2023.md",
+    "Literature/People/Peter Gustav Lejeune Dirichlet.md",
     "Fleeting/Home.md",
-    "Literature/Reading notes/@d-i-ryGitGraphEasiest2021.md",
-    "Literature/Reading notes/@allanglesHowSubtractionMakes2023.md",
-    "Hub/Theory/Category Theory/Conservation Law.md",
-    "Hub/Theory/Category Theory/Symmetry.md",
-    "Hub/Theory/Category Theory/Noether's theorem.md",
-    "Literature/People/Emmy Noether.md",
-    "Literature/People/Evariste Galois.md",
-    "Literature/People/Hsueh-Yung Benjamin Koo.md",
-    "Literature/People/James Clerk Maxwell.md",
-    "Literature/People/John Day.md",
-    "Literature/People/Joko Widodo.md",
-    "Literature/People/Juan Benet.md",
-    "Literature/People/Judea Pearl.md",
-    "Literature/People/Kent Beck.md",
-    "Literature/People/Konrad Lorenz.md",
-    "Literature/People/Linus Torvalds.md",
-    "Literature/People/Luhut Binsar Pandjaitan.md",
-    "Literature/People/Max Born.md",
-    "Literature/People/Michael Levin.md",
-    "Literature/People/Murray Gellmann.md",
-    "Literature/People/Nam P. Suh.md",
-    "Literature/People/Neil Gershenfeld.md",
-    "Hub/Canvas/Some Canvas Drawing.canvas",
-    "Fleeting/dashboardimage.jpg",
-    "Untitled.canvas",
-    "Hub/Theory/Category Theory/Operator Theory",
-    "Fleeting/Testing/Sample Canvas File.canvas",
-    "z_Attachments/PDF/yao82.pdf",
-    "Literature/Reading notes/Untitled.canvas",
-    "Literature/Reading notes/2FSOG_Correctness_of_Distributive_Accountability.canvas",
-    "Literature/PKM/Tools/GIS",
-    "Literature/Media/PDF/SoG_0_1_4.pdf",
-    "Literature/Media/PDF/FragmentsOfTheHistoryOfSheafTheory.pdf",
-    "Literature/Generated/images",
-    "Literature/Generated",
-    "Literature/Media/PDF/nawinterviewP.pdf",
-    "Permanent/Published/Koo_phd-esd-2005.pdf",
-    "Literature/Media/PDF",
+    "Literature/PKM/Tools/Virtualization/PKC.md",
+    "Literature/Reading notes/@emergentgardenWatchingNeuralNetworks2023.md",
+    "Hub/Theory/SoG/Observability.md",
+    "Hub/Theory/Sciences/Quantum Mechanics/Hermitian.md",
+    "Literature/Reading notes/@quantumsenseChWhatAre2023c.md",
+    "Literature/Reading notes/@quantumsenseChHowAre2023.md",
+    "Literature/Reading notes/@PDFQuantumInformation.md",
+    "Literature/People/Yuji Ijiri.md",
+    "Hub/Theory/Sciences/Computer Science/Programming Model/Accounting.md",
+    "Literature/Reading notes/@demskiQuantumInformationAccounting2006.md",
+    "Literature/Reading notes/@pbsinfiniteseriesYourBrainMath2017.md",
+    "Literature/Reading notes/@pbsinfiniteseriesMathematicsQuantumComputers2017.md",
+    "Literature/Reading notes/@gabrielecarcassiWhatQuantumSystem2021.md",
+    "Literature/Reading notes/@worldequationCountingPointsE82022.md",
+    "Hub/Theory/Sciences/Lattice.md",
+    "Hub/Theory/Category Theory/POSet.md",
+    "Hub/Theory/Category Theory/Irreducibility.md",
+    "Hub/Canvas/how to extact the audio track of mp4 into wav file with 16Khz sampling.md",
+    "Literature/People/Gabriele Carcassi.md",
+    "Literature/Reading notes/@carcassiAssumptionsPhysics2021.md",
+    "Hub/Theory/Sciences/Quantum Mechanics/Quantum mechanics.md",
+    "z_Attachments/PDF/AssumptionOfPhysics.pdf",
+    "Literature/People/Assumption of Physics.canvas",
+    "z_Attachments/Recording 20230826133501.webm",
+    "z_Attachments/Recording 20230826133404.webm",
+    "z_Attachments/Recording 20230826133358.webm",
+    "z_Attachments/Recording 20230826133356.webm",
+    "z_Attachments/Recording 20230826133354.webm",
+    "z_Attachments/Recording 20230822103215.webm",
+    "Hub/Canvas/Untitled.canvas",
+    "z_Attachments/PDF/PureTime.pdf",
+    "Permanent/Google Drive/Be L2 White Paper.canvas",
+    "Permanent/Google Drive/Algebra of Systems 2021.canvas",
+    "Hub/Canvas/Untitled 1.canvas",
+    "z_Attachments/PDF/EWD1036.PDF",
+    "z_Attachments/PDF/EWD1304.PDF",
+    "Permanent/Google Drive/ICT Awareness & Competency in Data Governance.canvas",
+    "Permanent/Google Drive/Socially and Physically Meaningful Data.canvas",
     "Hub/Theory/SoG/SOG_Correctness_of_Distributive_Accountability.canvas",
-    "z_Attachments/PNG/recent/PURQKFE9.png",
-    "z_Attachments/PNG/Screenshot 2023-07-13 at 5.55.27 PM.png",
-    "z_Attachments/PNG/recent/Pasted Image 20230712111235_898.png",
-    "Fleeting/Diary/Untitled.canvas",
-    "z_Attachments/PNG/Screenshot 2023-07-13 at 8.22.25 PM.png",
-    "Fleeting/Untitled.canvas",
-    "Literature/PKM/Workflow/XLP/Untitled.canvas",
-    "Literature/PKM/Workflow/XLP/Course/Computational Thinking Diagrams.canvas",
-    "CC6TDI84.png",
-    "TAB9SLLA.png"
+    "Permanent/Google Drive/Correctness of Distributive Accountability.canvas",
+    "Permanent/Google Drive/Outline Of A Mathematical Theory of Computation.canvas",
+    "z_Attachments/PNG/ComputationalThinkingDiagram_by_Wing.png",
+    "z_Attachments/PNG/SolvingDifficultProblemsWithCommutivity.png",
+    "Fleeting/dashboardimage.jpg",
+    "z_Attachments/PNG/Tool-LLM_Fig-4.png",
+    "z_Attachments/PNG/PURQKFE9.png",
+    "z_Attachments/PNG/myQNAPCloyd_AccessControl.png",
+    "z_Attachments/PNG/myQNAPCloud_Access.png",
+    "z_Attachments/PNG/FirstGen_XLP_Curriculum.png",
+    "z_Attachments/PNG/GovernanceFrameworksDiagram.png",
+    "z_Attachments/PNG/Tool-LLM_Fig-1.png"
   ]
 }

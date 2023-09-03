@@ -27,4 +27,4 @@ Judea Pearl's work has had a profound influence on the field of causal inference
 
 [[@pearlCausalityModelsReasoning2000]]
 
-[[@pearlBookWhyNew2020]]
+[[@pearlBookWhyNew2020|The Book of Why]] by [[Judea Pearl]]

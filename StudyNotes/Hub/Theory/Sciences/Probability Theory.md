@@ -3,7 +3,7 @@ Aliases: Probability Theory, Probability theory, probability theory
 ---
 #statistics
 
-[[Probability Theory|Probability theory]] is a branch of mathematics that deals with the analysis and quantification of uncertainty or random events. It provides a framework for understanding and predicting the likelihood of various outcomes in a given situation. Probability theory has numerous applications in various fields, including statistics, physics, economics, and computer science.
+[[Hub/Theory/Sciences/Probability Theory|Probability theory]] is a branch of mathematics that deals with the analysis and quantification of uncertainty or random events. It provides a framework for understanding and predicting the likelihood of various outcomes in a given situation. Probability theory has numerous applications in various fields, including statistics, physics, economics, and computer science.
 
 Measurement theory, on the other hand, focuses on the process of assigning numbers to objects or events to represent their attributes or characteristics. It aims to establish valid and reliable measurement methods that can be used for data collection and analysis.
 

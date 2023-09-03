@@ -1,0 +1,2 @@
+
+The Mathematical Guild, according to [[Edsger Wybe Dijkstra|Dijkstra]], refers to a hypothetical group of mathematicians who are united by their commitment to rigorous mathematical reasoning and the pursuit of knowledge in mathematics. Dijkstra often used this concept to emphasize the importance of precision and correctness in mathematical thinking and problem-solving. He believed that members of the Mathematical Guild should prioritize clear and logical reasoning over shortcuts or intuitive leaps, aiming for mathematical proofs that are both elegant and sound.

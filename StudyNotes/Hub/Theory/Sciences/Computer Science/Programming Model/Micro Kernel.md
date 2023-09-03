@@ -28,10 +28,10 @@ Examples of microkernel-based operating systems include:
 
 Overall, the microkernel design is a trade-off between simplicity, modularity, and performance, and its suitability depends on the specific use case and requirements of the operating system.
 
-### Mach the kernel for OS X
+### Mach: the kernel for OS X
 Yes, Mach is a microkernel-based operating system kernel. It is one of the pioneering examples of a microkernel architecture. The Mach microkernel was originally developed at Carnegie Mellon University in the 1980s as part of the Mach project.
 
-In the Mach microkernel design, the kernel provides only the essential services, such as process management, memory management, and inter-process communication (IPC). Most traditional operating system services, including device drivers, file systems, and networking protocols, are implemented as separate user-level servers. These servers run as normal user processes and communicate with the microkernel using message passing, a form of IPC.
+In the [[Mach]] microkernel design, the kernel provides only the essential services, such as process management, memory management, and inter-process communication (IPC). Most traditional operating system services, including device drivers, file systems, and networking protocols, are implemented as separate user-level servers. These servers run as normal user processes and communicate with the microkernel using message passing, a form of IPC.
 
 Mach introduced several key concepts that became characteristic of microkernel designs, including:
 

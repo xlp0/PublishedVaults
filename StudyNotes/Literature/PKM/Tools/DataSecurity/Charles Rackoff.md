@@ -1,0 +1,3 @@
+Who is Charles Rackoff
+
+Charles Rackoff is a computer scientist and professor. He is best known for his contributions to cryptography, particularly in the field of [[Interactive Proof|interactive proof]] systems and [[ZKP|zero-knowledge proofs]]. Rackoff co-authored several influential papers on this topic, including the groundbreaking paper "The Knowledge Complexity of Interactive Proof Systems" with [[Shafi Goldwasser]]. His work has had a significant impact on the development of secure communication protocols and cryptographic techniques. Rackoff has held teaching positions at various universities, including Columbia University and the University of Toronto.

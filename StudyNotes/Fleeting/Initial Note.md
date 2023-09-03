@@ -45,6 +45,8 @@ To write a Hello World program in Python, you can follow these steps:
 
 ```python
 print("Hello, World!")
+![[Recording 20230822103215.webm]]
+
 ```
 
 4. Save the file with a meaningful name like "hello_world.py".

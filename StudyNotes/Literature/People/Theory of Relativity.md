@@ -27,3 +27,7 @@ The theory of relativity refers to two major theories developed by [[Albert Eins
    General relativity provides a new understanding of gravity, explaining phenomena such as the bending of light around massive objects, the precession of planetary orbits, and the expansion of the universe. It also predicts the existence of black holes, gravitational waves, and the expansion of the universe.
 
 Both the special theory of relativity and the general theory of relativity have been extensively tested through experiments and observations, and their predictions have been confirmed with high precision. They form the foundation of modern physics and have had profound implications for our understanding of the universe and its fundamental principles.
+
+# References
+
+[[@schwartzRelativityIllustrations1989]]

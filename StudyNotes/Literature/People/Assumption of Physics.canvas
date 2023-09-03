@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"type":"link","url":"https://assumptionsofphysics.org/overview.html","id":"312307ec9da9dc76","x":-520,"y":-400,"width":900,"height":625},
+		{"id":"cdd3910fedd4b1a7","x":460,"y":-560,"width":400,"height":400,"type":"link","url":"https://assumptionsofphysics.org/learn.html"}
+	],
+	"edges":[
+		{"id":"3a36bbee58ab6686","fromNode":"312307ec9da9dc76","fromSide":"right","toNode":"cdd3910fedd4b1a7","toSide":"left"}
+	]
+}

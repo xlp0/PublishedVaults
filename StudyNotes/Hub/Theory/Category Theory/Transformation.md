@@ -11,4 +11,10 @@ Representation theory, on the other hand, focuses on studying how abstract algeb
 
 Transformations also play a crucial role in connecting different areas of mathematics. For instance, in algebraic geometry, transformations between categories known as functors are used to relate geometric objects with algebraic structures. These functors provide a way to translate problems and results from one domain to another and establish connections between seemingly unrelated mathematical concepts.
 
+## What is natural transformation?
+In category theory, a natural transformation is a fundamental concept that describes the relationship between two functors. 
+
+![[natural transformation]]
+
+# Conclusion
 Overall, transformation in both category theory and representation theory serves as a fundamental tool for understanding relationships between mathematical objects and structures across various mathematical disciplines.

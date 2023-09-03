@@ -3,9 +3,9 @@ Aliases: Algebra of Systems, AoS, algebra of systems
 tags: Diagram_Algebra
 ---
 
-The paper "[[@kooAlgebraSystemsMetalanguage2009|Algebra of System]]" by [[Hsueh-Yung Benjamin Koo|Koo et al.]] is a comprehensive guide that explores the algebraic techniques used in system modeling and analysis. It provides a rigorous mathematical foundation for understanding and manipulating systems, which are prevalent in various fields such as engineering, economics, and social sciences.
+The paper "[[@kooAlgebraSystemsMetalanguage2009|Algebra of System]]" by [[Hsueh-Yung Benjamin Koo|Koo et al.]] is a comprehensive guide that explores the algebraic techniques used in system modeling and analysis. It provides a rigorous mathematical foundation for understanding and manipulating systems, which are prevalent in various fields such as engineering, economics, and social sciences. It as intended to serve as an engineers' tool for the [[Ultimate Abstraction]].
 
-Inspired by Frazzoli's [[MPL|Motion Planning Language]], the authors start by introducing the fundamental concepts of systems, including system elements, relationships, and behaviors. They then delve into the algebraic techniques that can be applied to represent and analyze systems mathematically. These techniques include linear algebra, Boolean algebra, graph theory, matrix operations, and differential equations.
+Inspired by [[Emilio Frazzoli|Frazzoli]]'s [[MPL|Motion Planning Language]], the authors start by introducing the fundamental concepts of systems, including system elements, relationships, and behaviors. They then delve into the algebraic techniques that can be applied to represent and analyze systems mathematically. These techniques include linear algebra, Boolean algebra, graph theory, matrix operations, and differential equations.
 
 The paper demonstrated how these algebraic methods can be utilized to solve complex system problems. It provided numerous examples particularly related to the mission planning for the [[Apollo program]], and how this complex engineered system's technical decisions could have been made with the reasoning techniques based on the algebraic approach.
 
@@ -19,3 +19,5 @@ Overall, "Algebra of System" ([[AoS]]) offers a comprehensive exploration of alg
 [[@kooAlgebraSystemsMetalanguage2009]]
 
 [[@daughertyRepresentationTheoryCombinatorics]]
+
+[[Algebra of Systems 2021.canvas|Algebra of Systems in Google Slides presented in 2021]]

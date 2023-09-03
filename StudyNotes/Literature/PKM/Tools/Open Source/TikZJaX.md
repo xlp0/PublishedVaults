@@ -59,4 +59,4 @@ C' \arrow[rr,"k'" near end] \arrow[dr,swap,"c"] && D' \arrow[dr,swap,"d"] \\
 \end{document}
 ```
 
-For generic diagrams, that requires less mathematical typesetting features, [[mermaid.js]] can be easier to use.
+For generic diagrams, that require less mathematical typesetting features, [[mermaid.js]] can be easier to use.

@@ -30,5 +30,23 @@
       ],
       "key": "H"
     }
+  ],
+  "workspaces:load": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "W"
+    }
+  ],
+  "workspaces:open-modal": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "M"
+    }
   ]
 }

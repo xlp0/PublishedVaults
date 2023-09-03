@@ -1,5 +1,5 @@
 ---
-Aliases: Data, data
+Aliases: Data, data, Datum, datum
 ---
 #data #logic
 
@@ -17,10 +17,10 @@ Logic plays a crucial role in data science by providing tools for reasoning abou
 
 [[Data Science|Data scientists]] use logical reasoning to formulate hypotheses, design experiments or analytical methods to test those hypotheses against real-world data. They also employ logical structures like if-then statements or Boolean logic when developing algorithms for tasks like classification or prediction.
 
-## Data Break Symmetry
+## Datum breaks Symmetry
 
   
-In the context of data analysis, symmetry can be broken or disrupted in various ways, leading to deviations or departures from the expected regularity or balance. The breaking of symmetry can occur due to several factors, including:
+[[Datum]], the singular form of "[[Data]]", is a piece of information that [[Symmetry-breaking|breaks information symmetry]]. It adds information content to support possible interpretations. In the context of data analysis, symmetry can be broken or disrupted in various ways, leading to deviations or departures from the expected regularity or balance. The breaking of symmetry can occur due to several factors, including:
 
 1. Outliers: Outliers are data points that significantly deviate from the rest of the dataset. These extreme values can disrupt the symmetry of the data by introducing unexpected or anomalous observations. Outliers can distort statistical measures, such as the mean or variance, and impact the distributional properties of the dataset.
     
@@ -42,3 +42,6 @@ Overall, the recent idea of logic and data science highlights the importance of 
 
 ## References
 
+[[Mathematics is the art of giving the same name to different things]]
+
+[[@santafeinstituteArtGivingSame2022|On the arts of giving the same name to different things]]

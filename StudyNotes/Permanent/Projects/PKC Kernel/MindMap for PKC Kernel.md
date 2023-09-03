@@ -18,7 +18,7 @@ asdfsad ^a1erJOGz
 
 
 # Embedded files
-1f99e81fa307d76e9394b62a9cbd5d70c77111f9: [[Pasted Image 20230712111235_898.png]]
+1f99e81fa307d76e9394b62a9cbd5d70c77111f9: [[FirstGen_XLP_Curriculum.png]]
 
 %%
 # Drawing

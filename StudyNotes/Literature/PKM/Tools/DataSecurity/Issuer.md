@@ -1,0 +1,3 @@
+What is an Issuer in the sense of Verifiable Credential
+
+In the context of [[Verifiable Credential|Verifiable Credentials]], an issuer refers to the entity that creates and issues the digital credentials. It can be an individual, organization, or even a system. The issuer is responsible for verifying the identity and credentials of the subject (the holder of the credentials), digitally signing the credentials to ensure their integrity, and making them available for presentation or verification as required. The issuer plays a crucial role in establishing trust and authenticity by ensuring that only valid and reliable credentials are issued. See [W3C's definition of Issuer](https://www.w3.org/TR/vc-data-model/#issuer).

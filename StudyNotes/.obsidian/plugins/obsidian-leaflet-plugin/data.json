@@ -3,7 +3,7 @@
     {
       "id": "Bali Leaflet Map",
       "locked": true,
-      "lastAccessed": 1690860477692,
+      "lastAccessed": 1692671130778,
       "markers": [
         {
           "id": "ID_3b5a2bfb392a",
@@ -41,8 +41,7 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "Literature/Place/Bali.md",
-        "Fleeting/Testing/Leaflet Example.md"
+        "Literature/Place/Bali.md"
       ]
     }
   ],

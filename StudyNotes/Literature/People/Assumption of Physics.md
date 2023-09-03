@@ -1,0 +1,1 @@
+Assumption Physics is a book written by [[Gabriele Carcassi]] with [[Christine A. Aidala]].

@@ -1,9 +1,8 @@
 ---
 Aliases: HTML, Hypertext Markup Language
 ---
-Tell me about HTML
 
-[[HTML]] ([[HTML|Hypertext Markup Language]]) is the standard markup language used for creating web pages and applications. It provides a structure and format for organizing the content on the internet. HTML uses a set of tags to define the elements within a web page, such as headings, paragraphs, images, links, tables, forms, and more.
+[[HTML]] ([[HTML|Hypertext Markup Language]]) is the standard markup language used for creating web pages and applications. It provides a structure and format for organizing the content on the internet. HTML uses a set of tags to define the elements within a web page, such as headings, paragraphs, images, links, tables, forms, and more. It is always mentioned as a container or markup language for [[Hyperlink|hyperlinks]].
 
 Here are some key points about HTML:
 

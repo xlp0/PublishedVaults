@@ -1,5 +1,5 @@
 ---
-Aliases: WWW
+Aliases: WWW, World Wide Web
 ---
 #WWW #NSM
 

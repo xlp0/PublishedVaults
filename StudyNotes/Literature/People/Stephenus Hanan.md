@@ -1,0 +1,1 @@
+[[Stephenus Hanan]] is the coordinating manager for BIM program in Indonesia. He was a graduate from the Architecture Department of [[MIT]].

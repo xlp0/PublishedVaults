@@ -10,6 +10,6 @@ What sets MIT apart is its emphasis on practical application and innovation. The
 
 Additionally, MIT fosters a collaborative atmosphere both on campus and beyond. It actively encourages interdisciplinary collaboration among researchers from different fields to tackle complex global challenges. The institute also collaborates with industry partners to facilitate technology transfer for commercial applications.
 
-MIT boasts a strong alumni network consisting of successful individuals who have made significant contributions to various fields. Notable alumni include astronauts Buzz Aldrin and Sally Ride, physicist Richard Feynman, engineer Amar Bose (founder of Bose Corporation), computer scientist [[Tim Berners-Lee]] (inventor of the World Wide Web), and many more.
+MIT boasts a strong alumni network consisting of successful individuals who have made significant contributions to various fields. Notable alumni include astronauts Buzz Aldrin and Sally Ride, physicist Richard Feynman, engineer Amar Bose (founder of Bose Corporation), computer scientist [[Tim Berners-Lee]] (inventor of the World Wide Web), [[Ron Rivest]], and many more.
 
 Overall, MIT stands as an institution dedicated to advancing scientific knowledge while nurturing creativity and innovation among its students. Its commitment to excellence has earned it a reputation as one of the world's foremost institutions for higher education.

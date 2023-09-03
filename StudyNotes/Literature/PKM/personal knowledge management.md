@@ -25,3 +25,10 @@ Brainstorm ideas for the applications for [[Personal Knowledge Management|PKM]]
 These are just a few examples of the applications for PKM. The possibilities are vast and depend on individual needs and preferences.
 
 PKM is a way to conduct  [[Zettlekasten Workflow|intentional workflow]] for [[Conscious Agency|conscious agency]].
+
+## Curse of Knowledge
+In learning theory, there is a term called: [[Curse of Knowledge]]. This idea seems to be connected to [[Ray Dougherty]]'s work on [[Judgement]].
+
+# References
+
+[[@thephilosophyofcontemporaryandfuturescienceWhatMachineLearning2023|What ML Tells us about the Structure of Concepts]]

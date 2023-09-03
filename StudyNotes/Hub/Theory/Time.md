@@ -15,4 +15,23 @@ In terms of social meaning, time takes on a different perspective. It becomes a 
 
 The social notion of time includes cultural aspects like norms, schedules, deadlines, and concepts such as punctuality or tardiness. Time can have subjective experiences associated with it as well – for example, how we perceive the passage of time can vary depending on our emotional state or engagement in an activity.
 
+## Time and Causation
+The connection between time and causation is that causation implies a temporal sequence of [[Event|events]]. In other words, causation suggests that one event (the cause) precedes another event (the effect) in time. This temporal relationship is essential for establishing causal connections between events or phenomena.
+
+Time provides the framework within which cause and effect relationships can be observed and understood. It allows us to analyze the sequence of events and determine whether there is a causal link between them. For example, if event A consistently precedes event B in time, we may infer that there is a causal relationship between them.
+
+Furthermore, time also plays a role in determining the directionality of causation. Causation typically flows from past events to future events, meaning that causes precede their effects in time. This concept aligns with our everyday understanding of cause and effect relationships.
+
+Overall, time is intimately connected to causation as it provides the necessary chronological order for establishing and understanding these relationships.
+
+# Algebra as the Science of Pure Time
+
+According to [[William Hamilton]], there is a clear and strong connection between [[Algebra]] and [[Time]]. (see [[Algebra as the Science of Pure Time]]) His paper also seems to have connected [[T-accounts]] or [[Accounting]] a socially meaningful data to [[Time]].
+
 Overall, the philosophical grounding of the theory of relativity expands our understanding of time by connecting it to the fabric of spacetime. It highlights how time is not an absolute and unchanging entity but can be influenced by motion, gravity, and the observer's frame of reference. Simultaneously, in social contexts, time serves as a crucial tool for organizing our lives and interactions with others.
+
+# References
+
+[[@hamiltonTHEORYCONJUGATEFUNCTIONS|Theory of Conjugate Functions or Algebraic Couples: with an Preliminary and Elementary Essay on Algebra as the Science of Pure Time]], by [[William Hamilton]], 1837
+
+[[@lamportTimeClocksOrdering1978]]

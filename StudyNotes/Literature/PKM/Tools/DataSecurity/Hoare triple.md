@@ -1,6 +1,7 @@
 ---
 Aliases: Hoare triple, Hoare logic, Hoare notation
 ---
+#triplet 
 
 A Hoare triple is a formal notation used to specify the correctness of a computer program or algorithm. It was introduced by British computer scientist [[Antony Hoare|Tony Hoare]] and is also known as [[Hoare triple|Hoare logic]] or [[Hoare triple|Hoare notation]].
 

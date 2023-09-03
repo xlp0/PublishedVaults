@@ -1,2 +1,91 @@
 #kernel
 This is a piece of software that relies of the [[REPL]] mechanism to serve as a interface between physically located data and human activities.
+
+## What is PKC Kernel
+The Kernel of [[PKC]] is a data-centric program that registers events with [[Cryptography|cryptographic]] verification/validation for user [[Accountability|accountability]], and decentralized consensus time-stamps to guarantee event ordering([[Timeliness]]), and provide an expressive data structure to make data [[Observability|observable]]. The reason that this is called a Kernel has to do with the inspiration of [[John N. Shutt]]'s work on [$vau-Calculi](@shuttFexprsBasisLisp2010), an [[Ultimate Abstraction]], as a programming language kernel.
+
+## The Content of the proposal
+Rewrite the proposal to [[IEEE SA]] to position it as a [[L2|Layer 2]] blockchain infrastructure, emphasizing the importance of [[Bitcoin]] network's dominant security features, and the need to increase its programmability (Smart Contract) and off-chain transaction for speed. Reword the proposal as a new kind of [[IP License]] technical model, relating to [[Data Asset Management]], so that it will be a technical paper, a paper that has strong technical groundings while emphasizing its intellectual roots and social objective of establishing the [[Science of Governance]]([[Science of Governance|SoG]]) through technical means. It will mention the following three functional areas:
+
+1. [[Knowledge Management]] and Dissemination
+2. Technically Grounded [[Security]]/Anti-Corruption Features
+3. Technical Standards and [[Reproducibility]]
+
+## Workflow
+Kindly provide a comprehensive overview consisting of seven sequential steps, accompanied by precise particulars at the secondary level, elucidating the proficient implementation of Personal Knowledge Management ([[PKM]]) strategies and Personal Knowledge Container ([[PKC]]) technologies. Furthermore, it is imperative for the project to place a high priority on the inclusion of diverse groups by actively engaging users in the effort to strengthen the security of Blockchain/Bitcoin. The primary aim of this endeavor is to establish a Decentralized Autonomous Organization (DAO). The principal aim of the company is to continuously enhance its self-regulatory governance architecture. The adherence of this framework to a stated [[Constitution|constitution]] that is subject to modification as required is crucial. Furthermore, the firm aims to develop a collection of intelligent contracts that may be autonomously executed by machines, utilizing the security provided by blockchain technology. In addition, it is imperative to ensure the inclusion of all pertinent information in a format that is readily comprehensible to everyone, namely in the Wiki markdown style, with the aim of facilitating comprehension and improvement by Large Language Models (LLMs). Moreover, it is imperative for the system to systematically enhance textual data by employing GPT-like Large Language Models, as well as generating machine-readable and executable source code. By leveraging a uniform collection of data assets, this approach ensures the capability to execute and evaluate various functionalities, including smart contracts. The refinement process of these materials should incorporate the application of continuous integration and continuous deployment (CI/CD) approaches that are consistent with the textual content derived from the PKM and the smart contracts mentioned earlier.
+
+### Transformative Proposition: Personalized Knowledge Mining (PKM) as a Computing Power-Intensive Mining Community Program
+
+In the ever-evolving landscape of knowledge management and community engagement, the diversification of machine-generated solutions is both a blessing and a curse. To manage the diversity of solutions, we present a groundbreaking initiative that combines the power of blockchain technology, personalized knowledge management ([[PKM]]), and collaborative governance to create a data asset management solution based on the [[Science of Governance]]([[SoG]]). This model should converge at a speed that is adequate for individual decision-makers. Our vision is to harness the collective intelligence of participants through a computing power-intensive data mining community program that not only enhances knowledge exchange but also propels the project towards new horizons of innovation, inclusivity, and security.
+
+Step 1: Define Context, Objectives, and Goals for the PKM Mining Community
+
+- Given the explosive speed of networked data assets and generative AI models, it is necessary for modern citizens to own and operate [[SOTA|State of the Art]]([[SOTA]]) data asset management and knowledge refinement services on a personal scale, so that everyone can customize open-source data processing technologies based on their personal preferences. To approximate [[SOTA]], the intellectual model of [[Kernel of Attention]] will be adopted to create a composable set of executable programs.
+- Involve community leaders to articulate objectives for the PKM mining community, aiming to democratize knowledge acquisition and foster collaborative knowledge creation.
+- Align goals with the project's vision, incorporating a dedicated portion for blockchain security enhancement. Standardize data storage structures and data formats, so that data mining processes can be applied to all participants' submitted data or locally process them with standardized algorithms.
+- Align data formats across all applications using a "[[File]]"-centric (also known as the [[Document Database|Document-centric]]) model to reduce variation in the formats of data assets, therefore enabling streamlined [[Data Asset Management]]. In the meantime, introduce [[IPFS]] and [[Git]]-related [[Content Addressing]] technologies to reduce unnecessary data transfer and global data content versioning. 
+- [[Incentive]] Component: Introduce a tiered reward system for participants contributing knowledge and computational power, fostering a sense of ownership and motivation. The main purpose is to create a reliable and technically-fair mechanism to [[license]] and share content knowledge as [[Bitcoin]] was designed to ensure in the very early stage. By adopting well-known mechanisms in [[Micro Payment|micro-payments]] and [[AMM|Automated Market Maker]], it could provide a transparent mechanism to increase [[liquidity]], and therefore help participants recognize their values of contributions in quantitative terms. This will help create a comprehensive framework to encourage and nurture human creativity and productivity.
+- The main goal of this project is to deliver a [[Science of Governance]]([[SoG]]) model that can be applied to all scales of organizations and ensure the fairness and sustainability of individual rights.
+
+Step 2: Identify and Organize Relevant Localized Knowledge Sources
+
+- Call upon participants to share their unique knowledge sources, utilizing personalized knowledge mining techniques to uncover hidden insights.
+- Employ an data asset categorization mechanism driven by personalized knowledge mining, facilitating easy access and retrieval of information. This includes the use of distributed data collection tools and processes, such as [[Internet of Things|Internet of Things]], [[ODK|Open Data Kit]] and [[OSINT]]. By having these data sets, one could also leverage these data set to better make supply chain decisions, based on concepts originally proposed by [[Fab City OS]]. It is necessary to relate knowledge with [[Social Meaning of Data|Social]] and [[Physical Meaning of Data|Physical Meaning of Data]] by connecting it with the global supply chain under the vision of Data in/Data Out([[DIDO]]).
+- Technical Infrastructure Requirement: Implement a robust personalized knowledge mining platform that integrates with blockchain for data security and privacy. Utilize reproducible tools such as [[NixOS]] and [[Docker]] to ensure consistent and reliable deployment of the platform.
+- The collected data and induced behavioral outcomes will be fed back into the a [[PKC|Public Knowledge Container]] for cross-domain learning of how to create a better abstraction for the [[Science of Governance]].
+
+
+Step 3: Utilize Tools and Techniques for Effective Knowledge Capture and Organization
+
+- Provide participants with intuitive tools enhanced by personalized knowledge mining, allowing seamless knowledge capture and categorization. To link with Blockchain and human judgments, tools such as [[Zenroom]] will be incorporated to offer cryptographic verification algorithms and data content authentication services. [[Zenroom]] can work with [[Bitcoin]] blockchain, to attain globally witnessed timestamps to assign strict ordering to data within [[Physical Meaning of Data### 10 Minute Window on Blockchain|10-minute windows]], so that it could provide some level of information correctness guarantee with physical groundings.
+- Establish a collaborative space where participants can exchange insights and best practices, with personalized knowledge mining suggesting content connections. All participants can integrative with each other using [[DID|Decentralized Identity]] technologies to ensure [[Accountability|accountability]] while enjoying maximum level of [[Privacy by Design]]. Consider adopting tools such as [[Dapr]] to leverage implementation neutral design patterns across [[microservice|microservices]] and other composable computing services.
+- Direct attention of users and developers to be aware of the main repositories of [[OSS|Open Source Software]] content on [[GitHub]], [[PyTorch Hub]], [[Tensorflow Hub]], and [[Hugging Face]].
+- Incentive Component: Reward participants who actively contribute to discussions and share valuable insights, reinforcing a dynamic knowledge-sharing environment.
+- Utilize [[Large Language Model|Large Language Models]] and other automation technologies to refine content knowledge and data correctness verification processes. For example, [[Langchain]] or similar tools can be used as a model to streamline the automated processes of language processing. By now, it is also possible to adopt [[Tool-LLM]], to utilize online [[LLM]] computing services on the [[Internet]] to provide interactive responses based on human readable textual prompts.
+
+Step 4: Foster Active Engagement and Collaboration Among User Groups
+
+- Develop interactive platforms driven by personalized knowledge mining algorithms, encouraging diverse user groups to collaborate and engage actively. This can be done by creating a joint platform of Bitcoin and Ethereum, leveraging the power of Bitcoin [[PoW]] security, while using the vast amount of existing [[Smart Contract]] content knowledge in [[Ethereum]] code base. This can be accomplished by [[Integrate Ethereum with BItcoin CLN]], and implement [[zkEVM]].
+- Implement features that suggest potential collaborators based on their expertise, enriching the collaborative landscape.
+- Have volunteers and senior members of the Open Source technical community to provide guidance and credibility for refining and testing code, as well as the textual content of the system requirements. Assign [[DID]] to all contributors, so that their work is [[Accountability|accountable]] and also can be rewarded in smart contract forms.
+- Technical Infrastructure Requirement: Build a dynamic, [[AI]]-powered collaboration platform with personalized knowledge mining capabilities. Utilize reproducible tools like [[NixOS]] and [[Docker]] for efficient deployment and management. The collection of software functionalities can refer to [[UmbrelOS]]'s' App Store software collection.
+- Streamline unit testing, and sub-system testing, and use [[Docker]], [[NixOS]] and other Open Source Tools to expedite the process of data and code [[Correctness|correctness]] verification.
+- The [[Correctness|correctness]] verification process can be automated using [[Tool-LLM]], so that higher level of reasoning and diverse resources can be integrated in a single process to verify and validate [[Correctness|correctness]] assertions.
+
+Step 5: Establish a Decentralized Autonomous Organization ([[DAO]]) with Inclusive Governance
+
+- Employ personalized knowledge mining to ensure diverse representation in the DAO's decision-making processes, identifying contributors with relevant expertise.
+- Incorporate personalized knowledge mining insights to tailor the DAO's structure and operations for optimal engagement.
+- Incentive Component: Introduce DAO governance tokens that participants can earn through their contributions, granting them a stake in decision-making. Utilize smart contracts on a Layer 2 off-chain transaction network for efficient and cost-effective governance.
+- Join existing data and knowledge sharing communities, such as [[Hugging Face]] and [[Petals.ML]] to incorporate and be aware of popularly available technologies and the latest trends.
+- Use [[Tool-LLM]] to automate the interactions with various [[DAO]]s.
+
+Step 6: Continuously Enhance Self-regulatory Governance Architecture
+
+- Leverage personalized knowledge-mining insights to evaluate and refine the DAO's governance processes regularly. The refinement and evaluation targets are stored and generated based on data formats that are compatible with Wiki Markdown syntax. Concepts learned from using [[Tool-LLM]]-like technologies will be adopted to enhance the self-regulatory governance practice, such as the [[DFSDT]] algorithm for making decisions from prior knowledge.
+- Utilize participant feedback with a universal [[DID]]-based social identity system, with personalized knowledge mining driving continuous improvement of the project's governance constitution.
+- Technical Infrastructure Requirement: Implement a feedback loop mechanism that integrates personalized knowledge-mining analytics into the governance process. Utilize reproducible tools like Nix OS and Docker for efficient deployment and management.
+- Use third-party tools through [[Tool-LLM]] to expand the diversity and capabilities of content verification/validation, and therefore improves the fairness and [[Correctness|correctness]] of governance architecture.
+
+Step 7: Facilitate Comprehensibility and Improvement through Collaborative Platforms
+
+- Present information using easily understandable formats, leveraging personalized knowledge mining to suggest relevant content to users.
+- Design an incentive model and [[liquidity]] mechanisms that encourages participants to share computation and communication resources. This includes the use of tools and services such as [[Petals.ML]] and [[IPFS]].
+- Create a collaborative platform that incorporates version control, feedback mechanisms, and personalized knowledge-mining-driven insights. This collaborative platform should be built using a generalized [[Agent]] model that incorporates [[Langchain]] and [[Tool-LLM]].
+- Incentive Component: Reward participants for contributing to platform enhancement, reinforcing a user-centric design approach. Utilize [[Network Attached Storage]] (NAS) and [[IPFS]] to reduce unnecessary public data storage costs and improve user experience.
+
+Integration of [[PKM]] and [[Smart Contract|Smart Contracts]] with Participant-Generated Content
+
+- The overall process should be modeled as a [[CICD]] workflow that iteratively and concurrently deploy data content and provide feedbacks and incentives through [[Smart Contract|Smart Contracts]]. This will be a direct implementation of the so-called [[Web3]] workflow. When participants will be making content changes on their own data repositories, and whenever their content gets pushed into a public repository, their contribution factors will be immediately registered by a [[Physical Meaning of Data|trust-worthy timestamp]]. Then, their contribution will be rewarded based on [[The Four Key Metrics|Four Key Metrics]] as defined by [[DORA]].
+- Encourage participants to contribute expertise in the overall [[CICD]] workflow by giving tokens or certificates based on metrics dynamically updated in the system. A payment system or contribution registration system should be implemented in a [[L2|Layer 2]] blockchain, so that it can be ensured by [[Bitcoin]] or other reliable main-net's timestamp, and be [[trustworthiness]] in high frequency activities, such as retail transactions under the [[Physical Meaning of Data#10 Minute Window on Blockchain|10 minute window]].
+- Incentive Models grounded on the [[The Four Key Metrics|Four Key Metrics]]: It is necessary to use [[PKC]] and other tools to consistently capture the contribution rates and content so that it will have a set of verified evidence to compute for the [[The Four Key Metrics|Four Key Metrics]]. It is also necessary to use these performance metrics to infer adequate incentive models for pricing the rewards and punishments for all participants and contributors. Only by having reliable data sources, the model can be considered [[sustainable]], and therefore align with the globally recognized [[SDGs]].
+- Integrate personalized knowledge mining to analyze participant-generated content using [[Smart Contract|smart contracts]], [[Langchain]], and [[Tool-LLM]]. These [[Reproducible|reproducible]] automation tools make process debugging more transparent and therefore enhance the security and effectiveness of personalized data assets.
+- Incentive Component: Provide bonuses to participants whose insights lead to improved smart contract designs. Utilize reproducible tools like [[NixOS]] and [[Docker]] for efficient deployment and management.
+
+By incorporating reproducible tools like [[NixOS]] and [[Docker]], utilizing [[L2|Layer 2]] blockchain transaction services, [[Smart Contract|smart contracts]], [[zkEVM]], and leveraging Network Attached Storage (NAS), the proposal for [[Personal Knowledge Mining]] can achieve improved efficiency, cost-effectiveness, and user experience. These enhancements ensure consistent deployment, secure transactions, reduced storage costs, and a seamless collaborative environment for participants.
+
+# References
+
+[[@nakamotoBitcoinPeertoPeerElectronic2008]]
+
+[[@simonsinstituteIntegratingLanguageIntelligent2023]]

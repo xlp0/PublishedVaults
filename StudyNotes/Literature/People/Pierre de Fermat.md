@@ -1,0 +1,3 @@
+#Number_Theory 
+
+[[Pierre de Fermat]] was a French mathematician who lived from 1607 to 1665. He is best known for his work in number theory and for [[Fermat's Last Theorem]]. Fermat made significant contributions to the development of calculus, probability theory, and analytic geometry. His most famous theorem, known as Fermat's Last Theorem, states that there are no three positive integers a, b, and c that satisfy the equation a^n + b^n = c^n for any integer value of n greater than 2. Fermat's Last Theorem remained unproven for over 350 years until it was finally proven by Andrew Wiles in 1994. Despite his mathematical achievements, Fermat was primarily a lawyer by profession. He is considered one of the most influential mathematicians in history.

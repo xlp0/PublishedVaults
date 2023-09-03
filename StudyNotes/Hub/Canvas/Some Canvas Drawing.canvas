@@ -1,1 +1,22 @@
-{}
+{
+	"nodes":[
+		{"type":"text","text":"The second card\n","id":"e6a924c515dd4bfe","x":220,"y":180,"width":250,"height":60},
+		{"type":"text","text":"The third\n","id":"1d753826cbec84ff","x":571,"y":180,"width":250,"height":60},
+		{"type":"file","file":"Hub/Canvas/A thought process.md","id":"c1b97e88194a061b","x":268,"y":-80,"width":250,"height":180},
+		{"type":"link","url":"https://www.facebook.com/pillowchang/","id":"d017947c0ef89df0","x":-40,"y":300,"width":480,"height":400},
+		{"type":"link","url":"https://www.youtube.com/watch?v=vn9Dq24RDn8","id":"8c9f60b4c9cd5b5a","x":-600,"y":-500,"width":640,"height":360},
+		{"id":"58e8742b4c030b31","x":860,"y":-50,"width":250,"height":60,"type":"text","text":"fdasfdas\ndf\nagf\ndsg"},
+		{"id":"9fa64d5c289c06f1","x":269,"y":-670,"width":471,"height":400,"type":"link","url":"https://www.wikiwand.com/en/Charles_Sanders_Peirce"},
+		{"type":"text","text":"William Zhang (張韶芹)","id":"ac44b398e853d840","x":940,"y":-400,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"697039e49bfb6197","fromNode":"c1b97e88194a061b","fromSide":"bottom","toNode":"e6a924c515dd4bfe","toSide":"top"},
+		{"id":"0ad6c7a030fbfd3f","fromNode":"e6a924c515dd4bfe","fromSide":"right","toNode":"1d753826cbec84ff","toSide":"left"},
+		{"id":"049f591109503f3b","fromNode":"1d753826cbec84ff","fromSide":"top","toNode":"c1b97e88194a061b","toSide":"right"},
+		{"id":"85305be81859d5d9","fromNode":"8c9f60b4c9cd5b5a","fromSide":"bottom","toNode":"c1b97e88194a061b","toSide":"top"},
+		{"id":"19649773dd694436","fromNode":"e6a924c515dd4bfe","fromSide":"bottom","toNode":"d017947c0ef89df0","toSide":"top"},
+		{"id":"f9bf80c188680d2a","fromNode":"1d753826cbec84ff","fromSide":"bottom","toNode":"d017947c0ef89df0","toSide":"right"},
+		{"id":"8c747c7514210d28","fromNode":"ac44b398e853d840","fromSide":"right","toNode":"58e8742b4c030b31","toSide":"top"},
+		{"id":"51b8978587954b84","fromNode":"9fa64d5c289c06f1","fromSide":"right","toNode":"ac44b398e853d840","toSide":"top"}
+	]
+}

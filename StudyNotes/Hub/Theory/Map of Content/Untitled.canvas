@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"8aed815dedcfb548","x":238,"y":-123,"width":250,"height":60,"type":"text","text":"Verifier"},
+		{"id":"9ac922876cb6dee8","x":-300,"y":-123,"width":250,"height":60,"type":"text","text":"Issuer"},
+		{"id":"428ad101347114d1","x":-40,"y":-280,"width":250,"height":60,"type":"text","text":"Holder"}
+	],
+	"edges":[
+		{"id":"8a36160cb8d33245","fromNode":"9ac922876cb6dee8","fromSide":"top","toNode":"428ad101347114d1","toSide":"left"},
+		{"id":"33d22a57e6168dc4","fromNode":"428ad101347114d1","fromSide":"right","toNode":"8aed815dedcfb548","toSide":"top"},
+		{"id":"f68007a243404ed0","fromNode":"8aed815dedcfb548","fromSide":"bottom","toNode":"9ac922876cb6dee8","toSide":"bottom","color":"4","label":"trust"}
+	]
+}

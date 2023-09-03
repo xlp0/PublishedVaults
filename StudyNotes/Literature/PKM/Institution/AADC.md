@@ -2,7 +2,7 @@
 Aliases: AADC, Age-Appropriate Design Code, Age Appropriate Design Code, Children's Code
 ---
 
-The [[AADC|Age-Appropriate Design Code]], also known as the [[AADC|Children's Code]], is a set of regulations introduced by the Information Commissioner's Office (ICO) in the United Kingdom. Its purpose is to ensure that online services are designed with the best interests of children in mind and to protect their privacy and safety.
+The [[AADC|Age-Appropriate Design Code]], also known as the [[AADC|Children's Code]], is a set of regulations introduced by the [[Information Commissioner's Office]] ([[ICO]]) in the United Kingdom. Its purpose is to ensure that online services are designed with the best interests of children in mind and to protect their privacy and safety.
 
 The code applies to any online service or platform that is likely to be accessed by children under the age of 18. This includes websites, apps, social media platforms, search engines, online games, and more. It covers a wide range of requirements that companies must adhere to when designing and developing their services.
 

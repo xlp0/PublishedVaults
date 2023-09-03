@@ -7,5 +7,5 @@ Create a Calendar here, using Dataview.
 
 
 ```dataview
-Calendar from "Fleeting/Diary"
+CALENDAR from "Fleeting/Diary"
 ```

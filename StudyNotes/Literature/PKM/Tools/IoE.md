@@ -1,0 +1,1 @@
+![[Internet of Things#Why is Internet of Things is also known as IoE|IoT]]

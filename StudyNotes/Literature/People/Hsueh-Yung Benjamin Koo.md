@@ -1,5 +1,5 @@
 ---
-Aliases: Ben Koo, Hsueh-Yung Koo, Benjamin Koo, Dr. Koo
+Aliases: Ben Koo（顧學雍）,顧學雍， Hsueh-Yung Koo, Benjamin Koo, Dr. Koo, 
 ---
 Dr. [Ben Koo](https://pkc.pub/wiki/Ben_Koo "Ben Koo") is a curriculum designer who has received a number of international honors. He has been a mechanical/software engineer since 1990, developing scalable information systems for global enterprises in the manufacturing, telecommunications, supply chain analytics, and aerospace industries.
 
@@ -15,15 +15,15 @@ In 2013, he began implementing blockchain technologies into classrooms to aid sc
 
 As an epistemological procedure for acquiring modern literacy, he also designed a three-tiered associate-degree curriculum beginning with [[Cognitive Foundation]], [[Computational Thinking]], and [[Industrial Frontier]] for interdisciplinary student teams who wish to systematically study with peers from different academic departments. Subsequently, he received numerous national, regional, and international educational innovation awards for his work, including the 2014 QS Reimagine Education Award and the 2015 UNESCO IITE Competition on the Use of ICT in Education.
 
-Dr. Koo relocated to [[Bali]] at the end of 2019 and began developing the Personal Knowledge Container ([[PKC]]) to enable individuals and small organizations to participate in global workflows by leveraging computable resources (software packages, data services, networked computation) across the open-source community. Starting in 2022, Dr. Koo started to work with Dr. [[Satryo Soemantri Brodjonegoro|Brodjonegoro]], president of the Indonesian Academy of Sciences, to initiate the initiative on the Science of Governance during [[G20 2022]] events in [[Bali]]. [[Science of Governance]] through Self-Administered Data is an effort to use PKC as an open-source implementation reference to incorporate data-intensive technologies into the governance practices of organizations of all sizes. Dr. Koo believes that contemporary citizens must be adequately educated in political numeracy, have a set of socially and physically meaningful interfaces to publicly witnessed community data as the basis for decision/policy making, and continuously examine the constitutional code's logical integrity to prevent systematic information asymmetry in society. Under the support of Coordinating Minister [[Luhut Binsar Pandjaitan]], Dr. Koo is assisting Prof. [[Yohanes Surya]] to roll out his [[GASing]] method, a nationwide math and science literacy program for the youth in Indonesia. The GASing program will use PKC as a trusted data platform to measure learning outcomes and safeguard the data sovereignty of individual participants. He is also instrumental in introducing IEEE Standards Association to the Indonesian government to incorporate the legal framework Age-Appropriate Design Code ([[AADC]]) as a national law. The legally-bound intention of data sovereignty and protection mechanisms are also designed into the architecture and operational procedures of [[PKC]]. 
+Dr. Koo relocated to [[Bali]] at the end of 2019 and began developing the Personal Knowledge Container ([[PKC]]) to enable individuals and small organizations to participate in global workflows by leveraging computable resources (software packages, data services, networked computation) across the open-source community. Starting in 2022, Dr. Koo started to work with Dr. [[Satryo Soemantri Brodjonegoro|Brodjonegoro]], President of the Indonesian Academy of Sciences, to kick-off the program on the Science of Governance during [[G20 2022]] events in [[Bali]]. [[Science of Governance]] through Self-Administered Data is an effort to use PKC as an open-source implementation reference to incorporate data-intensive technologies into the governance practices of organizations of all sizes. Dr. Koo believes that contemporary citizens must be adequately educated in political numeracy, have a set of socially and physically meaningful interfaces to publicly witnessed community data as the basis for decision/policy making, and continuously examine the constitutional code's logical integrity to prevent systematic information asymmetry in society. Under the support of Coordinating Minister [[Luhut Binsar Pandjaitan]], Dr. Koo is assisting Prof. [[Yohanes Surya]] to roll out his [[GASing]] method, a nationwide math and science literacy program for the youth in Indonesia. The GASing program will use PKC as a trusted data platform to measure learning outcomes and safeguard the data sovereignty of individual participants. He is also instrumental in introducing IEEE Standards Association to the Indonesian government to incorporate the legal framework Age-Appropriate Design Code ([[AADC]]) as a national law. The legally-bound intention of data sovereignty and protection mechanisms are also designed into the architecture and operational procedures of [[PKC]]. 
 
 [[Hsueh-Yung Benjamin Koo|Dr. Koo]] holds a bachelor's in Mechanical Engineering, a master's in Industrial Engineering from the University of Minnesota, a master's degree in Systems Design and Management, and a doctorate in Engineering Systems from the [[MIT|Massachusetts Institute of Technology]].
 # References
 
-[[@kooMetalanguageSystemsArchitecting]]
 
-[[@kooAlgebraSystemsMetalanguage2009]]
-
-[[@kooXLPOwnerManual]]
-
-[[@kooValuationTechnologyProduct2007]]
+```dataview
+TABLE title as TITLE, year as YEAR
+FROM "Literature/Reading notes"
+Where contains(authors, "Hsueh-Yung Benjamin Koo") or contains(authors, "Ben Koo") or contains(authors, "Benjamin H. Y. Koo")
+SORT file.mtime asc
+```

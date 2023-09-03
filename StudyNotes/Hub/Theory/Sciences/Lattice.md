@@ -21,3 +21,7 @@ In data analysis, a lattice can be used for:
     
 
 Overall, a lattice in data science refers to a structured arrangement of data points or values organized in a multidimensional space. It provides a framework for efficient exploration, summarization, and analysis of data across multiple dimensions. Lattices are particularly useful for categorical or discrete data, enabling researchers to visualize, navigate, and understand complex relationships within the dataset.
+
+# References
+
+[[@worldequationCountingPointsE82022|Counting points on the E8 lattice with modular forms (theta functions)]]

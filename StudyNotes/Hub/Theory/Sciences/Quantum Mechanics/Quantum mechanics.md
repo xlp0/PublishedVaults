@@ -24,3 +24,7 @@ While deep learning and the renormalization method are distinct fields with diff
 The relationship between deep learning and quantum mechanics is still an active area of research known as quantum deep learning or quantum enhanced machine learning. Scientists are exploring how principles from quantum mechanics can be incorporated into deep learning algorithms to improve their performance or solve certain problems more efficiently.
 
 In summary, while there are direct connections between statistical mechanics and quantum mechanics through quantum statistical mechanics, the relationship between these theories with data science and deep learning is still an [[emergence|emerging]] field of study. Researchers are actively exploring the potential benefits and applications of quantum mechanics in data science and deep learning, but much work remains to fully understand and utilize this relationship.
+
+# References
+
+[[@gabrielecarcassiWhatQuantumSystem2021|Quantum systems are Irreducible!]] by [[Gabriele Carcassi]]

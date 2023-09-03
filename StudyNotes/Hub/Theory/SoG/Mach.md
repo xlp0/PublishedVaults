@@ -3,7 +3,7 @@ Aliases: Mach, Mach Kernel
 ---
 #microkernel
 
-Mach is a microkernel-based operating system kernel that was originally developed at Carnegie Mellon University in the 1980s. It introduced several key features that set it apart from traditional monolithic kernels. The microkernel architecture aims to keep the kernel as small and minimal as possible, delegating most of the operating system services to user-level processes. Some of the main features of the Mach microkernel are as follows:
+Mach is a [[microkernel]]-based operating system kernel that was originally developed at Carnegie Mellon University in the 1980s. It introduced several key features that set it apart from traditional monolithic kernels. The microkernel architecture aims to keep the kernel as small and minimal as possible, delegating most of the operating system services to user-level processes. Some of the main features of the Mach microkernel are as follows:
 
 1. Microkernel Design: The primary feature of Mach is its microkernel design. It keeps the kernel minimal by moving many traditional kernel functions, such as device drivers, file systems, and network protocols, out of the kernel space and into user-level processes. This approach enhances the kernel's modularity and makes it easier to maintain and extend the system.
 
@@ -19,4 +19,4 @@ Mach is a microkernel-based operating system kernel that was originally develope
 
 7. Port-Based Device I/O: Devices in Mach are also accessed via ports, similar to how processes communicate. Device drivers run as user-level servers and handle device-specific operations. This design allows device drivers to be isolated from the kernel, increasing system stability and flexibility.
 
-While the microkernel design offers advantages such as better modularity and isolation, it also comes with potential performance overhead due to the message passing required for inter-process communication. Mach has influenced the development of other operating systems, and its concepts have been incorporated into various projects, including the GNU Hurd and macOS (formerly OS X).
+While the microkernel design offers advantages such as better modularity and isolation, it also comes with potential performance overhead due to the message passing required for inter-process communication. Mach has influenced the development of other operating systems, and its concepts have been incorporated into various projects, including the GNU Hurd and [[macOS]] (formerly OS X).

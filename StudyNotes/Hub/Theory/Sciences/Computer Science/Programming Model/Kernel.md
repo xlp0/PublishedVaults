@@ -24,7 +24,7 @@ Some key functions and responsibilities of the operating system kernel include:
 
 The kernel is loaded into memory when the computer starts, and it remains resident in memory throughout the computer's operation. Different operating systems have different kernel designs, which can be broadly categorized into two main types:
 
-1. Monolithic Kernel: In a monolithic kernel, most of the operating system's functionalities, including device drivers and file systems, are tightly integrated into the kernel's single address space. Monolithic kernels offer high performance but lack the modularity and fault isolation of microkernels.
+1. [[Monolithic Kernel]]: In a monolithic kernel, most of the operating system's functionalities, including device drivers and file systems, are tightly integrated into the kernel's single address space. Monolithic kernels offer high performance but lack the modularity and fault isolation of microkernels.
 
 2. [[Micro Kernel|Microkernel]]: In a microkernel, the kernel provides only the essential services, such as process and memory management, while other services are implemented as separate user-level processes called servers. Microkernels offer better modularity and fault isolation, but the additional communication between servers can introduce performance overhead.
 

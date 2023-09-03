@@ -1,0 +1,2 @@
+
+A Cauchy sequence is a sequence of real or complex numbers in which the terms become arbitrarily close to each other as the sequence progresses. More formally, a sequence (x_n) is considered to be a Cauchy sequence if, for any positive real number ε, there exists a positive integer N such that for all m,n > N, the absolute difference between x_m and x_n is less than ε. In other words, the terms of the sequence eventually get arbitrarily close to each other and stay close together as the sequence progresses.

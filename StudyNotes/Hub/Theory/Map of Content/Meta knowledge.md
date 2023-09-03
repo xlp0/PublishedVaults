@@ -1,7 +1,7 @@
 ---
 Aliases: Meta Knowledge, meta knowledge, Meta knowledge
 ---
-[[Meta knowledge]], also known as metacognition, refers to the awareness and understanding of one's own cognitive processes and the ability to regulate and control these processes. It involves knowledge about how we think, learn, remember, and solve problems.
+[[Hub/Theory/Map of Content/Meta knowledge]], also known as metacognition, refers to the awareness and understanding of one's own cognitive processes and the ability to regulate and control these processes. It involves knowledge about how we think, learn, remember, and solve problems.
 
 In cognitive science, meta knowledge is often studied to understand how individuals monitor and regulate their own thinking and learning strategies. It includes knowledge about one's own strengths and weaknesses in different cognitive tasks, the ability to set goals and plan strategies to achieve those goals, monitor progress towards the goals, evaluate the effectiveness of strategies used, and make adjustments when necessary.
 

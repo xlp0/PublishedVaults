@@ -13,6 +13,9 @@ DevOps research and assessment methodologies often use deployment frequency as a
 
 Measuring deployment frequency allows organizations to track their progress towards achieving DevOps goals such as increased agility, faster time-to-market, and improved customer satisfaction. It also helps identify bottlenecks or areas for improvement in the software delivery pipeline.
 
+## Relating to Zettlekasten Method
+For example, one could measure the [[Deployment Frequency|deployment frequency]] of a knowledge worker by how many [[Permanent]] notes one produces per day.
+
 To measure deployment frequency, organizations typically track the number of deployments made within a specific time period, such as daily or weekly. This metric provides insights into how frequently new features, bug fixes, or enhancements are being released to end-users.
 
 Organizations can use this data to set performance targets and compare their deployment frequency with industry benchmarks or competitors. It can also be used as a basis for evaluating process improvements or assessing the impact of changes made to the development workflow.

@@ -1,7 +1,7 @@
 ---
 Aliases: James Maxwell, James C. Maxwell, Maxwell
 ---
-James Clerk Maxwell was a Scottish physicist and mathematician born on June 13, 1831, in [[Edinburgh, Scotland]]. He is widely regarded as one of the most influential scientists in history and made significant contributions to various areas of physics and mathematics, particularly in the field of electromagnetism.
+James Clerk Maxwell was a Scottish physicist and mathematician born on June 13, 1831, in [[Edinburgh, Scotland 1]]. He is widely regarded as one of the most influential scientists in history and made significant contributions to various areas of physics and mathematics, particularly in the field of electromagnetism.
 
 Maxwell's early education took place at home, where he received a strong foundation in mathematics from his mother. He later attended the University of Edinburgh and the University of Cambridge, where he pursued his studies in physics and mathematics.
 

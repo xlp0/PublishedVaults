@@ -13,6 +13,6 @@ The composition operator (∘) satisfies the following properties:
 
 1. Associativity: For any three morphisms f: A → B, g: B → C, and h: C → D, their compositions are associative, meaning (h ∘ g) ∘ f = h ∘ (g ∘ f). This allows you to chain together multiple morphisms in a category without ambiguity.
 
-2. Identity: For every object A, there exists an identity morphism idA: A → A, such that for any morphism f: A → B, the compositions idB ∘ f = f and f ∘ idA = f. The identity morphism serves as an identity element for composition and ensures that every morphism can be composed with the appropriate identity morphisms.
+2. Identity(恒等): For every object A, there exists an identity morphism idA: A → A, such that for any morphism f: A → B, the compositions idB ∘ f = f and f ∘ idA = f. The identity morphism serves as an identity element for composition and ensures that every morphism can be composed with the appropriate identity morphisms.
 
 Composability is a powerful concept in category theory because it allows for the construction of complex structures from simpler ones by combining morphisms in different ways. It provides a framework for analyzing and reasoning about various mathematical structures and systems, including algebraic structures, topological spaces, and even programming languages. The notion of [[Composability|composability]] is highly related to [[Modularity|modularity]].

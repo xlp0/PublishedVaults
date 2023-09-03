@@ -1,4 +1,6 @@
-CID stands for Content Identifier. In [[IPFS]] (InterPlanetary File System), a Content Identifier (CID) is a unique identifier assigned to each piece of content stored within the system. It serves as a reference to locate and retrieve the content from the IPFS network.
+#hash
+
+[[CID]] stands for Content Identifier. In [[IPFS]] (InterPlanetary File System), a Content Identifier (CID) is a unique identifier assigned to each piece of content stored within the system. It serves as a reference to locate and retrieve the content from the IPFS network.
 
 A CID is derived by applying a hash function to the content's data, resulting in a fixed-length string of characters. This hash function ensures that even a minor change in the content will produce a completely different CID. Therefore, CIDs can be used for content integrity verification, as any alteration to the content will result in a different CID.
 

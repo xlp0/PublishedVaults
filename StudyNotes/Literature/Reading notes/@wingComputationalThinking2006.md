@@ -9,3 +9,4 @@ URL: https://doi.org/10.1145/1118178.1118215
 
 ## A Diagram
 
+![[ComputationalThinkingDiagram_by_Wing.png]]

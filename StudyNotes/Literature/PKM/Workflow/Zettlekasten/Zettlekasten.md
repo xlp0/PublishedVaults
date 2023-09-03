@@ -5,9 +5,11 @@ One way to organize groups to conduct [[Zettlekasten Workflow]] is to following 
 ## Relating to XLP and Zotero
 It terms out that [[XLP]] and [[Zotero]] follow a similar data organizing strategy like [[Zettlekasten Workflow]]. The notion of [[Convergence]] in [[XLP]] is similar to the notion of [[Literature]] in [[Zettlekasten]], which in turn is similar to the way [[Zotero]] manages the [[My Library]] directory.
 
-## Some Tutorials
+# References
+![[@vickyzhao[beeamp]ZettelkastenMethodExplained2021]]
 
-![Zettelkasten Introduction (Simple & Complete Explanation)](https://www.youtube.com/watch?v=Q2zY7l2tzoQ)
 
-### Using Obsidian for Zettlekasten
-![# Zettelkasten Obsidian Tutorial (Simplest way)](https://www.youtube.com/watch?v=ATXERF3MiIY&t=1s)
+[Zettelkasten Introduction (Simple & Complete Explanation)](https://www.youtube.com/watch?v=Q2zY7l2tzoQ)
+
+
+[# Zettelkasten Obsidian Tutorial (Simplest way)](https://www.youtube.com/watch?v=ATXERF3MiIY&t=1s)

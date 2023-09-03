@@ -25,3 +25,7 @@ Key concepts and topics in linear algebra include:
 8. Orthogonality: In vector spaces with an inner product, orthogonality refers to the perpendicularity of vectors. Orthogonal vectors are essential in many applications, such as finding bases and solving least-squares problems.
 
 Linear algebra provides a fundamental framework for solving problems involving linear relationships and is an essential tool in many fields of science and engineering. It serves as a cornerstone for more advanced mathematical concepts and techniques and is an integral part of the mathematical foundation for various areas of study.
+
+# References
+
+[[@blargonerBestLinearAlgebra2022]]
