@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/People/Vladmir Voevodsky.md",
+                "file": "Fleeting/Home.md",
                 "mode": "preview",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/People/Vladmir Voevodsky.md"
+                "file": "Fleeting/Home.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/People/Vladmir Voevodsky.md",
+                "file": "Fleeting/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,19 +163,7 @@
             }
           },
           {
-            "id": "11cd06bd85c2c0a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fleeting/Home.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d079b6978ea2f68",
+            "id": "62e4cd2e3ca9b0ee",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -183,7 +171,7 @@
             }
           },
           {
-            "id": "462add10eb147cec",
+            "id": "3098efd93ae23f34",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -191,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       },
       {
         "id": "4dbad1a34e0b2a5c",
@@ -204,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/People/Vladmir Voevodsky.md",
+                "file": "Fleeting/Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -240,7 +228,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bd8747971879722a",
+  "active": "3098efd93ae23f34",
   "lastOpenFiles": [
     "Literature/People/Tiago Forte.md",
     "Literature/People/Thomas G. Dietterich.md",
