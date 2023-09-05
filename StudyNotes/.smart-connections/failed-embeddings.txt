@@ -2,6 +2,7 @@
 Hub/ExcaliBrain/excalibrain.md
 Hub/ExcaliBrain/excalibrain.md#Drawing
 Hub/ExcaliBrain/excalibrain.md#Text Elements
+Fleeting/Initial Note.md#A Short Introduction to Obsidian
 Hub/ExcaliBrain/excalibrain.md#Drawing
 Hub/ExcaliBrain/excalibrain.md#Text Elements
 Hub/Theory/Sciences/Computer Science/Programming Model/REPL in Excalidraw.md#Drawing

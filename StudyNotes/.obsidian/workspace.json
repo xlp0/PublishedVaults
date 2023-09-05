@@ -11,8 +11,12 @@
             "id": "f0641290e28f7d54",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting/Initial Note.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -93,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting/Home.md"
+                "file": "Fleeting/Initial Note.md"
               }
             }
           },
@@ -127,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting/Home.md",
+                "file": "Fleeting/Initial Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +154,7 @@
             }
           },
           {
-            "id": "3098efd93ae23f34",
+            "id": "c2700c861e04ee45",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,15 +166,23 @@
             }
           },
           {
-            "id": "c2700c861e04ee45",
+            "id": "e72a23705fa435fc",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
               "state": {}
             }
+          },
+          {
+            "id": "fb2ac2730797ae6d",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       },
       {
         "id": "4dbad1a34e0b2a5c",
@@ -183,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting/Home.md",
+                "file": "Fleeting/Initial Note.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse",
@@ -219,8 +231,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c2700c861e04ee45",
+  "active": "f0641290e28f7d54",
   "lastOpenFiles": [
+    "Fleeting/Chou.md",
+    "Fleeting/Initial Note.md",
+    "Hub/Theory/Space.md",
+    "Fleeting/Home.md",
     "Literature/People/Tiago Forte.md",
     "Literature/People/Thomas G. Dietterich.md",
     "Literature/Media/Bitcoin L2 Proposal.md",
@@ -231,7 +247,6 @@
     "SOME UNIQUE LINK in STUDY NOTE.md",
     "Literature/PKM/personal knowledge management.md",
     "Literature/PKM/Tools/Virtualization/PKC.md",
-    "Fleeting/Home.md",
     "conflict-files-obsidian-git.md",
     "Hub/Theory/Sciences/Quantum Mechanics/Dirichlet Character.md",
     "Literature/Reading notes/@worldequationDirichletCharactersParticles2023.md",
@@ -244,9 +259,6 @@
     "Literature/Reading notes/@PDFQuantumInformation.md",
     "Hub/Theory/Sciences/Computer Science/Programming Model/Accounting.md",
     "Literature/Reading notes/@demskiQuantumInformationAccounting2006.md",
-    "Literature/Reading notes/@pbsinfiniteseriesYourBrainMath2017.md",
-    "Literature/Reading notes/@pbsinfiniteseriesMathematicsQuantumComputers2017.md",
-    "Literature/Reading notes/@gabrielecarcassiWhatQuantumSystem2021.md",
     "z_Attachments/PDF/AssumptionOfPhysics.pdf",
     "Literature/People/Assumption of Physics.canvas",
     "z_Attachments/Recording 20230826133501.webm",

@@ -3,6 +3,8 @@
 
 One may use _Command E_ to toggle back and forth between editing and viewing mode.
 
+
+Welcome Prof. [[Chou]]. 
 ### Hyperlink to other content
 To go to a different note in Obsidian: `[[PKC]]` shown as: [[PKC]]
 External link: `[CNN](http://www.cnn.com)` shown as: [CNN](http://www.cnn.com)
